@@ -1,0 +1,976 @@
+[
+  {
+    "Id": 1,
+    "Name": "Balsamico Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "balsamicodressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico"
+          },
+          {
+            "Name": "4 TL Wasser (nicht zu kalt)"
+          },
+          {
+            "Name": "1-1,5 TL Senf"
+          },
+          {
+            "Name": "3 TL Honig"
+          },
+          {
+            "Name": "1 Prise Zucker"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Dill-Senf Sauce",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "dillsenfsauce.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2-3 EL Zucker"
+          },
+          {
+            "Name": "2 EL Dijonsenf"
+          },
+          {
+            "Name": "2 EL Honig"
+          },
+          {
+            "Name": "1 TL Senfkörner, gemahlen"
+          },
+          {
+            "Name": "1,5 EL Essig"
+          },
+          {
+            "Name": "2,5 EL Wasser "
+          },
+          {
+            "Name": "2 EL Dill, fein gehackt"
+          },
+          {
+            "Name": "4 EL Öl (kein Olivenöl)"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten, bis auf das Öl und den Dill, gut vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den gehackten Dill unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Die Sauce für mindestens eine Stunde im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Tsatsiki",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g griechischer Joghurt 10% Fett"
+          },
+          {
+            "Name": "1 große Salatgurke"
+          },
+          {
+            "Name": "2-3 frische Knoblauchzehen"
+          },
+          {
+            "Name": "1 Handvoll frischer Dill"
+          },
+          {
+            "Name": "1 EL Olivenöl "
+          },
+          {
+            "Name": "2 EL Balsamico (hell)"
+          },
+          {
+            "Name": "Spritzer Zitronensaft"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Dill waschen und fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Salatgurke in einem Küchentuch sanft ausdrücken, bis kein Wasser mehr kommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Zutaten vermischen und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mindestens 4 Stunden im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Balsamico Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "balsamicodressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico"
+          },
+          {
+            "Name": "4 TL Wasser (nicht zu kalt)"
+          },
+          {
+            "Name": "1-1,5 TL Senf"
+          },
+          {
+            "Name": "3 TL Honig"
+          },
+          {
+            "Name": "1 Prise Zucker"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Name": "Kartoffelsuppe mit Champignons und Bacon",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "dillsenfsauce.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2-3 EL Zucker"
+          },
+          {
+            "Name": "2 EL Dijonsenf"
+          },
+          {
+            "Name": "2 EL Honig"
+          },
+          {
+            "Name": "1 TL Senfkörner, gemahlen"
+          },
+          {
+            "Name": "1,5 EL Essig"
+          },
+          {
+            "Name": "2,5 EL Wasser "
+          },
+          {
+            "Name": "2 EL Dill, fein gehackt"
+          },
+          {
+            "Name": "4 EL Öl (kein Olivenöl)"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten, bis auf das Öl und den Dill, gut vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den gehackten Dill unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Die Sauce für mindestens eine Stunde im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Tsatsiki",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g griechischer Joghurt 10% Fett"
+          },
+          {
+            "Name": "1 große Salatgurke"
+          },
+          {
+            "Name": "2-3 frische Knoblauchzehen"
+          },
+          {
+            "Name": "1 Handvoll frischer Dill"
+          },
+          {
+            "Name": "1 EL Olivenöl "
+          },
+          {
+            "Name": "2 EL Balsamico (hell)"
+          },
+          {
+            "Name": "Spritzer Zitronensaft"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Dill waschen und fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Salatgurke in einem Küchentuch sanft ausdrücken, bis kein Wasser mehr kommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Zutaten vermischen und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mindestens 4 Stunden im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Balsamico Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "balsamicodressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico"
+          },
+          {
+            "Name": "4 TL Wasser (nicht zu kalt)"
+          },
+          {
+            "Name": "1-1,5 TL Senf"
+          },
+          {
+            "Name": "3 TL Honig"
+          },
+          {
+            "Name": "1 Prise Zucker"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Dill-Senf Sauce",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "dillsenfsauce.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2-3 EL Zucker"
+          },
+          {
+            "Name": "2 EL Dijonsenf"
+          },
+          {
+            "Name": "2 EL Honig"
+          },
+          {
+            "Name": "1 TL Senfkörner, gemahlen"
+          },
+          {
+            "Name": "1,5 EL Essig"
+          },
+          {
+            "Name": "2,5 EL Wasser "
+          },
+          {
+            "Name": "2 EL Dill, fein gehackt"
+          },
+          {
+            "Name": "4 EL Öl (kein Olivenöl)"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten, bis auf das Öl und den Dill, gut vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den gehackten Dill unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Die Sauce für mindestens eine Stunde im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Tsatsiki",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g griechischer Joghurt 10% Fett"
+          },
+          {
+            "Name": "1 große Salatgurke"
+          },
+          {
+            "Name": "2-3 frische Knoblauchzehen"
+          },
+          {
+            "Name": "1 Handvoll frischer Dill"
+          },
+          {
+            "Name": "1 EL Olivenöl "
+          },
+          {
+            "Name": "2 EL Balsamico (hell)"
+          },
+          {
+            "Name": "Spritzer Zitronensaft"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Dill waschen und fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Salatgurke in einem Küchentuch sanft ausdrücken, bis kein Wasser mehr kommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Zutaten vermischen und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mindestens 4 Stunden im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Balsamico Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "balsamicodressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico"
+          },
+          {
+            "Name": "4 TL Wasser (nicht zu kalt)"
+          },
+          {
+            "Name": "1-1,5 TL Senf"
+          },
+          {
+            "Name": "3 TL Honig"
+          },
+          {
+            "Name": "1 Prise Zucker"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Dill-Senf Sauce",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "dillsenfsauce.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2-3 EL Zucker"
+          },
+          {
+            "Name": "2 EL Dijonsenf"
+          },
+          {
+            "Name": "2 EL Honig"
+          },
+          {
+            "Name": "1 TL Senfkörner, gemahlen"
+          },
+          {
+            "Name": "1,5 EL Essig"
+          },
+          {
+            "Name": "2,5 EL Wasser "
+          },
+          {
+            "Name": "2 EL Dill, fein gehackt"
+          },
+          {
+            "Name": "4 EL Öl (kein Olivenöl)"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten, bis auf das Öl und den Dill, gut vermischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den gehackten Dill unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Die Sauce für mindestens eine Stunde im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Tsatsiki",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g griechischer Joghurt 10% Fett"
+          },
+          {
+            "Name": "1 große Salatgurke"
+          },
+          {
+            "Name": "2-3 frische Knoblauchzehen"
+          },
+          {
+            "Name": "1 Handvoll frischer Dill"
+          },
+          {
+            "Name": "1 EL Olivenöl "
+          },
+          {
+            "Name": "2 EL Balsamico (hell)"
+          },
+          {
+            "Name": "Spritzer Zitronensaft"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Dill waschen und fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Salatgurke in einem Küchentuch sanft ausdrücken, bis kein Wasser mehr kommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Zutaten vermischen und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mindestens 4 Stunden im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Gazpacho",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "Mit Garnelen und oder Croûtons servieren ",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "gazpacho.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "600g reife Tomaten"
+          },
+          {
+            "Name": "150g Gurke"
+          },
+          {
+            "Name": "3/4 rote Paprika"
+          },
+          {
+            "Name": "0,5 gelbe Paprika"
+          },
+          {
+            "Name": "0,5 Zwiebeln"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "1/4 Baguette"
+          },
+          {
+            "Name": "1 TL Paprikapulver"
+          },
+          {
+            "Name": "2 EL Apfelessig "
+          },
+          {
+            "Name": "6 EL Olivenöl"
+          },
+          {
+            "Name": "Chiliflocken"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Wasser"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Gurken, Zwiebel und Knoblauch schälen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Gesamtes Gemüse waschen und in kleine grobe Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Baguette in kleine grobe Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach belieben) und etwas Salz geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Gut umrühren und 25 Minuten ziehen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Den Ansatz mixen. Sollte es zu dickflüssig sein, dann nach und nach Wasser dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Nochmal mit Salz, Pfeffer und Zucker abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Die Suppe für mindestens 4 Stunden in den Kühlschrank geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Vor dem Servieren die Suppe passieren ",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  }
+]
