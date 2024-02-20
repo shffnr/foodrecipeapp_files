@@ -330,5 +330,123 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 5,
+    "Name": "Gazpacho Mit Substep",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "Mit Garnelen und oder Croûtons servieren ",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "gazpacho.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "600g reife Tomaten"
+          },
+          {
+            "Name": "150g Gurke"
+          },
+          {
+            "Name": "3/4 rote Paprika"
+          },
+          {
+            "Name": "0,5 gelbe Paprika"
+          },
+          {
+            "Name": "0,5 Zwiebeln"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "1/4 Baguette"
+          },
+          {
+            "Name": "1 TL Paprikapulver"
+          },
+          {
+            "Name": "2 EL Apfelessig "
+          },
+          {
+            "Name": "6 EL Olivenöl"
+          },
+          {
+            "Name": "Chiliflocken"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Wasser"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Gurken, Zwiebel und Knoblauch schälen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Gesamtes Gemüse waschen und in kleine grobe Stücke schneiden",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Baguette in kleine grobe Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach belieben) und etwas Salz geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Gut umrühren und 25 Minuten ziehen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Den Ansatz mixen. Sollte es zu dickflüssig sein, dann nach und nach Wasser dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Nochmal mit Salz, Pfeffer und Zucker abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Die Suppe für mindestens 4 Stunden in den Kühlschrank geben",
+            "IsSubStep": true
+          },
+          {
+            "Id": 9,
+            "Description": "Vor dem Servieren die Suppe passieren ",
+            "IsSubStep": true
+          }
+        ]
+      }
+    ]
   }
 ]
