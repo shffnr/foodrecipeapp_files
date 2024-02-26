@@ -20,7 +20,7 @@
             "Name": "2 EL Balsamico"
           },
           {
-            "Name": "4 TL Wasser (nicht zu kalt)"
+            "Name": "2 EL Wasser (nicht zu kalt)"
           },
           {
             "Name": "1-1,5 TL Senf"
@@ -49,11 +49,16 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander vermischen",
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander verrühren",
             "IsSubStep": false
           },
           {
             "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
             "Description": "Mit Salz und Pfeffer abschmecken",
             "IsSubStep": false
           }
@@ -63,6 +68,73 @@
   },
   {
     "Id": 2,
+    "Name": "Honig-Senf Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "honigsenfdressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico (hell)"
+          },
+          {
+            "Name": "2 EL Wasser"
+          },
+          {
+            "Name": "4 TL Honig"
+          },
+          {
+            "Name": "4 TL Senf"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Zucker"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig und Senf mit einem Schneebesen miteinander verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Mit Salz, Pfeffer und Zucker abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
     "Name": "Dill-Senf Sauce",
     "Duration": "70 Minuten",
     "NumberOfPersons": "2",
@@ -134,7 +206,7 @@
     ]
   },
   {
-    "Id": 3,
+    "Id": 4,
     "Name": "Tsatsiki",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
@@ -206,125 +278,7 @@
           },
           {
             "Id": 5,
-            "Description": "Mindestens 4 Stunden im Kühlschrank ziehen lassen",
-            "IsSubStep": false
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "Id": 4,
-    "Name": "Gazpacho",
-    "Duration": "5 Stunden",
-    "NumberOfPersons": "4",
-    "Optional": "Mit Garnelen und oder Croûtons servieren ",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "gazpacho.jpg",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "200°C"
-    },
-    "Ingredients": [
-      {
-        "Description": "Zutaten",
-        "Foods": [
-          {
-            "Name": "600g reife Tomaten"
-          },
-          {
-            "Name": "150g Gurke"
-          },
-          {
-            "Name": "3/4 rote Paprika"
-          },
-          {
-            "Name": "0,5 gelbe Paprika"
-          },
-          {
-            "Name": "0,5 Zwiebeln"
-          },
-          {
-            "Name": "2 Knoblauchzehen"
-          },
-          {
-            "Name": "1/4 Baguette"
-          },
-          {
-            "Name": "1 TL Paprikapulver"
-          },
-          {
-            "Name": "2 EL Apfelessig "
-          },
-          {
-            "Name": "6 EL Olivenöl"
-          },
-          {
-            "Name": "Chiliflocken"
-          },
-          {
-            "Name": "Zucker"
-          },
-          {
-            "Name": "Salz"
-          },
-          {
-            "Name": "Pfeffer"
-          },
-          {
-            "Name": "Wasser"
-          }
-        ]
-      }
-    ],
-    "Preparations": [
-      {
-        "Description": "Zubereitung",
-        "Steps": [
-          {
-            "Id": 1,
-            "Description": "Gurken, Zwiebel und Knoblauch schälen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 2,
-            "Description": "Gesamtes Gemüse waschen und in kleine grobe Stücke schneiden",
-            "IsSubStep": false
-          },
-          {
-            "Id": 3,
-            "Description": "Baguette in kleine grobe Stücke schneiden",
-            "IsSubStep": false
-          },
-          {
-            "Id": 4,
-            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach belieben) und etwas Salz geben",
-            "IsSubStep": false
-          },
-          {
-            "Id": 5,
-            "Description": "Gut umrühren und 25 Minuten ziehen lassen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 6,
-            "Description": "Den Ansatz mixen. Sollte es zu dickflüssig sein, dann nach und nach Wasser dazugeben",
-            "IsSubStep": false
-          },
-          {
-            "Id": 7,
-            "Description": "Nochmal mit Salz, Pfeffer und Zucker abschmecken",
-            "IsSubStep": false
-          },
-          {
-            "Id": 8,
-            "Description": "Die Suppe für mindestens 4 Stunden in den Kühlschrank geben",
-            "IsSubStep": false
-          },
-          {
-            "Id": 9,
-            "Description": "Vor dem Servieren die Suppe passieren ",
+            "Description": "Mindestens vier Stunden im Kühlschrank ziehen lassen",
             "IsSubStep": false
           }
         ]
@@ -333,7 +287,7 @@
   },
   {
     "Id": 5,
-    "Name": "Gazpacho Mit Substep",
+    "Name": "Gazpacho",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
     "Optional": "Mit Garnelen und oder Croûtons servieren ",
@@ -394,56 +348,6 @@
             "Name": "Wasser"
           }
         ]
-      },
-      {
-        "Description": "Zutaten Teil 2",
-        "Foods": [
-          {
-            "Name": "600g reife Tomaten"
-          },
-          {
-            "Name": "150g Gurke"
-          },
-          {
-            "Name": "3/4 rote Paprika"
-          },
-          {
-            "Name": "0,5 gelbe Paprika"
-          },
-          {
-            "Name": "0,5 Zwiebeln"
-          },
-          {
-            "Name": "2 Knoblauchzehen"
-          },
-          {
-            "Name": "1/4 Baguette"
-          },
-          {
-            "Name": "1 TL Paprikapulver"
-          },
-          {
-            "Name": "2 EL Apfelessig "
-          },
-          {
-            "Name": "6 EL Olivenöl"
-          },
-          {
-            "Name": "Chiliflocken"
-          },
-          {
-            "Name": "Zucker"
-          },
-          {
-            "Name": "Salz"
-          },
-          {
-            "Name": "Pfeffer"
-          },
-          {
-            "Name": "Wasser"
-          }
-        ]
       }
     ],
     "Preparations": [
@@ -458,7 +362,7 @@
           {
             "Id": 2,
             "Description": "Gesamtes Gemüse waschen und in kleine grobe Stücke schneiden",
-            "IsSubStep": true
+            "IsSubStep": false
           },
           {
             "Id": 3,
@@ -467,7 +371,7 @@
           },
           {
             "Id": 4,
-            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach belieben) und etwas Salz geben",
+            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach Belieben) und etwas Salz geben",
             "IsSubStep": false
           },
           {
@@ -487,63 +391,371 @@
           },
           {
             "Id": 8,
-            "Description": "Die Suppe für mindestens 4 Stunden in den Kühlschrank geben",
-            "IsSubStep": true
+            "Description": "Die Suppe für mindestens vier Stunden in den Kühlschrank geben",
+            "IsSubStep": false
           },
           {
             "Id": 9,
             "Description": "Vor dem Servieren die Suppe passieren ",
-            "IsSubStep": true
+            "IsSubStep": false
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Kartoffelsuppe mit Champignons und Bacon",
+    "Duration": "60 Minuten",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "Kartoffelsuppe.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
       {
-        "Description": "Zubereitung Teil 2",
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "800ml Gemüsebrühe"
+          },
+          {
+            "Name": "400g Kartoffeln (festkochend)"
+          },
+          {
+            "Name": "1 Zwiebel (klein) "
+          },
+          {
+            "Name": "60g Sellerie (Knolle) "
+          },
+          {
+            "Name": "1 Stück Karotte "
+          },
+          {
+            "Name": "2 Zweige Petersilie (glatt)"
+          },
+          {
+            "Name": "1/2 Knoblauchzehe "
+          },
+          {
+            "Name": "1 Lorbeerblatt "
+          },
+          {
+            "Name": "1/3 TL Kreuz- oder Kümmel "
+          },
+          {
+            "Name": "0,25 TL Chiliflocken "
+          },
+          {
+            "Name": "Zitronenschale  "
+          },
+          {
+            "Name": "1 Prise Muskatnuss"
+          },
+          {
+            "Name": "200g Schlagsahne"
+          },
+          {
+            "Name": "200g Champignons"
+          },
+          {
+            "Name": "Bacon"
+          },
+          {
+            "Name": "Öl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
         "Steps": [
           {
             "Id": 1,
-            "Description": "Gurken, Zwiebel und Knoblauch schälen",
+            "Description": "Wasser aufsetzen und Gemüsebrühe hinzugeben",
             "IsSubStep": false
           },
           {
             "Id": 2,
-            "Description": "Gesamtes Gemüse waschen und in kleine grobe Stücke schneiden",
-            "IsSubStep": true
+            "Description": "Karotte, Kartoffeln und Zwiebel schälen und in grobe Stücke schneiden. Ebenfalls Sellerie und die Petersilie in grobe Stücke schneiden und den Knoblauch pressen",
+            "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Baguette in kleine grobe Stücke schneiden",
+            "Description": "Öl  im Topf erhitzen und das Gemüse kurz anbraten",
             "IsSubStep": false
           },
           {
             "Id": 4,
-            "Description": "Das geschnittene Gemüse und das Baguette in eine Schüssel mit Zucker, Apfelessig, Paprikapulver, Olivenöl, Chiliflocken (nach belieben) und etwas Salz geben",
+            "Description": "Etwas Salz, Pfeffer, (Kreuz-)Kümmel und die Chiliflocken dazugeben; kurz mit anbraten und dann mit der Gemüsebrühe ablöschen",
             "IsSubStep": false
           },
           {
             "Id": 5,
-            "Description": "Gut umrühren und 25 Minuten ziehen lassen",
+            "Description": "Lorbeerblatt dazugeben und das Ganze leicht köcheln lassen, bis die Kartoffeln und die Karotten durch sind",
             "IsSubStep": false
           },
           {
             "Id": 6,
-            "Description": "Den Ansatz mixen. Sollte es zu dickflüssig sein, dann nach und nach Wasser dazugeben",
+            "Description": "Pürieren und anschließend die Schlagsahne dazugeben. Alles nochmals aufkochen lassen",
             "IsSubStep": false
           },
           {
             "Id": 7,
-            "Description": "Nochmal mit Salz, Pfeffer und Zucker abschmecken",
+            "Description": "Vor dem Servieren abschmecken und Muskatnuss und etwas geriebene Zitronenschale dazugeben. Sollte etwas Säure fehlen, dann etwas Zitronensaft dazugeben",
             "IsSubStep": false
           },
           {
             "Id": 8,
-            "Description": "Die Suppe für mindestens 4 Stunden in den Kühlschrank geben",
-            "IsSubStep": true
+            "Description": "Topping: Bacon und Champignons in der Pfanne zu-bereiten",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Geröstete Tomatensuppe",
+    "Duration": "45 Minuten",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tomatencremesuppe.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1,2kg Tomaten"
+          },
+          {
+            "Name": "2 rote Zwiebeln"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "1,5 TL Cayennepfeffer"
+          },
+          {
+            "Name": "1 EL Balsamico-Essig"
+          },
+          {
+            "Name": "150ml Schlagsahne"
+          },
+          {
+            "Name": "700ml Gemüsebrühe"
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebeln und Knoblauch schälen und in grobe Stücke schneiden; die Tomaten in Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Backofen vorheizen; reichlich Olivenöl im Bräter erhitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Zwiebeln und Knoblauch scharf mit Salz und Cayennepfeffer anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Tomaten, etwas Zucker, gemahlenen Pfeffer und Balsamico-Essig dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Bräter für 25 Minuten in den Backofen geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Gemüsebrühe zubereiten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Ansatz aus dem Ofen holen und mit Schlagsahne und Gemüsebrühe auffüllen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Mit einem Mixer pürieren und einmal aufkochen lassen",
+            "IsSubStep": false
           },
           {
             "Id": 9,
-            "Description": "Vor dem Servieren die Suppe passieren ",
-            "IsSubStep": true
+            "Description": "Die Suppe passieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Mit Salz, Pfeffer und Zucker abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Karotten-Ingwer-Kokos Suppe",
+    "Duration": "50 Minuten ",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "karotteningwerkokussuppe.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "450ml Gemüsebrühe"
+          },
+          {
+            "Name": "1 Zwiebel"
+          },
+          {
+            "Name": "500g Karotten"
+          },
+          {
+            "Name": "1 EL Currypulver"
+          },
+          {
+            "Name": "1 TL Honig"
+          },
+          {
+            "Name": "100ml Weißwein"
+          },
+          {
+            "Name": "100ml Orangensaft"
+          },
+          {
+            "Name": "1 TL Ingwer"
+          },
+          {
+            "Name": "400ml Kokosmilch"
+          },
+          {
+            "Name": "1 TL Currypaste"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Shrimps / Garnelen"
+          },
+          {
+            "Name": "Olivenöl"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Wasser erhitzen und Gemüsebrühe hinzufügen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Karotten und Zwiebeln schälen und in kleine Scheiben schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Olivenöl in einem Topf erhitzen und Zwiebeln anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Nach kurzer Zeit die Karotten dazugeben und für 5 Minuten kräftig anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Currypulver und Honig dazugeben; kurz mit anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mit Weißwein ablöschen und solange köcheln lassen, bis die Flüssigkeit fast verkocht ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Orangensaft, Ingwer und Gemüsebrühe zufügen und für ca. 20 bis 25 Minuten köcheln lassen, bis die Karotten weich sind",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Kokosmilch und Currypaste dazugeben und aufkochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Mit einem Pürierstab pürieren und anschließend durch ein feines Sieb filtern",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Öl in einer Pfanne erhitzen und Garnelen knusprig anbraten",
+            "IsSubStep": false
           }
         ]
       }
