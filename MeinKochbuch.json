@@ -760,5 +760,108 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 9,
+    "Name": "Tiroler Kartoffelgulasch",
+    "Duration": "50 Minuten",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "kartoffelgulasch.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1,5kg Kartoffeln"
+          },
+          {
+            "Name": "1,5  Zwiebeln"
+          },
+          {
+            "Name": "1 Knoblauchzehe "
+          },
+          {
+            "Name": "50g Butter"
+          },
+          {
+            "Name": "2 EL Tomatenmark"
+          },
+          {
+            "Name": "1,1l Gemüsebrühe "
+          },
+          {
+            "Name": "150g saure Sahne "
+          },
+          {
+            "Name": "Majoran"
+          },
+          {
+            "Name": "Koriander gemahlen"
+          },
+          {
+            "Name": "Chiliflocken (nach Belieben)"
+          },
+          {
+            "Name": "Paprikapulver "
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": null
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln feinwürfeln;  Knoblauch pressen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Zwiebeln und Knoblauch in der Butter anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Prise Zucker, reichlich Paprikapulver, Koriander, Chiliflocken, Kümmel und die Kartoffeln dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Tomatenmark, Pfeffer und Salz hinzugeben und ordentlich an-schwitzen. Sollte sich zu viel am Boden ansetzen, dann mit etwas Gemüsebrühe ablöschen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Gemüsebrühe dazugeben und das Ganze ca. 25 bis 30 Minuten köcheln lassen, bis die Kartoffeln durch sind und sich eine schlotzige Soße gebildet hat - gelegentlich umrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mit saurer Sahne und Majoran servieren",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
