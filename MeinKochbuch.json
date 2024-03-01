@@ -493,7 +493,7 @@
           },
           {
             "Id": 3,
-            "Description": "Öl  im Topf erhitzen und das Gemüse kurz anbraten",
+            "Description": "Öl im Topf erhitzen und das Gemüse kurz anbraten",
             "IsSubStep": false
           },
           {
@@ -844,7 +844,7 @@
           },
           {
             "Id": 4,
-            "Description": "Tomatenmark, Pfeffer und Salz hinzugeben und ordentlich an-schwitzen. Sollte sich zu viel am Boden ansetzen, dann mit etwas Gemüsebrühe ablöschen",
+            "Description": "Tomatenmark, Pfeffer und Salz hinzugeben und ordentlich anschwitzen. Sollte sich zu viel am Boden ansetzen, dann mit etwas Gemüsebrühe ablöschen",
             "IsSubStep": false
           },
           {
@@ -855,6 +855,113 @@
           {
             "Id": 6,
             "Description": "Mit saurer Sahne und Majoran servieren",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Tiramisu",
+    "Duration": "6 Stunden",
+    "NumberOfPersons": "9",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "Mascarpone und Eier 30-60 Minuten vor Zubereitung aus dem Kühlschrank holen (nicht zu kalt verarbeiten). Kaffee zubereiten und abkühlen lassen.",
+    "ImageName": "tiramisu.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "5 Eier"
+          },
+          {
+            "Name": "120g Zucker"
+          },
+          {
+            "Name": "Prise Salz"
+          },
+          {
+            "Name": "750g Mascarpone"
+          },
+          {
+            "Name": "240ml Kaffee mit Zucker"
+          },
+          {
+            "Name": "6 EL Amaretto"
+          },
+          {
+            "Name": "Backkakao"
+          },
+          {
+            "Name": "125g / 250g Löffelbiskuits mit Zucker"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kaffee brühen und Amaretto dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Eier trennen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Eiweiß steifschlagen und dabei nach und nach insgesamt 60g Zucker dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "60g Zucker und Salz zu dem Eigelb geben und zu einer cremigen Mischung mit einem Mixer rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mascarpone löffelweise unterschlagen, sodass eine cremige Mischung entsteht",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Eischnee nach und nach unterheben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Schichten (optional 2x ausführen):",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Eine Hälfte der Biskuits mit Kaffee 3x bepinseln und in die Form/Schüssel legen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 7,
+            "Description": "Biskuits mit Creme bedecken",
+            "IsSubStep": true
+          },
+          {
+            "Id": 10,
+            "Description": "Tiramisu mit Backkakao bestreuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Für mindestens fünf Stunden in den Kühlschrank stellen (besser noch 24 Stunden)",
             "IsSubStep": false
           }
         ]
