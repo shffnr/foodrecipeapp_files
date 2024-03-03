@@ -863,6 +863,709 @@
   },
   {
     "Id": 10,
+    "Name": "Saures Kartoffelgemüse",
+    "Duration": "40 Minuten",
+    "NumberOfPersons": "2 Personen",
+    "Optional": "",
+    "Variant": "Als Topping kann Garnelen, Lachs oder eine andere Fischart genommen werden. Hierzu kann bei Vorlieben der Speck weggelassen werden.",
+    "Tip": "",
+    "ImageName": "saureskartoffelgemuese.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "800g Kartoffeln"
+          },
+          {
+            "Name": "3 Zwiebeln"
+          },
+          {
+            "Name": "1 Knoblauchzehe"
+          },
+          {
+            "Name": "125g Speck"
+          },
+          {
+            "Name": "400ml Hühnerbrühe "
+          },
+          {
+            "Name": "250ml Schlagsahne"
+          },
+          {
+            "Name": "Schuss (Apfel-)Essig"
+          },
+          {
+            "Name": "1 Bund Dill "
+          },
+          {
+            "Name": "1 Lorbeerblatt "
+          },
+          {
+            "Name": "1,5 EL Mehl "
+          },
+          {
+            "Name": "1 TL getrockneter Majoran"
+          },
+          {
+            "Name": "Öl"
+          },
+          {
+            "Name": "Kümmel"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln fein würfeln; Knoblauch pressen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Wasser erhitzen und die Hühnerbrühe dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schuss Öl in einem Topf erhitzen und den Speck anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Zwiebeln dazugeben und glasig anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Knoblauch, Majoran, Kümmel (Menge nach Belieben), Kartoffeln und das Mehl dazugeben; kurz anbraten lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Hühnerbrühe, Schlagsahne und Lorbeerblatt dazugeben; aufkochen lassen und das Ganze ca. 25 bis 30 Minuten köcheln lassen, bis die Kartoffeln durch sind",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Dill feinhacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Wenn die Kartoffeln durch sind, 3/4 vom Dill und den Essig dazugeben;  Lorbeerblatt herausnehmen; einmal aufkochen lassen und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Restlichen Dill zum Garnieren verwenden",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Klassisches Ragù alla Bolognese",
+    "Duration": "210 Minuten",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "bolognese.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g Hackfleisch vom Rind"
+          },
+          {
+            "Name": "150g Pancetta oder Bauchspeck"
+          },
+          {
+            "Name": "1 große Zwiebel"
+          },
+          {
+            "Name": "80g Staudensellerie"
+          },
+          {
+            "Name": "80g Möhren"
+          },
+          {
+            "Name": "250ml Weiß- oder Rotwein"
+          },
+          {
+            "Name": "400ml Milch"
+          },
+          {
+            "Name": "500g Passata"
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Nudeln"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pancetta, Zwiebeln, Staudensellerie und Möhren in kleine Würfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Pancetta mit Öl in einem Topf anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Nach kurzer Zeit die Zwiebeln, Sellerie und Möhren dazugeben und mit anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Hackfleisch dazugeben und mit Salz und Pfeffer würzen, ständig rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Wenn das Fleisch eine gute Farbe bekommen hat, mit Wein ablöschen und den Wein verkochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Passata dazugeben und für eine Stunde mit einem Deckel auf kleiner Stufe köcheln lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Die Hälfte der Milch dazugeben, einmal aufkochen lassen und dann noch einmal für eine Stunde köcheln lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Punkt 7 wiederholen mit 30 Minuten köcheln lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Nudeln kochen und vorm Servieren das Ragù abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Name": "Kartoffelgratin ",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "",
+    "Variant": "Das Kartoffelgratin schmeckt auch gut mit Speckwürfeln und/oder Champignons.",
+    "Tip": "",
+    "ImageName": "kartoffelgratin.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1kg Kartoffeln"
+          },
+          {
+            "Name": "2 Zwiebeln"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "1 Stück Butter"
+          },
+          {
+            "Name": "Thymian"
+          },
+          {
+            "Name": "Kreuzkümmel (optional)"
+          },
+          {
+            "Name": "400ml Schlagsahne"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Muskatnuss"
+          },
+          {
+            "Name": "ca. 120g geriebener Käse"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebeln und Knoblauchzehen schälen und klein schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Kartoffeln schälen und in dünne Scheiben schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Auflaufform mit Butter einreiben und den Rest im Topf erhitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Zwiebeln und Knoblauch im Topf anschwitzen und kurz vor Ende den Thymian und optional den Kreuzkümmel dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mit der Schlagsahne ablöschen und einmal aufkochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Pfeffer, Muskatnuss und Salz dazugeben. Die Soße muss übersalzen schmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Kartoffeln in die Auflaufform geben, Soße übergießen und das Ganze mit Käse bedecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Im Ofen für ca. 45 Minuten backen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Blumenkohlauflauf ",
+    "Duration": "80 Minuten",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "blumenkohlauflauf.png",
+    "Oven": {
+      "OperatingMode": "Umluft",
+      "Temperatur": "200°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "700g Blumenkohl"
+          },
+          {
+            "Name": "500g Kartoffeln"
+          },
+          {
+            "Name": "30g Mehl"
+          },
+          {
+            "Name": "40g Butter"
+          },
+          {
+            "Name": "125ml Brühe"
+          },
+          {
+            "Name": "375ml Milch"
+          },
+          {
+            "Name": "250g Kochschinken"
+          },
+          {
+            "Name": "150g Gouda"
+          },
+          {
+            "Name": "Muskatnuss"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zutaten",
+        "Steps": []
+      },
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Blumenkohl putzen, waschen, in Röschen teilen und 10 Minuten in Salzwasser kochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Kartoffeln schälen, waschen und in dünne Scheiben schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Kohl abtropfen lassen und die Kartoffeln 5 Minuten in Salzwasser kochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Butter im Topf erhitzen und das Mehl anschwitzen. Anschließend die Milch und die Brühe unterrühren und 10 Minuten kochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Schinken in Streifen schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "In eine Auflaufform 3/4 des Schinkens, die Kartoffeln und den Blumenkohl schichten ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "100g Käse in die Sauce rühren und mit Salz, Pfeffer und Muskatnuss abschmecken und über den Auflauf schütten ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Restlichen Schinken auf den Auflauf geben und mit dem Käse bestreuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Gratin für 25 Minuten in den Backofen geben",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Name": "Chana Masala",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "chanamasala.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 mittelgroße Zwiebeln"
+          },
+          {
+            "Name": "3 Knoblauchzehen"
+          },
+          {
+            "Name": "1 Stück Ingwer (~ 1 EL)"
+          },
+          {
+            "Name": "1 kleine grüne Chilischote"
+          },
+          {
+            "Name": "2 Dosen Kichererbsen"
+          },
+          {
+            "Name": "400g Tomaten"
+          },
+          {
+            "Name": "2 Tassen Reis"
+          },
+          {
+            "Name": "Öl"
+          },
+          {
+            "Name": "1 TL Kreuzkümmelsamen"
+          },
+          {
+            "Name": "1 TL Kreuzkümmel"
+          },
+          {
+            "Name": "2 TL gemahlener Koriander"
+          },
+          {
+            "Name": "1 TL Paprikapulver"
+          },
+          {
+            "Name": "1/2 TL Kurkumapulver"
+          },
+          {
+            "Name": "1/4 TL Chiliflocken"
+          },
+          {
+            "Name": "1/2 TL Garam Masala"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebeln schälen und in kleine Würfel schneiden; Tomaten waschen und in kleine Würfel schneiden; Knoblauch schälen und pressen; Ingwer schälen und pressen; Chilischote waschen und klein schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Öl in einem Topf erhitzen und die Zwiebeln mit den Kreuzkümmelsamen für ca. 7 Minuten scharf anbraten. Sollte die Masse zu trocken werden, dann einen 1-2 TL Wasser dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Knoblauch, Ingwer und Chilischote dazugeben und weitere 2-3 Minuten anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Gewürze, bis auf Garam Masala, hinzugeben und kräftig unterrühren; kurz anrösten lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Tomaten dazugeben und nach 2-3 Minuten ebenfalls die Kichererbsen, Backpulver, Salz und 2 Tassen Wasser dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Hitze erhöhen, um alles zum Kochen zu bringen. Anschließend die Hitze auf mittlere Stufe zurückstellen, mit einem Deckel bedecken und für 25-30 Minuten kochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "In der Zwischenzeit Reis waschen und kochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Kichererbsen mit einem Löffel zerdrücken und einkochen lassen, bis die gewünschte Konsistenz erreicht ist ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Herdplatte ausschalten und Garam Masala dazugeben. Mit Salz und Pfeffer abschmecken, ggf. noch von den anderen Gewürzen etwas dazugeben",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Ratatouille",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4 Personen",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "ratatouille.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1 Zucchini gewürfelt"
+          },
+          {
+            "Name": "1/2 Aubergine "
+          },
+          {
+            "Name": "1 Zwiebel"
+          },
+          {
+            "Name": "1 kleine rote Paprika"
+          },
+          {
+            "Name": "1 kleine gelbe Paprika"
+          },
+          {
+            "Name": "1 Tomate"
+          },
+          {
+            "Name": "2 EL Tomatenmark"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "1 Dose gehackte Tomaten"
+          },
+          {
+            "Name": "1 Zweig Rosmarin"
+          },
+          {
+            "Name": "2 Zweige Thymian "
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Balsamicoessig"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Zucker"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zucchini, Aubergine, Tomate, Paprika und Rosmarin gründlich waschen und bis auf den Rosmarin in unter-schiedlich grobe Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die Zwiebel in feine Würfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Die Paprika mit Olivenöl, Salz und Pfeffer scharf anbraten. Anschließend die Paprika in einen Topf umfüllen und Zucker und Rosmarin dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "In die Pfanne Olivenöl geben und die Zucchini mit Salz, Pfeffer und einer aufgedrückten Knoblauchzehe scharf anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Angebratene Zucchini zu den Paprika geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Zum Schluss nochmals in die Pfanne Olivenöl geben und die Aubergine mit Salz, Pfeffer und einer Knoblauchzehe scharf anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Sobald die Aubergine eine schöne Farbe bekommen hat, die Zwiebel dazugeben und weiter anbraten. Nach kurzer Zeit den Thymian dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Nochmal kurz warten und anschließend das Tomatenmark dazugeben und gut mit anbraten lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Sobald das Tomatenmark angebraten ist, einen Schuss Balsamicoessig dazugeben und kurz einwirken lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Mit der Tomate + Tomate aus der Dose ablöschen und aufkochen lassen. Anschließend den Inhalt der Pfanne zu dem anderen Gemüse geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Die Pfanne mit Wasser ausspülen und zu dem Gemüse geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Das Gemüse in dem Topf aufkochen lassen und anschließend auf niedriger Stufe köcheln lassen, bis es zu einer schönen fest-flüssigen Konsistenz geworden ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 13,
+            "Description": "Die Knoblauchzehen und den Rosmarin aus dem Topf holen und fertig",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 16,
     "Name": "Tiramisu",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
