@@ -765,7 +765,7 @@
     "Id": 9,
     "Name": "Tiroler Kartoffelgulasch",
     "Duration": "50 Minuten",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
     "Variant": "",
     "Tip": "",
@@ -865,7 +865,7 @@
     "Id": 10,
     "Name": "Saures Kartoffelgemüse",
     "Duration": "40 Minuten",
-    "NumberOfPersons": "2 Personen",
+    "NumberOfPersons": "2",
     "Optional": "",
     "Variant": "Als Topping kann Garnelen, Lachs oder eine andere Fischart genommen werden. Hierzu kann bei Vorlieben der Speck weggelassen werden.",
     "Tip": "",
@@ -983,7 +983,7 @@
     "Id": 11,
     "Name": "Klassisches Ragù alla Bolognese",
     "Duration": "210 Minuten",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1092,7 +1092,7 @@
     "Id": 12,
     "Name": "Kartoffelgratin ",
     "Duration": "70 Minuten",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "",
     "Variant": "Das Kartoffelgratin schmeckt auch gut mit Speckwürfeln und/oder Champignons.",
     "Tip": "",
@@ -1193,7 +1193,7 @@
     "Id": 13,
     "Name": "Blumenkohlauflauf ",
     "Duration": "80 Minuten",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1243,10 +1243,6 @@
       }
     ],
     "Preparations": [
-      {
-        "Description": "Zutaten",
-        "Steps": []
-      },
       {
         "Description": "Zubereitung",
         "Steps": [
@@ -1303,7 +1299,7 @@
     "Id": 14,
     "Name": "Chana Masala",
     "Duration": "1 Stunde",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1427,7 +1423,7 @@
     "Id": 15,
     "Name": "Ratatouille",
     "Duration": "1 Stunde",
-    "NumberOfPersons": "4 Personen",
+    "NumberOfPersons": "4",
     "Optional": "",
     "Variant": "",
     "Tip": "",
