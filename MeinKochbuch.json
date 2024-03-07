@@ -1666,5 +1666,237 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 17,
+    "Name": "Saftige Lasagne",
+    "Duration": "2 Stunden",
+    "NumberOfPersons": "5",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "Die Lasagneplatten vor dem Legen kurz in Wasser tauchen ",
+    "ImageName": "lasagne.png",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Bolognese Sauce",
+        "Foods": [
+          {
+            "Name": "800g Rinderhack"
+          },
+          {
+            "Name": "2 Zwiebeln gewürfelt"
+          },
+          {
+            "Name": "2 EL Tomatenmark"
+          },
+          {
+            "Name": "200ml Rotwein"
+          },
+          {
+            "Name": "650g Dosentomaten Stückig"
+          },
+          {
+            "Name": "Schuss Balsamico-Essig"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "Rosmarin, Lorbeer, Thymian"
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Béchamelsauce",
+        "Foods": [
+          {
+            "Name": "80g Butter"
+          },
+          {
+            "Name": "100g Mehl"
+          },
+          {
+            "Name": "800ml Milch 3,5 % Fett"
+          },
+          {
+            "Name": "300ml Sahne"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "2 Zweige Rosmarin"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Muskatnuss"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Lasagne",
+        "Foods": [
+          {
+            "Name": "ca. 9 Lasagneplatten (ohne vorkochen)"
+          },
+          {
+            "Name": "250g Mozzarella (als Ganzes)"
+          },
+          {
+            "Name": "150g Parmesan gerieben"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Bolognese Sauce",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Fleisch im heißen Topf (Stufe 7 oder 8) mit Olivenöl anbraten und direkt mit Salz und Pfeffer würzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Wenn das ganze Wasser verdampft ist, die Zwiebeln und das Tomatenmark dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Kurz anbraten lassen und anschließend den Wein und eine Prise Zucker dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Wenn der Rotwein fast verkocht ist, die Tomaten und ein Schuss Balsamico-Essig dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Knoblauchzehen aufschlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Knoblauchzehen, Rosmarin, Lorbeer und Thymian dazugeben und das Ganze für 25 Minuten köcheln lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Nach 25 Minuten die Kräuter herausnehmen und den Ansatz abschmecken und ggf. nachwürzen. Es darf leicht salzig schmecken",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Béchamelsauce",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Butter erhitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mehl hinzugeben und zu einer Mehlschwitze rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Milch und Schlagsahne hinzugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Knoblauchzehe aufdrücken und im Ganzen mit dem Rosmarin in die Sauce geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mit Salz und Muskatnuss abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Aufkochen lassen (wird mit der Zeit dickflüssiger) und am Ende Rosmarin und Knoblauch herausnehmen ",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Schichten",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Auflaufform mit Öl einschmieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Bolognese ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Lasagneplatten ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Wiederholungen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Bolognese ",
+            "IsSubStep": true
+          },
+          {
+            "Id": 4,
+            "Description": "Béchamelsauce",
+            "IsSubStep": true
+          },
+          {
+            "Id": 4,
+            "Description": "Lasagneplatten ",
+            "IsSubStep": true
+          },
+          {
+            "Id": 4,
+            "Description": "In der dritten Schicht den Mozzarella dazugeben. Die letzte Schicht darf nicht mit Lasagneplatten enden",
+            "IsSubStep": true
+          },
+          {
+            "Id": 9,
+            "Description": "Mit Käse bestreuen und für ca. 40-45 Minuten in den Ofen geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Aus dem Ofen holen und 10 Minuten abkühlen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
