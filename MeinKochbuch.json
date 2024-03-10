@@ -1562,6 +1562,276 @@
   },
   {
     "Id": 16,
+    "Name": "Enchilada",
+    "Duration": "70 Minuten",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "enchilada.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "175°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Sauce",
+        "Foods": [
+          {
+            "Name": "1 Stück Butter"
+          },
+          {
+            "Name": "1 1/4  EL Mehl"
+          },
+          {
+            "Name": "1/3 TL Chili-Flocken"
+          },
+          {
+            "Name": "1/3 TL Cayenne"
+          },
+          {
+            "Name": "3/4 TL  Oregano"
+          },
+          {
+            "Name": "3/4 TL Kreuzkümmel"
+          },
+          {
+            "Name": "3/4 TL Paprikapulver"
+          },
+          {
+            "Name": "3/4 TL Salz"
+          },
+          {
+            "Name": "2 TL Zucker"
+          },
+          {
+            "Name": "1/2 Zwiebel"
+          },
+          {
+            "Name": "1 Knoblauchzehe"
+          },
+          {
+            "Name": "250g Cocktail-Tomaten"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Wraps",
+        "Foods": [
+          {
+            "Name": "4 Mais oder Weizen Wraps"
+          },
+          {
+            "Name": "Schuss Öl"
+          },
+          {
+            "Name": "3/4 Zwiebel"
+          },
+          {
+            "Name": "1 1/4 Knoblauchzehen"
+          },
+          {
+            "Name": "350 g Rinderhack"
+          },
+          {
+            "Name": "2/3 TL Chili-Flocken"
+          },
+          {
+            "Name": "1/3 TL Paprikapulver"
+          },
+          {
+            "Name": "1/3 TL Kreuzkümmel"
+          },
+          {
+            "Name": "1/3 TL gemahlener Koriander"
+          },
+          {
+            "Name": "3/4 TL Oregano"
+          },
+          {
+            "Name": "125g schwarze Bohnen"
+          },
+          {
+            "Name": "125g Mais"
+          },
+          {
+            "Name": "250g geriebener Gouda"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubreitung Sauce",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Ein Stück Butter erhitzen und anschließend Mehl ca. 2 Minuten bei geringer Hitze goldbraun anbraten lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die Gewürze und Tomaten nach und nach dazugeben und mit einem Mixer zerkleinern. Das Ganze ca. 15-20 Minuten bei geringer Hitze köcheln lassen. Zwischendurch immer mal wieder umrühren. Bei Bedarf noch nachwürzen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Wraps",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Für die Füllung Zwiebel würfeln, Knoblauch hacken und in Öl andünsten. Rinderhack zugeben und anbraten. Anschließend alle Gewürze, Mais und Bohnen dazugeben und bei Bedarf nachwürzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Auflaufform mit Sauce einstreichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Wraps mit Sauce bestreichen und mit Füllung gleichmäßig füllen, sodass sie noch zusammen-gerollt werden können. Auf die Füllung den geriebenen Gouda verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Übrige Sauce gleichmäßig auf den Wraps in der Auflaufform verteilen und alles mit Käse bestreuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Im Ofen ca. 20-25 Minuten backen lassen, bis der Käse geschmolzen und goldbraun ist",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Papa a la Huancaína",
+    "Duration": "35 Minuten",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "papaalahuancaina.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "6 Kartoffeln"
+          },
+          {
+            "Name": "1 Zwiebel"
+          },
+          {
+            "Name": "3 Knoblauchzehen"
+          },
+          {
+            "Name": "1 EL Öl"
+          },
+          {
+            "Name": "3-4 EL Ají Amarillo Paste"
+          },
+          {
+            "Name": "150g Fetakäse"
+          },
+          {
+            "Name": "1 Tasse Milch"
+          },
+          {
+            "Name": "1/4 Tasse Salzkekse"
+          },
+          {
+            "Name": "1 TL Oregano"
+          },
+          {
+            "Name": "Salz "
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "4 Eier"
+          },
+          {
+            "Name": "Salatblätter"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kartoffeln kochen und anschließend schälen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Kekse mit einem Mixer zerkleinern / pulverisieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Fetakäse in kleine Stücke zerteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Die Zwiebel in kleine Würfel schneiden und in einer Pfanne mit Öl anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Knoblauch pressen und mit anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Sobald die Zwiebeln glasig sind, die Ají Amarillo Paste dazugeben und kurz mit anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Mit der Milch ablöschen und den Fetakäse und die Kekse dazugeben. Den Herd herunter schalten, sodass die Paste leicht köchelt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Eier kochen und anschließend schälen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Die Pasta mit Oregano, Pfeffer und ggf. Salz würzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Eier und Kartoffeln in Scheiben schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Anrichten: Salatblätter auf einem Teller verteilen, Kartoffelscheiben darüber legen und reichlich Pasta drüber gießen. Auf die Pasta die Eierscheiben legen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 18,
     "Name": "Saftige Lasagne",
     "Duration": "2 Stunden",
     "NumberOfPersons": "5",
@@ -1590,7 +1860,7 @@
             "Name": "200ml Rotwein"
           },
           {
-            "Name": "650g Dosentomaten Stückig"
+            "Name": "650g Dosentomaten stückig"
           },
           {
             "Name": "Schuss Balsamico-Essig"
@@ -1648,7 +1918,7 @@
         "Description": "Zutaten Lasagne",
         "Foods": [
           {
-            "Name": "ca. 9 Lasagneplatten (ohne vorkochen)"
+            "Name": "ca. 9 Lasagneplatten (ohne Vorkochen)"
           },
           {
             "Name": "250g Mozzarella (als Ganzes)"
@@ -1793,7 +2063,94 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 19,
+    "Name": "Mousse au Chocolat",
+    "Duration": "25",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "Verwendung von unterschiedlichen Schokoladenarten",
+    "Tip": "",
+    "ImageName": "schokomouse.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "200g dunkle Schokolade"
+          },
+          {
+            "Name": "3 Eier"
+          },
+          {
+            "Name": "250ml Schlagsahne"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "100g dunkle Schokolade im Wasserbad schmelzen und anschließend abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Restliche Schokolade fein raspeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schlagsahne steif schlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Eier in Eiweiß und Eigelb trennen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Eiweiß zu Eischnee schlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Eigelb in einer großen Schüssel aufschlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Abgekühlte Schokolade gut unter das Eigelb rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Geschlagene Sahne mit fast der ganzen geraspelten Schokolade unter die Masse aus 7. heben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Eischnee unterheben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Mit der restlichen Schokolade garnieren und für 24 Stunden in den Kühlschrank stellen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 20,
     "Name": "Tiramisu",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
@@ -1898,5 +2255,122 @@
         ]
       }
     ]
-  } 
+  },
+  {
+    "Id": 21,
+    "Name": "Ají de Gallina",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "ajidegallina.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "4 Hähnchenbrustfilets"
+          },
+          {
+            "Name": "2 Mohrrüben"
+          },
+          {
+            "Name": "1 Stauden-Sellerie"
+          },
+          {
+            "Name": "1 Lauch"
+          },
+          {
+            "Name": "3 rote Zwiebeln"
+          },
+          {
+            "Name": "4 Knoblauchzehen"
+          },
+          {
+            "Name": "2 EL Ají Amarillo Paste"
+          },
+          {
+            "Name": "4 Walnüsse"
+          },
+          {
+            "Name": "3 normale Brötchen"
+          },
+          {
+            "Name": "2 Tassen Milch"
+          },
+          {
+            "Name": "50g Parmesan"
+          },
+          {
+            "Name": "3 Kartoffeln"
+          },
+          {
+            "Name": "2 Eier"
+          },
+          {
+            "Name": "300g Reis"
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Kreuzkümmel"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubreitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Hähnchenbrust mit Stauden-Sellerie, in Streifen geschnittenen Mohrrüben, einer Zwiebel und Lauch in einem großen Topf in etwas Wasser kochen (rund 15 Minuten). Währenddessen die Kartoffeln, den Reis und die Eier kochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Brötchen in Milch einweichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Hähnchenbrust aus dem Topf nehmen und abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Knoblauch und Zwiebeln klein schneiden und anschließend in einer großen Pfanne mit Olivenöl anbraten. Die Walnüsse und Ají Amarillo Paste hinzufügen und kräftig anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Masse in einen Mixer geben, die eingeweichten Brötchen mit etwas Milch hinzufügen und zu einer Creme pürieren und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Das Hähnchenfleisch anbraten und im Anschluss die Creme zurück in die Pfanne geben und den Parmesan ergänzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Auf einem Teller Kartoffelscheiben mit einer Portion Reis und Hähnchenbrust-Soße anrichten. Auf die Soße ein in Scheiben geschnittenes Ei legen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  }
 ]
