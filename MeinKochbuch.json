@@ -1832,6 +1832,123 @@
   },
   {
     "Id": 18,
+    "Name": "Ají de Gallina",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "ajidegallina.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "4 Hähnchenbrustfilets"
+          },
+          {
+            "Name": "2 Mohrrüben"
+          },
+          {
+            "Name": "1 Stauden-Sellerie"
+          },
+          {
+            "Name": "1 Lauch"
+          },
+          {
+            "Name": "3 rote Zwiebeln"
+          },
+          {
+            "Name": "4 Knoblauchzehen"
+          },
+          {
+            "Name": "2 EL Ají Amarillo Paste"
+          },
+          {
+            "Name": "4 Walnüsse"
+          },
+          {
+            "Name": "3 normale Brötchen"
+          },
+          {
+            "Name": "2 Tassen Milch"
+          },
+          {
+            "Name": "50g Parmesan"
+          },
+          {
+            "Name": "3 Kartoffeln"
+          },
+          {
+            "Name": "2 Eier"
+          },
+          {
+            "Name": "300g Reis"
+          },
+          {
+            "Name": "Olivenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Kreuzkümmel"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubreitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Hähnchenbrust mit Stauden-Sellerie, in Streifen geschnittenen Mohrrüben, einer Zwiebel und Lauch in einem großen Topf in etwas Wasser kochen (rund 15 Minuten). Währenddessen die Kartoffeln, den Reis und die Eier kochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Brötchen in Milch einweichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Hähnchenbrust aus dem Topf nehmen und abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Knoblauch und Zwiebeln klein schneiden und anschließend in einer großen Pfanne mit Olivenöl anbraten. Die Walnüsse und Ají Amarillo Paste hinzufügen und kräftig anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Masse in einen Mixer geben, die eingeweichten Brötchen mit etwas Milch hinzufügen und zu einer Creme pürieren und mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Das Hähnchenfleisch anbraten und im Anschluss die Creme zurück in die Pfanne geben und den Parmesan ergänzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Auf einem Teller Kartoffelscheiben mit einer Portion Reis und Hähnchenbrust-Soße anrichten. Auf die Soße ein in Scheiben geschnittenes Ei legen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 19,
     "Name": "Saftige Lasagne",
     "Duration": "2 Stunden",
     "NumberOfPersons": "5",
@@ -2063,7 +2180,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Mousse au Chocolat",
     "Duration": "25",
     "NumberOfPersons": "4",
@@ -2150,7 +2267,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Tiramisu",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
@@ -2250,123 +2367,6 @@
           {
             "Id": 11,
             "Description": "Für mindestens fünf Stunden in den Kühlschrank stellen (besser noch 24 Stunden)",
-            "IsSubStep": false
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "Id": 21,
-    "Name": "Ají de Gallina",
-    "Duration": "1 Stunde",
-    "NumberOfPersons": "4",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "ajidegallina.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
-    "Ingredients": [
-      {
-        "Description": "Zutaten",
-        "Foods": [
-          {
-            "Name": "4 Hähnchenbrustfilets"
-          },
-          {
-            "Name": "2 Mohrrüben"
-          },
-          {
-            "Name": "1 Stauden-Sellerie"
-          },
-          {
-            "Name": "1 Lauch"
-          },
-          {
-            "Name": "3 rote Zwiebeln"
-          },
-          {
-            "Name": "4 Knoblauchzehen"
-          },
-          {
-            "Name": "2 EL Ají Amarillo Paste"
-          },
-          {
-            "Name": "4 Walnüsse"
-          },
-          {
-            "Name": "3 normale Brötchen"
-          },
-          {
-            "Name": "2 Tassen Milch"
-          },
-          {
-            "Name": "50g Parmesan"
-          },
-          {
-            "Name": "3 Kartoffeln"
-          },
-          {
-            "Name": "2 Eier"
-          },
-          {
-            "Name": "300g Reis"
-          },
-          {
-            "Name": "Olivenöl"
-          },
-          {
-            "Name": "Salz"
-          },
-          {
-            "Name": "Pfeffer"
-          },
-          {
-            "Name": "Kreuzkümmel"
-          }
-        ]
-      }
-    ],
-    "Preparations": [
-      {
-        "Description": "Zubreitung",
-        "Steps": [
-          {
-            "Id": 1,
-            "Description": "Hähnchenbrust mit Stauden-Sellerie, in Streifen geschnittenen Mohrrüben, einer Zwiebel und Lauch in einem großen Topf in etwas Wasser kochen (rund 15 Minuten). Währenddessen die Kartoffeln, den Reis und die Eier kochen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 2,
-            "Description": "Brötchen in Milch einweichen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 3,
-            "Description": "Hähnchenbrust aus dem Topf nehmen und abkühlen lassen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 4,
-            "Description": "Knoblauch und Zwiebeln klein schneiden und anschließend in einer großen Pfanne mit Olivenöl anbraten. Die Walnüsse und Ají Amarillo Paste hinzufügen und kräftig anbraten",
-            "IsSubStep": false
-          },
-          {
-            "Id": 5,
-            "Description": "Masse in einen Mixer geben, die eingeweichten Brötchen mit etwas Milch hinzufügen und zu einer Creme pürieren und mit Salz und Pfeffer abschmecken",
-            "IsSubStep": false
-          },
-          {
-            "Id": 6,
-            "Description": "Das Hähnchenfleisch anbraten und im Anschluss die Creme zurück in die Pfanne geben und den Parmesan ergänzen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 7,
-            "Description": "Auf einem Teller Kartoffelscheiben mit einer Portion Reis und Hähnchenbrust-Soße anrichten. Auf die Soße ein in Scheiben geschnittenes Ei legen",
             "IsSubStep": false
           }
         ]
