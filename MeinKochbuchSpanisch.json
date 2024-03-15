@@ -1,7 +1,8 @@
-[  {
+[
+  {
     "Id": 1,
-    "Name": "Balsamico Dressing",
-    "Duration": "5 Minuten",
+    "Name": "Dressing de Balsámico",
+    "Duration": "5 minutos",
     "NumberOfPersons": "2",
     "Optional": "",
     "Variant": "",
@@ -13,38 +14,38 @@
     },
     "Ingredients": [
       {
-        "Description": "Zutaten",
+        "Description": "Ingredientes",
         "Foods": [
           {
-            "Name": "2 EL Balsamico"
+            "Name": "2 Cdas de Balsámico"
           },
           {
-            "Name": "2 EL Wasser (nicht zu kalt)"
+            "Name": "2 Cdas de agua (no tan frío)"
           },
           {
-            "Name": "1-1,5 TL Senf"
+            "Name": "1-1,5 Cdtas de mostaza"
           },
           {
-            "Name": "3 TL Honig"
+            "Name": "3 Cdtas de miel"
           },
           {
-            "Name": "1 Prise Zucker"
+            "Name": "1 Pizca de azúcar"
           },
           {
-            "Name": "5 EL Sonnenblumenöl"
+            "Name": "5 Cdas de aceite"
           },
           {
-            "Name": "Salz"
+            "Name": "Sal"
           },
           {
-            "Name": "Pfeffer"
+            "Name": "Pimienta"
           }
         ]
       }
     ],
     "Preparations": [
       {
-        "Description": "Zubereitung",
+        "Description": "Preparación",
         "Steps": [
           {
             "Id": 1,
