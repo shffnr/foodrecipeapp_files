@@ -1,1 +1,68 @@
-[]
+[  {
+    "Id": 1,
+    "Name": "Balsamico Dressing",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "balsamicodressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Balsamico"
+          },
+          {
+            "Name": "2 EL Wasser (nicht zu kalt)"
+          },
+          {
+            "Name": "1-1,5 TL Senf"
+          },
+          {
+            "Name": "3 TL Honig"
+          },
+          {
+            "Name": "1 Prise Zucker"
+          },
+          {
+            "Name": "5 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das Öl langsam unterrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Mit Salz und Pfeffer abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  }
+]
