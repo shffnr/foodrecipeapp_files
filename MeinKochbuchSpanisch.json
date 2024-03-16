@@ -1,8 +1,8 @@
 [
   {
     "Id": 1,
-    "Name": "Dressing de Balsámico",
-    "Duration": "5 minutos",
+    "Name": "Aliño con balsámico",
+    "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "Optional": "",
     "Variant": "",
@@ -17,7 +17,7 @@
         "Description": "Ingredientes",
         "Foods": [
           {
-            "Name": "2 Cdas de Balsámico"
+            "Name": "2 Cdas de balsámico"
           },
           {
             "Name": "2 Cdas de agua (no tan frío)"
@@ -49,17 +49,236 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander verrühren",
+            "Description": "Mezclar con una batidora el balsámico, el agua, la miel, la mostaza y el azúcar",
             "IsSubStep": false
           },
           {
             "Id": 2,
-            "Description": "Das Öl langsam unterrühren",
+            "Description": "Agregar lentamente el aceite",
             "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Mit Salz und Pfeffer abschmecken",
+            "Description": "Condimentar con sal y pimienta",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Aliño con miel y mostaza",
+    "Duration": "5 Minutos",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "honigsenfdressing.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "2 Cdas de balsámico (blanco)"
+          },
+          {
+            "Name": "2  Cdas de agua"
+          },
+          {
+            "Name": "4 Cdtas de miel"
+          },
+          {
+            "Name": "4 Cdtas de mostaza"
+          },
+          {
+            "Name": "5 Cdas de aceite"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Azúcar"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Mezclar con una batidora el balsámico, el agua, la miel y la mostaza",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Agregar lentamente el aceite",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Condimentar con sal, pimienta y azúcar",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Salsa de mostaza y eneldo",
+    "Duration": "70 Minutos",
+    "NumberOfPersons": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "dillsenfsauce.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "2-3 Cdas de azúcar"
+          },
+          {
+            "Name": "2 Cdas de mostaza de Dijon"
+          },
+          {
+            "Name": "2 Cdas de miel"
+          },
+          {
+            "Name": "1 Cdta de semilla molida de mostaza "
+          },
+          {
+            "Name": "1,5 Cdas de vinagre"
+          },
+          {
+            "Name": "2 Cdas de agua"
+          },
+          {
+            "Name": "2 Cdas de eneldo, cortar finamente"
+          },
+          {
+            "Name": "4 Cdas de aceite (no aceite de oliva)"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Mezclar bien todos los ingredientes excepto el aceite y el eneldo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Agregar lentamente el aceite",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Mezclar con el eneldo cortado",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Poner la salsa en la refrigeradora por al menos una hora",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Name": "Tzatziki ",
+    "Duration": "5 Horas",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "500 g de yogur griego con 10 % de grasa"
+          },
+          {
+            "Name": "1 pepino grande"
+          },
+          {
+            "Name": "2-3 ajos frescos"
+          },
+          {
+            "Name": "1 puño de eneldo fresco"
+          },
+          {
+            "Name": "1 Cda de aceite de oliva"
+          },
+          {
+            "Name": "2 Cdas de balsámico (blanco)"
+          },
+          {
+            "Name": "Un poco de jugo de limón"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar el pepino, retirar las pepas, rayar y echar un poco de sal",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Lavar el eneldo y cortar finamente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Retirar el jugo del pepino con una toalla de cocina hasta que no haya nada de agua",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Mezclar todos los ingredientes y condimentar con sal y pimienta",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Poner el Tzatziki en la refrigeradora por 4 horas",
             "IsSubStep": false
           }
         ]
