@@ -2372,5 +2372,93 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 22,
+    "Name": "Schoko-Soufflé",
+    "Duration": "13 Stunden",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "schokosouffle.jpg",
+    "Oven": {
+      "OperatingMode": "Umluft",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "4 Eier"
+          },
+          {
+            "Name": "80g Zucker"
+          },
+          {
+            "Name": "80g Mehl"
+          },
+          {
+            "Name": "90g 70%-ige Edelbitter-Schokolade "
+          },
+          {
+            "Name": "100g Butter"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "2 Eier in Eigelb und Eiweis trennen (nur Eigelb wird benötigt)",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Restliche Eier mit Eigelb und Zucker schaumig schlagen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schokolade im Wasserbad schmelzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Butter würfeln und unter geschmolzenen Schokolade rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Masse zum Eier-Gemisch geben und unterziehen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mehl sieben und zur Masse geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Förmchen mit Butter fetten und mit etwas Mehl ausstäuben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Förmchen zu 2/3 mit der Soufflémasse füllen und für 12 Stunden ins Gefierfach stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Vor dem Servieren für 13 Minuten in den vorgeheizten Ofen geben",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
