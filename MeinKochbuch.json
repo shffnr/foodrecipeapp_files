@@ -2400,10 +2400,13 @@
             "Name": "80g Mehl"
           },
           {
-            "Name": "90g 70%-ige Edelbitter-Schokolade "
+            "Name": "90g 70%-ige Edelbitter-Schokolade"
           },
           {
             "Name": "100g Butter"
+          },
+          {
+            "Name": "Prise Salz"
           }
         ]
       }
@@ -2414,17 +2417,17 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "2 Eier in Eigelb und Eiweis trennen (nur Eigelb wird benötigt)",
+            "Description": "Schokolade im Wasserbad schmelzen",
             "IsSubStep": false
           },
           {
             "Id": 2,
-            "Description": "Restliche Eier mit Eigelb und Zucker schaumig schlagen ",
+            "Description": "In der Zwischenzeit 2 Eier in Eigelb und Eiweis trennen (nur Eigelb wird benötigt)",
             "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Schokolade im Wasserbad schmelzen",
+            "Description": "Restliche Eier mit Eigelb, Salz und Zucker schaumig schlagen",
             "IsSubStep": false
           },
           {
