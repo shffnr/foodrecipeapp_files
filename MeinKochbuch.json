@@ -2380,9 +2380,9 @@
     "Id": 22,
     "Name": "Schoko-Soufflé",
     "Duration": "13 Stunden",
-    "NumberOfPersons": "4",
+    "NumberOfPersons": "6",
     "Optional": "",
-    "Variant": "",
+    "Variant": "Mit Vanilleeis und Himbersauce servieren",
     "Tip": "",
     "ImageName": "schokosouffle.jpg",
     "Oven": {
@@ -2460,7 +2460,7 @@
           },
           {
             "Id": 9,
-            "Description": "Vor dem Servieren für 13 Minuten in den vorgeheizten Ofen geben",
+            "Description": "Vor dem Servieren für 12 Minuten in den vorgeheizten Ofen geben",
             "IsSubStep": false
           }
         ]
