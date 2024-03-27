@@ -284,5 +284,120 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 5,
+    "Name": "Gazpacho ",
+    "Duration": "5 horas",
+    "NumberOfPersons": "4",
+    "Optional": "Servir con camarones o con croûtons",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tsatsiki.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "600 g de tomates maduros"
+          },
+          {
+            "Name": "150 g de pepino"
+          },
+          {
+            "Name": "3/4 pimiento rojo"
+          },
+          {
+            "Name": "1/2 cebolla"
+          },
+          {
+            "Name": "2 dientes de ajos"
+          },
+          {
+            "Name": "1/4  de pan Baguette"
+          },
+          {
+            "Name": "1 cdta de pimentón en polvo"
+          },
+          {
+            "Name": "2 cdas de vinagre de manzana"
+          },
+          {
+            "Name": "6 cdas de aceite de oliva"
+          },
+          {
+            "Name": "Hojuelas de chile"
+          },
+          {
+            "Name": "Azúcar"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Agua"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar los pepinos, la cebolla y el ajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Lavar todas las verduras y córtelas en trozos pequeños y gruesos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Cortar el baguette en trozos pequeños y gruesos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Poner las verduras cortadas y el baguette en un bol con azúcar, vinagre de manzana, pimentón en polvo, aceite de oliva, hojuelas de chile (si se desea) y un poco de sal",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Juntar todo bien y dejar reposar durante 25 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mezclar todo. Si queda muy espeso,  añadir agua poco a poco",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Sazonar nuevamente con sal, pimienta y azúcar",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Poner la sopa en la refrigeradora durante al menos cuatro horas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Colar la sopa antes de servir",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
