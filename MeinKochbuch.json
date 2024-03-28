@@ -1787,7 +1787,7 @@
     ],
     "Preparations": [
       {
-        "Description": "Zubreitung Sauce",
+        "Description": "Zubereitung Sauce",
         "Steps": [
           {
             "Id": 1,
@@ -1909,7 +1909,7 @@
     ],
     "Preparations": [
       {
-        "Description": "Zubreitung",
+        "Description": "Zubereitung",
         "Steps": [
           {
             "Id": 1,
