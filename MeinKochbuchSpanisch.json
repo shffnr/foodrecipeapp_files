@@ -293,7 +293,7 @@
     "Optional": "Servir con camarones o con croûtons",
     "Variant": "",
     "Tip": "",
-    "ImageName": "tsatsiki.png",
+    "ImageName": "gazpacho.jpg",
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
@@ -394,6 +394,128 @@
           {
             "Id": 9,
             "Description": "Colar la sopa antes de servir",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Sopa de papas con champiñones y tocino",
+    "Duration": "60 Minutos",
+    "NumberOfPersons": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "kartoffelsuppe.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "800 ml de caldo de verdura"
+          },
+          {
+            "Name": "400 g de papas (papa blanca)"
+          },
+          {
+            "Name": "1 Cebolla (pequeña)"
+          },
+          {
+            "Name": "60 g de apio (raíz)"
+          },
+          {
+            "Name": "1 Zanahoria"
+          },
+          {
+            "Name": "2  Ramas de perejil (lisas)"
+          },
+          {
+            "Name": "1/2 diente de ajo"
+          },
+          {
+            "Name": "1 Hoja de laurel"
+          },
+          {
+            "Name": "1/3 Cdtas de comino"
+          },
+          {
+            "Name": "1/4 Cdtas de hojuelas de chile"
+          },
+          {
+            "Name": "Cáscara de limón bio"
+          },
+          {
+            "Name": "1 Pizca de nuez moscada"
+          },
+          {
+            "Name": "200 g de nata líquida"
+          },
+          {
+            "Name": "200 g Champiñones"
+          },
+          {
+            "Name": "Tocino"
+          },
+          {
+            "Name": "Aceite"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Hervir el agua y agregar el caldo de verdura",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Pelar la zanahoria, las papas y la cebolla y cortalas en trozos. Asimismo, cortar el apio y el perejil en trozos pequeños y echar el ajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Calentar el aceite en una olla y dejar cocinar todo ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar un poco de sal, pimienta, comino y hojuelas de chile. Dejar calentar todo y vierta el caldo de verdura",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Añadir la hoja de laurel y dejar calentar todo a bajo fuego hasta que las papas y las zanahorias estén cocidas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Triturar todo y finalmente agregar la nata líquida. Nuevamente, dejar cocinar todo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Sazonar todo antes de servir y añadir la nuez moscada y la cáscara de limón rallada. Si es que falta un poco de sabor, agregar un poco de zumo de limón",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Topping:  Cocinar el tocino y los champiñones en la sartén",
             "IsSubStep": false
           }
         ]
