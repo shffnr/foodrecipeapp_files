@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Balsamico Dressing",
     "Id": 1,
+    "Name": "Balsamico Dressing",
     "Duration": "5 Minuten",
     "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -67,10 +68,11 @@
     ]
   },
   {
-    "Name": "Honig-Senf Dressing",
     "Id": 2,
+    "Name": "Honig-Senf Dressing",
     "Duration": "5 Minuten",
     "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -134,10 +136,11 @@
     ]
   },
   {
-    "Name": "Dill-Senf Sauce",
     "Id": 3,
+    "Name": "Dill-Senf Sauce",
     "Duration": "70 Minuten",
     "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -209,10 +212,11 @@
     ]
   },
   {
-    "Name": "Tsatsiki",
     "Id": 4,
+    "Name": "Tsatsiki",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -289,10 +293,11 @@
     ]
   },
   {
-    "Name": "Papa a la Huancaína",
     "Id": 5,
+    "Name": "Papa a la Huancaína",
     "Duration": "35 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -411,10 +416,11 @@
     ]
   },
   {
-    "Name": "Gazpacho",
     "Id": 6,
+    "Name": "Gazpacho",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "Mit Garnelen und oder Croûtons servieren",
     "Variant": "",
     "Tip": "",
@@ -529,10 +535,11 @@
     ]
   },
   {
-    "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Id": 7,
+    "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Duration": "60 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -651,10 +658,11 @@
     ]
   },
   {
-    "Name": "Geröstete Tomatensuppe",
     "Id": 8,
+    "Name": "Geröstete Tomatensuppe",
     "Duration": "45 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -762,10 +770,11 @@
     ]
   },
   {
-    "Name": "Karotten-Ingwer-Kokos Suppe",
     "Id": 9,
+    "Name": "Karotten-Ingwer-Kokos Suppe",
     "Duration": "50 Minuten ",
     "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -887,10 +896,11 @@
     ]
   },
   {
-    "Name": "Tiroler Kartoffelgulasch",
     "Id": 10,
+    "Name": "Tiroler Kartoffelgulasch",
     "Duration": "50 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
     "Variant": "",
     "Tip": "",
@@ -987,10 +997,11 @@
     ]
   },
   {
-    "Name": "Saures Kartoffelgemüse",
     "Id": 11,
+    "Name": "Saures Kartoffelgemüse",
     "Duration": "40 Minuten",
     "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "Als Topping kann Garnelen, Lachs oder eine andere Fischart genommen werden. Hierzu kann bei Vorlieben der Speck weggelassen werden.",
     "Tip": "",
@@ -1105,10 +1116,11 @@
     ]
   },
   {
-    "Name": "Klassisches Ragù alla Bolognese",
     "Id": 12,
+    "Name": "Klassisches Ragù alla Bolognese",
     "Duration": "210 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1214,10 +1226,11 @@
     ]
   },
   {
-    "Name": "Kartoffelgratin",
     "Id": 13,
+    "Name": "Kartoffelgratin",
     "Duration": "70 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "Das Kartoffelgratin schmeckt auch gut mit Speckwürfeln und/oder Champignons.",
     "Tip": "",
@@ -1315,10 +1328,11 @@
     ]
   },
   {
-    "Name": "Blumenkohlauflauf",
     "Id": 14,
+    "Name": "Blumenkohlauflauf",
     "Duration": "80 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1421,10 +1435,11 @@
     ]
   },
   {
-    "Name": "Chana Masala",
     "Id": 15,
+    "Name": "Chana Masala",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1545,10 +1560,11 @@
     ]
   },
   {
-    "Name": "Ratatouille",
     "Id": 16,
+    "Name": "Ratatouille",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1686,10 +1702,11 @@
     ]
   },
   {
-    "Name": "Enchilada",
     "Id": 17,
+    "Name": "Enchilada",
     "Duration": "70 Minuten",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1834,10 +1851,11 @@
     ]
   },
   {
-    "Name": "Ají de Gallina",
     "Id": 18,
+    "Name": "Ají de Gallina",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -1951,10 +1969,11 @@
     ]
   },
   {
-    "Name": "Saftige Lasagne",
     "Id": 19,
+    "Name": "Saftige Lasagne",
     "Duration": "2 Stunden",
     "NumberOfPersons": "5",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "Die Lasagneplatten vor dem Legen kurz in Wasser tauchen",
@@ -2183,10 +2202,11 @@
     ]
   },
   {
-    "Name": "Mousse au Chocolat",
     "Id": 20,
+    "Name": "Mousse au Chocolat",
     "Duration": "25 Stunden",
     "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "Verwendung von unterschiedlichen Schokoladenarten",
     "Tip": "",
@@ -2270,10 +2290,11 @@
     ]
   },
   {
-    "Name": "Tiramisu",
     "Id": 21,
+    "Name": "Tiramisu",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "Mascarpone und Eier 30-60 Minuten vor Zubereitung aus dem Kühlschrank holen (nicht zu kalt verarbeiten). Kaffee zubereiten und abkühlen lassen.",
@@ -2377,10 +2398,11 @@
     ]
   },
   {
-    "Name": "Schoko-Soufflé",
     "Id": 22,
+    "Name": "Schoko-Soufflé",
     "Duration": "13 Stunden",
     "NumberOfPersons": "6",
+    "NumberOfQuantity": "",
     "Optional": "Mit Vanilleeis und Himbersauce servieren",
     "Variant": "",
     "Tip": "",
