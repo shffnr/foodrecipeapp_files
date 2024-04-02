@@ -3,8 +3,8 @@
     "Id": 1,
     "Name": "Aliño con balsámico",
     "Duration": "5 Minutos",
-    "NumberOfPersons": "",
-    "NumberOfQuantity": "2",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -522,6 +522,118 @@
           {
             "Id": 8,
             "Description": "Topping:  Cocinar el tocino y los champiñones en la sartén",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Sopa de tomate asado",
+    "Duration": "45 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tomatencremesuppe.jpg",
+    "Oven": {
+      "OperatingMode": "Calentar arriba y abajo",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "1,2 Kg de tomates"
+          },
+          {
+            "Name": "2 Cebollas rojas"
+          },
+          {
+            "Name": "2 Dientes de ajos"
+          },
+          {
+            "Name": "1,5 Cdta de pimiento de Cayena"
+          },
+          {
+            "Name": "1 Cda de vinagre Balsámico"
+          },
+          {
+            "Name": "150 ml de nata líquida"
+          },
+          {
+            "Name": "700 ml de caldo de verdura"
+          },
+          {
+            "Name": "Aceite de oliva"
+          },
+          {
+            "Name": "Azúcar"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar las cebollas y los ajos y córtelos en trozos grandes; cortar los tomates en trozos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Precalentar el horno; calentar abundante aceite de oliva en la cacerola",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Saltear la cebolla y el ajo con sal y pimienta de Cayena",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar los tomates, un poco de azúcar, pimienta molida y vinagre Balsámico",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Colocar la cacerola para asar en el horno durante 25 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Preparar el caldo de verduras",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Sacar la mezcla del horno y rellénala con la nata líquida y el caldo de verduras",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Batir con una licuadora y dejar hervir una vez",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Colar la sopa",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Sazonar con sal, pimienta y azúcar",
             "IsSubStep": false
           }
         ]
