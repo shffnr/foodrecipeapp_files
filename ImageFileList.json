@@ -4,6 +4,10 @@
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/ajidegallina.jpg?raw=true"
   },
   {
+    "ImageName": "baguette.jpg",
+    "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/baguette.jpg?raw=true"
+  },
+  {
     "ImageName": "balsamicodressing.jpg",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/balsamicodressing.jpg?raw=true"
   },
@@ -58,10 +62,6 @@
   {
     "ImageName": "lasagne.png",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/lasagne.png?raw=true"
-  },
-  {
-    "ImageName": "lasagnesuppe.jpg",
-    "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/lasagnesuppe.jpg?raw=true"
   },
   {
     "ImageName": "macaire.jpg",

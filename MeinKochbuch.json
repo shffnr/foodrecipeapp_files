@@ -580,7 +580,7 @@
             "Name": "1/3 TL Kreuz- oder Kümmel"
           },
           {
-            "Name": "0,25 TL Chiliflocken"
+            "Name": "1/4 TL Chiliflocken"
           },
           {
             "Name": "Zitronenschale"
@@ -2483,6 +2483,55 @@
           {
             "Id": 9,
             "Description": "Vor dem Servieren für 12 Minuten in den vorgeheizten Ofen geben",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Baguette",
+    "Duration": "3 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "2",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "baguette.jpg",
+    "Oven": {
+      "OperatingMode": "Heißluft",
+      "Temperatur": "240°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "10g Hefe"
+          },
+          {
+            "Name": "Prise Zucker"
+          },
+          {
+            "Name": "300ml Wasser"
+          },
+          {
+            "Name": "380g Mehl (Type 550)"
+          },
+          {
+            "Name": "1 TL Salz"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kommt noch",
             "IsSubStep": false
           }
         ]
