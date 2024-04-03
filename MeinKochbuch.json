@@ -2492,7 +2492,7 @@
   {
     "Id": 23,
     "Name": "Baguette",
-    "Duration": "3 Stunden",
+    "Duration": "2,5 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "2",
     "Optional": "",
@@ -2514,7 +2514,7 @@
             "Name": "Prise Zucker"
           },
           {
-            "Name": "300ml Wasser"
+            "Name": "300ml lauwarmes Wasser"
           },
           {
             "Name": "380g Mehl (Type 550)"
@@ -2531,7 +2531,42 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Kommt noch",
+            "Description": "In einer Schüssel Hefe in Wasser auflösen und eine Prise Zucker dazugeben. Gut umrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Sobald die Hefe aufgelöst ist, das Mehl und das Salz dazugeben und solange umrühren, bis das Mehl mit dem Wasser verbunden ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schüssel abdecken und für zwei Stunden bei Zimmertemperatur lagern",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Herd vorheizen und Baguettblech bereitstellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Arbeitsplatte mit ausreichend Mehl bestreuen (da der Teig \"flüssig\" ist, wird viel Mehl benötigt)",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Teig auf das Mehl geben und auf den Teig nochmal Mehl geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Teig portionieren und auf das Baguettblech geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Das Baguettblech in den vorgeheizten Backofen für 20 Minuten geben",
             "IsSubStep": false
           }
         ]
