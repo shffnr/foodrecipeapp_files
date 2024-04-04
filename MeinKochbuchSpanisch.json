@@ -1,7 +1,7 @@
 [
   {
-    "Id": 1,
     "Name": "Aliño con balsámico",
+    "Id": 1,
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -68,8 +68,8 @@
     ]
   },
   {
-    "Id": 2,
     "Name": "Aliño con miel y mostaza",
+    "Id": 2,
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -136,8 +136,8 @@
     ]
   },
   {
-    "Id": 3,
     "Name": "Salsa de mostaza y eneldo",
+    "Id": 3,
     "Duration": "70 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -209,8 +209,8 @@
     ]
   },
   {
-    "Id": 4,
     "Name": "Tzatziki ",
+    "Id": 4,
     "Duration": "5 Horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -290,8 +290,8 @@
     ]
   },
   {
-    "Id": 5,
     "Name": "Gazpacho ",
+    "Id": 5,
     "Duration": "5 horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -406,8 +406,8 @@
     ]
   },
   {
-    "Id": 6,
     "Name": "Sopa de papas con champiñones y tocino",
+    "Id": 6,
     "Duration": "60 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -529,8 +529,8 @@
     ]
   },
   {
-    "Id": 7,
     "Name": "Sopa de tomate asado",
+    "Id": 7,
     "Duration": "45 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -634,6 +634,132 @@
           {
             "Id": 10,
             "Description": "Sazonar con sal, pimienta y azúcar",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Sopa de zanahoria, kion y coco",
+    "Id": 8,
+    "Duration": "50 Minutos",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "karotteningwerkokussuppe.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "450 ml de sopa de verduras"
+          },
+          {
+            "Name": "1 Cebolla"
+          },
+          {
+            "Name": "500 g de zanahorias"
+          },
+          {
+            "Name": "1 Cdas de polvo de Curry"
+          },
+          {
+            "Name": "1 Cdta de miel"
+          },
+          {
+            "Name": "100 ml de vino blanco"
+          },
+          {
+            "Name": "100 ml de jugo de naranja"
+          },
+          {
+            "Name": "1 Cdta de kion"
+          },
+          {
+            "Name": "400 ml de leche de coco"
+          },
+          {
+            "Name": "1 Cdta de pasta de Curry"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Camarones / Langostinos"
+          },
+          {
+            "Name": "Aceite de oliva"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Calentar el agua y agregar el caldo de verduras",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Pelar las zanahorias y las cebollas y cortarlas en rodajas pequeñas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Calentar el aceite de oliva en una olla y sofreír la cebolla",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Al poco tiempo, añadir las zanahorias y sofreír vigorosamente durante 5 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Agregar el polvo de Curry y la miel; freir brevemente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Desglasar con vino blanco y cocinar a fuego lento hasta que el líquido casi se haya evaporado",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Agregar el jugo de naranja, el kion y el caldo de verduras y cocinar a fuego lento durante unos 20 a 25 minutos hasta que las zanahorias estén suaves",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Agregar la leche de coco y la pasta de Curry y dejar cocinar ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Batir todo y luego colar finamente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Sazonar con sal y pimienta",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Calentar el aceite en una sartén y freír los camarones hasta que estén crujientes",
             "IsSubStep": false
           }
         ]
