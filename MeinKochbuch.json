@@ -2546,7 +2546,7 @@
           },
           {
             "Id": 4,
-            "Description": "Herd vorheizen und Baguettblech bereitstellen",
+            "Description": "Herd vorheizen und Baguetteblech bereitstellen",
             "IsSubStep": false
           },
           {
@@ -2561,12 +2561,12 @@
           },
           {
             "Id": 7,
-            "Description": "Teig portionieren und auf das Baguettblech geben",
+            "Description": "Teig portionieren und auf das Baguetteblech geben",
             "IsSubStep": false
           },
           {
             "Id": 8,
-            "Description": "Das Baguettblech in den vorgeheizten Backofen für 20 Minuten geben",
+            "Description": "Das Baguetteblech in den vorgeheizten Backofen für 20 Minuten geben",
             "IsSubStep": false
           }
         ]
