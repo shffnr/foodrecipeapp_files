@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Aliño con balsámico",
     "Id": 1,
+    "Name": "Aliño con balsámico",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -68,8 +68,8 @@
     ]
   },
   {
-    "Name": "Aliño con miel y mostaza",
     "Id": 2,
+    "Name": "Aliño con miel y mostaza",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -136,8 +136,8 @@
     ]
   },
   {
-    "Name": "Salsa de mostaza y eneldo",
     "Id": 3,
+    "Name": "Salsa de mostaza y eneldo",
     "Duration": "70 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -209,8 +209,8 @@
     ]
   },
   {
-    "Name": "Tzatziki ",
     "Id": 4,
+    "Name": "Tzatziki ",
     "Duration": "5 Horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -290,8 +290,8 @@
     ]
   },
   {
-    "Name": "Gazpacho ",
     "Id": 5,
+    "Name": "Gazpacho ",
     "Duration": "5 horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -406,8 +406,8 @@
     ]
   },
   {
-    "Name": "Sopa de papas con champiñones y tocino",
     "Id": 6,
+    "Name": "Sopa de papas con champiñones y tocino",
     "Duration": "60 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -529,8 +529,8 @@
     ]
   },
   {
-    "Name": "Sopa de tomate asado",
     "Id": 7,
+    "Name": "Sopa de tomate asado",
     "Duration": "45 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -641,8 +641,8 @@
     ]
   },
   {
-    "Name": "Sopa de zanahoria, kion y coco",
     "Id": 8,
+    "Name": "Sopa de zanahoria, kion y coco",
     "Duration": "50 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -760,6 +760,210 @@
           {
             "Id": 11,
             "Description": "Calentar el aceite en una sartén y freír los camarones hasta que estén crujientes",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Name": "Estofado de carne con papas",
+    "Duration": "50 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "En vez de comino de Prado, se puede utilizar también comino o agregar comino ( Aprox. 1/ 4 hasta 1/ 3 de Cdtas)",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "kartoffelgulasch.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "1,5 Kg de papas"
+          },
+          {
+            "Name": "1,5 Kg de cebollas"
+          },
+          {
+            "Name": "1 Diente de ajo"
+          },
+          {
+            "Name": "50 g de mantequilla"
+          },
+          {
+            "Name": "2 Cdas de pasta de tomate"
+          },
+          {
+            "Name": "1,1 L de caldo de sopa"
+          },
+          {
+            "Name": "150 g de nata agria"
+          },
+          {
+            "Name": "Mejorana"
+          },
+          {
+            "Name": "Culantro molido"
+          },
+          {
+            "Name": "Hojuelas de Chile (Al gusto)"
+          },
+          {
+            "Name": "Pimenta en polvo"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Azúcar "
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación ",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar las papas y cortarlas en trozos pequeños; cortar las cebollas en cuadraditos; prensar el ajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Dorar la cebolla y el ajo en la mantequilla",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Añadir una pizca de azúcar, abundante pimentón en polvo, culantro, hojuelas de Chile, comino y papas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar la pasta de tomate, la pimienta y la sal y saltear bien. Si queda demasiado en el fondo, desglasar con un poco de caldo de verduras",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Añadir el caldo de verduras y cocinar a fuego lento durante unos 25 a 30 minutos hasta que las papas estén bien cocidas y se forme una salsa espesa, revolviendo ocasionalmente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Servir con la nata líquida y Mejorana ",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Name": "Verdura de papas agrias",
+    "Duration": "40 Minutos",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "Como aderezo se pueden utilizar camarones, salmón u otro tipo de pescado. Si lo prefieres, puedes omitir el tocino.",
+    "Tip": "",
+    "ImageName": "saureskartoffelgemuese.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "800 g de papas"
+          },
+          {
+            "Name": "3 Cebollas"
+          },
+          {
+            "Name": "125 g de tocino"
+          },
+          {
+            "Name": "400 ml de caldo de pollo"
+          },
+          {
+            "Name": "250 ml de nata líquida"
+          },
+          {
+            "Name": "Chorrito de vinagre o vinagre de manzana"
+          },
+          {
+            "Name": "1 manojo de eneldo"
+          },
+          {
+            "Name": "1 hoja de laurel"
+          },
+          {
+            "Name": "1 Cdta de Mejorada seca"
+          },
+          {
+            "Name": "Aceite"
+          },
+          {
+            "Name": "Comino"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación ",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar las papas y cortarlas en trozos grandes; picar finamente las cebollas; prensar el ajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Calentar el agua y agregar el caldo de pollo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Calentar un chorrito de aceite en una olla y dorar el tocino",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar las cebollas y dorar ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Agregar el ajo, la Mejorada, el comino (al gusto), papas y la harina; dejar dorar por un corto tiempo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Agregar el caldo de pollo, la nata líquida y la hoja de laurel; llevar a la ebullición y cocinar a fuego lento durante unos 25 a 30 minutos hasta que las patatas estén bien cocidas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Utilizar el eneldo restante para decorar",
             "IsSubStep": false
           }
         ]
