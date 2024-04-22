@@ -788,7 +788,7 @@
             "Name": "1,5 Kg de papas"
           },
           {
-            "Name": "1,5 de cebollas"
+            "Name": "Una cebolla y media"
           },
           {
             "Name": "1 Diente de ajo"
@@ -815,7 +815,7 @@
             "Name": "Hojuelas de Chile (Al gusto)"
           },
           {
-            "Name": "Pimenta en polvo"
+            "Name": "Pimienta en polvo"
           },
           {
             "Name": "Sal"
@@ -964,6 +964,116 @@
           {
             "Id": 7,
             "Description": "Utilizar el eneldo restante para decorar",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Name": "Ragú clásico a la boloñesa",
+    "Duration": "210 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "bolognese.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "500 g de carne de res molida"
+          },
+          {
+            "Name": "150 g de panceta o tocino"
+          },
+          {
+            "Name": "1 cebolla grande"
+          },
+          {
+            "Name": "80 g de apio"
+          },
+          {
+            "Name": "80 g de zanahorias"
+          },
+          {
+            "Name": "250 ml de vino blanco y tinto "
+          },
+          {
+            "Name": "400 ml de leche"
+          },
+          {
+            "Name": "500 g de passata (puré de tomate italiano)"
+          },
+          {
+            "Name": "Aceite de oliva"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Fideos de tallarin"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar la panceta, la cebolla, el apio y la zanahoria en cubos pequeños",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Saltear la panceta con aceite en una olla",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Al cabo de un rato, añadir la cebolla, el apio y la zanahoria y sofreír",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar la carne de res picada y sazonar con sal y pimienta, revolviendo constantemente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Cuando la carne haya adquirido buen color, desglasar con vino y dejar que el vino hierva",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Agregar la passata y cocinar a fuego lento tapado durante una hora",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Añadir la mitad de la leche, llevar a ebullición y volver a cocinar a fuego lento durante una hora más",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Repitir el punto 7 y cocinar a fuego lento durante 30 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Cocinar los fideos de tallarin y sazonar el ragú antes de servir",
             "IsSubStep": false
           }
         ]
