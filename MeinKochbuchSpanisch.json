@@ -1079,5 +1079,214 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 12,
+    "Name": "Gratinado de papas",
+    "Duration": "70 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "También, el gratinado de papas sabe muy bien con cubitos de tocino y champiñones",
+    "Tip": "",
+    "ImageName": "kartoffelgratin.jpg",
+    "Oven": {
+      "OperatingMode": "Arriba y abajo",
+      "Temperatur": "180°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "1 Kg de papas"
+          },
+          {
+            "Name": "2 Cebollas"
+          },
+          {
+            "Name": "2 Dientes de ajos"
+          },
+          {
+            "Name": "1 Pieza de mantequilla"
+          },
+          {
+            "Name": "Tomillo"
+          },
+          {
+            "Name": "Comino (opcional)"
+          },
+          {
+            "Name": "400 ml de nata líquida"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Nuez moscada"
+          },
+          {
+            "Name": "Aprox. 120 g de queso rallado"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación ",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar y cortar las cebollas y los dientes de ajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Pelar las papas y cortarlas en rodajas finas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Frotar la fuente para el horno con mantequilla y calentar el resto en la olla",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Saltear la cebolla y el ajo en la olla y añadir el tomillo y opcionalmente el comino poco antes del final",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Desglasar con la nata líquida y llevar a ebullición",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Agregar la pimienta, nuez moscada y sal. La salsa debe tener un sabor demasiado salado.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Echar las papas en la forma, agregar la salsa y cubrir todo con el queso",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Dejar en el horno por cerca 45 minutos",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Name": "Cazuela de coliflor",
+    "Duration": "80 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "blumenkohlauflauf.png",
+    "Oven": {
+      "OperatingMode": "Aire circulante",
+      "Temperatur": "200°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "700 g de coliflor"
+          },
+          {
+            "Name": "500 g de papas"
+          },
+          {
+            "Name": "30 g de harina"
+          },
+          {
+            "Name": "40 g de mantequilla"
+          },
+          {
+            "Name": "125 ml de caldo "
+          },
+          {
+            "Name": "375 ml de leche"
+          },
+          {
+            "Name": "250 g de jamón cocido"
+          },
+          {
+            "Name": "150 g de queso Gouda"
+          },
+          {
+            "Name": "Nuez moscada"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación ",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Limpiar, lavar la coliflor y cortarlas en trozos y dejarla en el agua con sal por 10 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Cortar y lavar las papas y cortarlas en trozos delgados",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Escurrir la coliflor y hervir las papas en agua con sal durante 5 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Calentar la mantequilla en la olla y dorar la harina. Luego, agregar la leche y el caldo y dejar cocinar por 10 minutos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Cortar el jamón en trozos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Colocar en una fuente para horno 3/4 del jamón, las papas y la coliflor",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Añadir 100 g de queso a la salsa, sazonar con sal, pimienta y nuez moscada y dejar vertir en la fuente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Agregar el resto del jamón en la fuente y echar el queso",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Dejar la cazuela en el horno por 25 minutos",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
