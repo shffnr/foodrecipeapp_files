@@ -1288,5 +1288,266 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 14,
+    "Name": "Chana Masala",
+    "Duration": "1 hora",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "chanamasala.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "2 Cebollas medianas"
+          },
+          {
+            "Name": "3 ajos"
+          },
+          {
+            "Name": "1 trozo de kion (~1 cucharada)"
+          },
+          {
+            "Name": "1 pimiento verde pequeño"
+          },
+          {
+            "Name": "2 Latas de garbanzos"
+          },
+          {
+            "Name": "400 g de tomates"
+          },
+          {
+            "Name": "2 Tazas de arroz"
+          },
+          {
+            "Name": "Aceite"
+          },
+          {
+            "Name": "1 Cdta. de semillas de comino"
+          },
+          {
+            "Name": "1 Cdta. de comino"
+          },
+          {
+            "Name": "2 Cdtas. de culantro molido"
+          },
+          {
+            "Name": "1 Cdta. de pimentón en polvo"
+          },
+          {
+            "Name": "1/2 Cdta. de cúrcuma en polvo"
+          },
+          {
+            "Name": "1/4 Cdta. de hojuelas de chile"
+          },
+          {
+            "Name": "1/2 Cdta. de Garam Masala"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Pelar las cebollas y córtarlas en cubos pequeños; lavar los tomates y cortarlos en cubos pequeños; pelar y presionar el ajo; pelar y presionar el kion; lavar el ají y cortarlo en trozos pequeños.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Calentar el aceite en una olla y sofreír la cebolla con las semillas de comino durante unos 7 minutos. Si la mezcla se vuelve demasiado seca, agregar 1-2 cucharaditas de agua.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Añadir el ajo, el kion y el aji picante y sofreir durante 2-3 minutos más.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar todas las especias excepto el Garam Masala y revolver vigorosamente; dejarlo tostar brevemente.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Agregar los tomates y después de 2-3 minutos añadir también los garbanzos, el polvo para hornear, la sal y 2 tazas de agua.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Aumentar el fuego para que todo hierva. Luego, bajar el fuego a medio, cubrir con una tapa y dejarlo cocinar durante 25-30 minutos.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Mientras tanto lavar y cocinar el arroz.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Triturar los garbanzos con una cuchara y dejar cocer a fuego lento hasta conseguir la consistencia deseada.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Apagar el fuego y añadir el Garam nasala. Sazonar con sal y pimienta y agregar algunas de las otras especias si es necesario.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Name": "Ratatouille",
+    "Duration": "1 hora",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "ratatouille.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "1 Cebolla"
+          },
+          {
+            "Name": "1 Pimentón rojo pequeño"
+          },
+          {
+            "Name": "1 Pimentón amarillo pequeño"
+          },
+          {
+            "Name": "1 Tomate"
+          },
+          {
+            "Name": "2 Cdas. de pasta de tomate"
+          },
+          {
+            "Name": "2 Dientes de ajos"
+          },
+          {
+            "Name": "1 Lata de tomates picados"
+          },
+          {
+            "Name": "10 Ramita de romero"
+          },
+          {
+            "Name": "2 Ramitas de tomillo"
+          },
+          {
+            "Name": "Aceite de oliva"
+          },
+          {
+            "Name": "Vinagre Balsámico"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Azúcar"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Lavar bien el zucchini, la berenjena, el tomate, el pimiento y el romero y cortarlos en trozos de diferente grosor excepto el romero.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Cortar la cebolla en cubos finos.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Freír los pimientos con aceite de oliva, sal y pimienta. Luego, transferir los pimientos a una olla y agregar el azúcar y el romero.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Añadir aceite de oliva a la sartén y sofreir los zucchini con sal, pimienta y un diente de ajo machacado.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Añadir los zucchini fritos a los pimientos.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Por último, volvemos a añadir el aceite de oliva a la sartén y sofreímos las berenjenas con sal, pimienta y un diente de ajo.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "En cuanto la berenjena haya adquirido un bonito color, añadir la cebolla y seguir sofriendo. Al poco tiempo, añadir el tomillo.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Esperar de nuevo brevemente y luego agregar la pasta de tomate y dejar de sofreír bien.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Una vez frita la pasta de tomate, añadir un chorrito de vinagre balsámico y dejar actuar brevemente.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Desglasar con los tomates y los tomates de la lata y llevar a la ebullición. Luego, añadir el contenido de la sartén a las demás verduras.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Enjuaguar la cacerola con agua y agrégar a las verduras.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Llevar las verduras a ebullición en la olla y luego cocinar a fuego lento hasta que tengan una buena consistencia sólido-líquido.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 13,
+            "Description": "Sacar de la olla los dientes de ajo y el romero y listo.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
