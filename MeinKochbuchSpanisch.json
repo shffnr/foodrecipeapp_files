@@ -1311,13 +1311,13 @@
             "Name": "2 Cebollas medianas"
           },
           {
-            "Name": "3 ajos"
+            "Name": "3 Ajos"
           },
           {
-            "Name": "1 trozo de kion (~1 cucharada)"
+            "Name": "1 Trozo de kion (~1 cucharada)"
           },
           {
-            "Name": "1 pimiento verde pequeño"
+            "Name": "1 Pimiento verde pequeño"
           },
           {
             "Name": "2 Latas de garbanzos"
@@ -1367,7 +1367,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Pelar las cebollas y córtarlas en cubos pequeños; lavar los tomates y cortarlos en cubos pequeños; pelar y presionar el ajo; pelar y presionar el kion; lavar el ají y cortarlo en trozos pequeños.",
+            "Description": "Pelar las cebollas y cortar en cubos pequeños; lavar los tomates y cortarlos en cubos pequeños; pelar y presionar el ajo; pelar y presionar el kion; lavar el ají y cortarlo en trozos pequeños.",
             "IsSubStep": false
           },
           {
