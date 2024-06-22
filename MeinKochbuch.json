@@ -2497,7 +2497,7 @@
     "Name": "Baguette",
     "Duration": "2,5 Stunden",
     "NumberOfPersons": "",
-    "NumberOfQuantity": "2",
+    "NumberOfQuantity": "3",
     "Optional": "",
     "Variant": "",
     "Tip": "",
@@ -2511,19 +2511,19 @@
         "Description": "Zutaten",
         "Foods": [
           {
-            "Name": "10g Hefe"
+            "Name": "20g Hefe"
           },
           {
-            "Name": "Prise Zucker"
+            "Name": "1 TL Zucker"
           },
           {
             "Name": "300ml lauwarmes Wasser"
           },
           {
-            "Name": "380g Mehl (Type 550)"
+            "Name": "760g Mehl (Type 550)"
           },
           {
-            "Name": "1 TL Salz"
+            "Name": "3 TL Salz"
           }
         ]
       }
@@ -2534,7 +2534,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "In einer Schüssel Hefe in Wasser auflösen und eine Prise Zucker dazugeben. Gut umrühren",
+            "Description": "In einer Schüssel Hefe in Wasser auflösen und den Zucker dazugeben. Gut umrühren",
             "IsSubStep": false
           },
           {
@@ -2569,7 +2569,7 @@
           },
           {
             "Id": 8,
-            "Description": "Das Baguetteblech in den vorgeheizten Backofen für 20 Minuten geben",
+            "Description": "Das Baguetteblech in den vorgeheizten Backofen für 20 Minuten geben. Zusätzlich eine kleine Schüssel mit Wasser in den Ofen stellen",
             "IsSubStep": false
           }
         ]
