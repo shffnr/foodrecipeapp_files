@@ -2727,7 +2727,7 @@
           },
           {
             "Id": 13,
-            "Description": "Backhofen vorheizen",
+            "Description": "Backofen vorheizen",
             "IsSubStep": false
           }
         ]
@@ -2747,7 +2747,7 @@
           },
           {
             "Id": 3,
-            "Description": "Mit Schwarzkümmel und Sesam bestreuen und im Backhofen auf der mittleren Schiene ca. 12 Minuten backen. Wenn möglich mit etwas Wasserdampf",
+            "Description": "Mit Schwarzkümmel und Sesam bestreuen und im Backofen auf der mittleren Schiene ca. 12 Minuten backen. Wenn möglich mit etwas Wasserdampf",
             "IsSubStep": false
           },
           {
