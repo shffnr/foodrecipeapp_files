@@ -2575,5 +2575,188 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 24,
+    "Name": "Fladenbrot",
+    "Duration": "24 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "fladenbrot.png",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "250°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Poolish",
+        "Foods": [
+          {
+            "Name": "260g Weizenmehl Type 00 oder 405"
+          },
+          {
+            "Name": "260g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "0,5g frische Hefe"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Hauptteig",
+        "Foods": [
+          {
+            "Name": "260g Weizenmehl Type 00 oder 405"
+          },
+          {
+            "Name": "5g frische Hefe"
+          },
+          {
+            "Name": "60g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "12g Salz"
+          },
+          {
+            "Name": "15g Naturjoghurt"
+          },
+          {
+            "Name": "15g Olivenöl"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Topping",
+        "Foods": [
+          {
+            "Name": "1 Eigelb"
+          },
+          {
+            "Name": "30g Naturjoghurt"
+          },
+          {
+            "Name": "Schwarzkümmelsamen"
+          },
+          {
+            "Name": "Sesamkörner"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Poolish",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten in eine ausreichend hohe Frischhaltebox geben und mit einem Kochlöffel verrühren, bis eine pastenartige Masse entsteht",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Frischhaltebox verschließen und bei Raumtemperatur für ca. 20 Stunden reifen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Hauptteig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Poolish, Mehl, Hefe und 30g kaltes Wasser in eine große Schüssel geben und von Hand vermengen, bis das ganze Wasser absorbiert ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Anschließend das restliche Wasser, dann Salz, Olivenöl und Joghurt hinzugeben und einarbeiten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig kräftig kneten. Möglichkeiten:",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "In der Küchenmaschine für ca 5. Minuten auf mittlerer Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Per Hand. Hierzu den Teig auf eine leicht bemehlte Arbeitsfläche stürzen und 10-15 Minuten kneten, bis der Teig geschmeidig ist",
+            "IsSubStep": true
+          },
+          {
+            "Id": 6,
+            "Description": "Den Teig dehnen und falten, um 90 Grad drehen und den Vorgang 2-mal wiederholen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Teigkugel 5-6 mal schleifen, sodass sie Spannung bekommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Eine Schüssel mit wenig Olivenöl einschmieren und die Teigkugel darin eine Stunde ruhen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Backpapier auf einem Backblech auslegen und zur Seite stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Den Teig in 4 gleich große Stücke (á ca. 220g) teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Teigstück rundwirken und wenden, sodass die Naht unten liegt. 5-6 mal zu einer schönen Teigkugel schleifen und auf das Backblech legen. Vorgang für jedes Teigstück durchführen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Teigkugeln mit einem feuchten Küchentuch eine Stunde abgedckt ruhen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 13,
+            "Description": "Backhofen vorheizen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Topping",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Eigelb und Joghurt verrühren und die Teigkugeln damit bestreichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit 1,5cm Abstand zum Rand mit den Fingerkuppen rundum eine Rille in die teiglinge drücken, dann in das Kreisinnere mehrere Mulden mit den Fingerkuppen drücken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Mit Schwarzkümmel und Sesam bestreuen und im Backhofen auf der mittleren Schiene ca. 12 Minuten backen. Wenn möglich mit etwas Wasserdampf",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Fladenbrote anschließend etwas abkühlen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
