@@ -669,7 +669,7 @@
     "ImageName": "tomatencremesuppe.jpg",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°"
+      "Temperatur": "180°C"
     },
     "Ingredients": [
       {
@@ -1240,7 +1240,7 @@
     "ImageName": "kartoffelgratin.jpg",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°"
+      "Temperatur": "180°C"
     },
     "Ingredients": [
       {
@@ -1342,7 +1342,7 @@
     "ImageName": "blumenkohlauflauf.png",
     "Oven": {
       "OperatingMode": "Umluft",
-      "Temperatur": "200°"
+      "Temperatur": "200°C"
     },
     "Ingredients": [
       {
@@ -1716,7 +1716,7 @@
     "ImageName": "enchilada.jpg",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "175°"
+      "Temperatur": "175°C"
     },
     "Ingredients": [
       {
@@ -1983,7 +1983,7 @@
     "ImageName": "lasagne.png",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°"
+      "Temperatur": "180°C"
     },
     "Ingredients": [
       {
@@ -2206,6 +2206,240 @@
   },
   {
     "Id": 20,
+    "Name": "Hühnerburger mit Kartoffelspalten",
+    "Duration": "90 Minuten",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "Gibt man auf den Deckel die Burgersoße und darauf die Röstzwiebel, haften diese an der Soße und fallen nicht vom Burger",
+    "ImageName": "haehnchenburger_mit_kartoffelspalten.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "200°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Burgersoße",
+        "Foods": [
+          {
+            "Name": "1 rote Zwiebel"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "etwas Öl"
+          },
+          {
+            "Name": "1 Chili"
+          },
+          {
+            "Name": "1 Fleischtomate"
+          },
+          {
+            "Name": "1 Frühlingszwiebel"
+          },
+          {
+            "Name": "4 EL BBQ-Soße"
+          },
+          {
+            "Name": "1 EL körniger Frischkäse"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Kartoffelspalten",
+        "Foods": [
+          {
+            "Name": "600g festkochende Kartoffeln"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "100ml Öl"
+          },
+          {
+            "Name": "2 Zweige Rosmarin"
+          },
+          {
+            "Name": "1 TL Paprikapulver"
+          },
+          {
+            "Name": "etwas Hagelsalz"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Hühnerburger",
+        "Foods": [
+          {
+            "Name": "4 Hähnchenbrüste"
+          },
+          {
+            "Name": "etwas Orangenpfeffer"
+          },
+          {
+            "Name": "Prise Salz"
+          },
+          {
+            "Name": "Öl zum Anbraten"
+          },
+          {
+            "Name": "4 Scheiben Bergkäse"
+          },
+          {
+            "Name": "4 Scheiben roher Schinken"
+          },
+          {
+            "Name": "4 Burgerbrötchen"
+          },
+          {
+            "Name": "4 EL süßer Senf"
+          },
+          {
+            "Name": "2 Essiggurken"
+          },
+          {
+            "Name": "2 EL Röstzwiebeln"
+          },
+          {
+            "Name": "2 Handvoll Rucola"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Burgersoße",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Rote Zwiebel und den Knoblauch schälen, fein würfeln und in einem kleinen Topf mit Öl anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Chili-Schote in Ringe schneiden und ebenfalls in den Topf geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Fleischtomate in ca. 1 cm große Würfel schneiden, mit in den Topf geben und leicht köchelnd einkochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Frühlingszwiebel in Ringe schneiden, mit der BBQ-Soße in den Topf geben, nochmals aufkochen und vom Herd nehmen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Frischkäse einrühren und die Soße auskühlen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Kartoffelspalten",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kartoffeln waschen, abtropfen lassen, in Spalten von ca. 2 cm schneiden und in eine Schüssel geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Knoblauch schälen und mit gut 100 ml Öl pürieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Rosmarin abzupfen und mit ins Öl geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Kartoffelecken mit dem Öl einmassieren und auf ein Backblech geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Mit Hagelsalz und Paprikapulver würzen und im vorgeheizten Backofen für 30 Minuten backen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Hähnchenbrüste",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Die Hähnchenbrüste mit Orangenpfeffer und Salz würzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": " Pfanne mit etwas Öl erhitzen und Fleisch von beiden Seiten ausbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Nach dem ersten Wenden den Bergkäse auf die Brüste legen, damit er leicht schmelzen kann",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "In einer weiteren Pfanne den Schinken knusprig braten",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Burger zusammensetzen",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "In den letzten 5 Minuten der Kartoffeln die Burgerbrötchen mit in den Ofen geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Brötchen aufschneiden und auf den Boden süßen Senf streichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Darauf den Rucola verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Hähnchenbrüste mit dem Bergkäse auf den Rucola legen und darauf den knusprigen Schinken geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Essiggurken der Länge nach in Scheiben schneiden und verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Auf den Deckel etwas Burgersoße geben und darauf die Röstzwiebel verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Noch etwas Burgersoße darauf geben und den Deckel zuklappen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 21,
     "Name": "Mousse au Chocolat",
     "Duration": "25 Stunden",
     "NumberOfPersons": "4",
@@ -2293,7 +2527,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Tiramisu",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
@@ -2401,7 +2635,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Schoko-Soufflé",
     "Duration": "13 Stunden",
     "NumberOfPersons": "6",
@@ -2412,7 +2646,7 @@
     "ImageName": "schokosouffle.jpg",
     "Oven": {
       "OperatingMode": "Umluft",
-      "Temperatur": "180°"
+      "Temperatur": "180°C"
     },
     "Ingredients": [
       {
@@ -2493,7 +2727,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Baguette",
     "Duration": "2,5 Stunden",
     "NumberOfPersons": "",
@@ -2504,7 +2738,7 @@
     "ImageName": "baguette.jpg",
     "Oven": {
       "OperatingMode": "Heißluft",
-      "Temperatur": "240°"
+      "Temperatur": "240°C"
     },
     "Ingredients": [
       {
@@ -2577,7 +2811,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Fladenbrot",
     "Duration": "24 Stunden",
     "NumberOfPersons": "",
@@ -2588,7 +2822,7 @@
     "ImageName": "fladenbrot.png",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "250°"
+      "Temperatur": "250°C"
     },
     "Ingredients": [
       {
