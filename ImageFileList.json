@@ -43,7 +43,7 @@
     "ImageName": "haehnchenburger_mit_kartoffelspalten.jpg",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/haehnchenburger_mit_kartoffelspalten.jpg?raw=true"
   },
-    {
+  {
     "ImageName": "honigsenfdressing.jpg",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/honigsenfdressing.jpg?raw=true"
   },
@@ -66,6 +66,10 @@
   {
     "ImageName": "kartoffelsuppe.png",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/kartoffelsuppe.png?raw=true"
+  },
+    {
+    "ImageName": "knoblauch_kraeuter_broetchen.jpeg",
+    "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/knoblauch_kraeuter_broetchen.jpeg?raw=true"
   },
   {
     "ImageName": "lasagne.png",

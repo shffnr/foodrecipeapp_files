@@ -592,7 +592,7 @@
             "Name": "200g Schlagsahne"
           },
           {
-            "Name": "200g Champignons"
+            "Name": "400g Champignons"
           },
           {
             "Name": "Bacon"
@@ -2812,6 +2812,189 @@
   },
   {
     "Id": 25,
+    "Name": "Knoblauch Kräuter Käsebrötchen",
+    "Duration": "16 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "12",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "knoblauch_kraeuter_broetchen.jpeg",
+    "Oven": {
+      "OperatingMode": "220°C",
+      "Temperatur": "Ober-/Unterhitze"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Brötchenteig",
+        "Foods": [
+          {
+            "Name": "500g Weizenmehl Type 00 oder 405"
+          },
+          {
+            "Name": "200g kaltes Wasser"
+          },
+          {
+            "Name": "10g Salz"
+          },
+          {
+            "Name": "20g Zucker"
+          },
+          {
+            "Name": "10g frische Hefe"
+          },
+          {
+            "Name": "1 Ei"
+          },
+          {
+            "Name": "50g Butter"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Füllung und Topping",
+        "Foods": [
+          {
+            "Name": "120g Mozzarellaperlen"
+          },
+          {
+            "Name": "Italienische Kräutermischung"
+          },
+          {
+            "Name": "50g Olivenöl"
+          },
+          {
+            "Name": "3-4 Knoblauchzehen"
+          },
+          {
+            "Name": "Dill"
+          },
+          {
+            "Name": "Koriander"
+          },
+          {
+            "Name": "Thymian"
+          },
+          {
+            "Name": "Petersilie"
+          },
+          {
+            "Name": "Oregano"
+          },
+          {
+            "Name": "1 Prise Salz"
+          },
+          {
+            "Name": "Parmesan"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Brötchenteig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten in der Küchenmaschine ca. 15-20 Minuten zu einem Teig kneten. Zunächst auf kleiner Stufe und dann die Geschwindigkeit erhöhen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Den Teig in eine Schüssel geben und abgedeckt 30 Minuten ruhen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig aus der Schüssel holen und kneten und falten.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Anschließend den Teig wieder in die Schüssel geben, abdecken und für 12 Stunden in den Kühlschrank stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Arbeitsfläche mit Mehl benetzten und den Teig in 70g Portionen teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Die Teigportionen zu kleinen Kugeln formen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Anschließend die Kugel mit einem Nudelholz leicht ausrollen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Die Mozzarellaperlen abtropfen lassen und mit den italienischen Kräutern bestreuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Pro Teigportion eine Mozzarellaperle in die Mitte legen und wieder zu einer Kugel verschließen / formen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Die Kugeln auf ein Backblech geben; eng anordnen und mit einem Backrahmen umschließen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Nochmal 90 Minuten gehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Topping",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Knoblauch schälen und pressen und zum Olivenöl geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die restlichen Kräuter, bis auf die italiensichen Kräuter, waschen und klein hacken und ebenfalls zum Olivenöl geben ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Salz dazugeben und gut umrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Mit einem Pinsel die Brötchen bestreichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Zum Schluss etwas Parmesan über die Brötchen reiben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Das Blech in die mittlere Rille des Ofen schieben, die Ofentemperatur auf 210°C reduzieren und für 20 bis 25 Minuten gold-gelb backen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Kurz abkühlen lassen und warm verzehren",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 26,
     "Name": "Fladenbrot",
     "Duration": "24 Stunden",
     "NumberOfPersons": "",
