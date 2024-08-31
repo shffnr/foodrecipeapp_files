@@ -788,7 +788,7 @@
         "Description": "Zutaten",
         "Foods": [
           {
-            "Name": "450ml Gemüsebrühe"
+            "Name": "400ml Gemüsebrühe"
           },
           {
             "Name": "1 Zwiebel"
@@ -803,7 +803,7 @@
             "Name": "1 TL Honig"
           },
           {
-            "Name": "100ml Weißwein"
+            "Name": "50ml Weißwein"
           },
           {
             "Name": "100ml Orangensaft"
@@ -2956,7 +2956,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Knoblauch schälen und pressen und zum Olivenöl geben",
+            "Description": "Knoblauch schälen, pressen und zum Olivenöl geben",
             "IsSubStep": false
           },
           {
