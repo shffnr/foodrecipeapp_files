@@ -50,7 +50,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Schneebesen miteinander verrühren",
+            "Description": "Balsamico, Wasser, Honig, Senf und Zucker mit einem Pürierstab mixen",
             "IsSubStep": false
           },
           {
@@ -3170,6 +3170,142 @@
           {
             "Id": 4,
             "Description": "Fladenbrote anschließend etwas abkühlen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 27,
+    "Name": "Russischer Zupfkuchen",
+    "Duration": "90 Minuten",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "1",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "russischer_zupfkuchen.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Teig",
+        "Foods": [
+          {
+            "Name": "420g Mehl Type 405"
+          },
+          {
+            "Name": "40g Kakaopulver"
+          },
+          {
+            "Name": "3 TL Backpulver"
+          },
+          {
+            "Name": "200g Zucker"
+          },
+          {
+            "Name": "2 Tüten Vanillezucker"
+          },
+          {
+            "Name": "2 Eier"
+          },
+          {
+            "Name": "250g Butter"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Füllung",
+        "Foods": [
+          {
+            "Name": "375g Butter"
+          },
+          {
+            "Name": "1kg Magerquark"
+          },
+          {
+            "Name": "2 Tüten Vanillezucker"
+          },
+          {
+            "Name": "2 Tüten Puddingpulver (Vanille)"
+          },
+          {
+            "Name": "4 Eier"
+          },
+          {
+            "Name": "250g Zucker"
+          },
+          {
+            "Name": "Mehl für die Arbeitsfläche"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Teig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Mehl, Kakaopulver und Backpulver in eine Rührschüssel sieben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Zucker, Vanillezucker, Eier und Butter hinzugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Die Zutaten mit dem Handrührer (Knethaken) kurz auf niedrigster, dann auf höchster Stufe gut durcharbeiten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Anschließend den Teig auf einer leicht bemehlten Arbeitsfläche kurz verkneten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Zwei Drittel des Teiges auf einem Backblech ausrollen und einen Backrahmen darum stellen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Füllung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Butter zerlassen und abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Quark mit Zucker, Vanillin-Zucker, Puddingpulver und Eiern in einer Schüssel mit dem Handrührgerät mit Rührbesen verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Flüssige Butter unterrühren und alles zu einer einheitlichen Masse verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Auf dem Teig verteilen und glatt streichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Den restlichen Teig in kleine Stücke zerzupfen und auf der Füllung verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Kuchen für ca. 45 Minuten auf der mittleren Schiene in den Backhofen geben",
             "IsSubStep": false
           }
         ]

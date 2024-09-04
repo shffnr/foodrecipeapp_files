@@ -67,7 +67,7 @@
     "ImageName": "kartoffelsuppe.png",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/kartoffelsuppe.png?raw=true"
   },
-    {
+  {
     "ImageName": "knoblauch_kraeuter_broetchen.jpeg",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/knoblauch_kraeuter_broetchen.jpeg?raw=true"
   },
@@ -86,6 +86,10 @@
   {
     "ImageName": "ratatouille.jpg",
     "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/ratatouille.jpg?raw=true"
+  },
+  {
+    "ImageName": "russischer_zupfkuchen.jpg",
+    "Link": "https://github.com/shffnr/foodrecipeapp_files/blob/master/Images/russischer_zupfkuchen.jpg?raw=true"
   },
   {
     "ImageName": "saureskartoffelgemuese.jpg",
