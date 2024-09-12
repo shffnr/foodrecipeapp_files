@@ -2,6 +2,7 @@
   {
     "Id": 1,
     "Name": "Balsamico Dressing",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -70,6 +71,7 @@
   {
     "Id": 2,
     "Name": "Honig-Senf Dressing",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -138,6 +140,7 @@
   {
     "Id": 3,
     "Name": "Dill-Senf Sauce",
+    "Category": "Dressing und Sauce",
     "Duration": "70 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -214,6 +217,7 @@
   {
     "Id": 4,
     "Name": "Tsatsiki",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -295,6 +299,7 @@
   {
     "Id": 5,
     "Name": "Papa a la Huancaína",
+    "Category": "Vorspeise",
     "Duration": "35 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -418,6 +423,7 @@
   {
     "Id": 6,
     "Name": "Gazpacho",
+    "Category": "Suppe",
     "Duration": "5 Stunden",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -537,6 +543,7 @@
   {
     "Id": 7,
     "Name": "Kartoffelsuppe mit Champignons und Bacon",
+    "Category": "Suppe",
     "Duration": "60 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -660,6 +667,7 @@
   {
     "Id": 8,
     "Name": "Geröstete Tomatensuppe",
+    "Category": "Suppe",
     "Duration": "45 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -772,6 +780,7 @@
   {
     "Id": 9,
     "Name": "Karotten-Ingwer-Kokos Suppe",
+    "Category": "Suppe",
     "Duration": "50 Minuten ",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -898,6 +907,7 @@
   {
     "Id": 10,
     "Name": "Tiroler Kartoffelgulasch",
+    "Category": "Hauptgericht",
     "Duration": "50 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1002,6 +1012,7 @@
   {
     "Id": 11,
     "Name": "Saures Kartoffelgemüse",
+    "Category": "Beilage",
     "Duration": "40 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -1121,6 +1132,7 @@
   {
     "Id": 12,
     "Name": "Klassisches Ragù alla Bolognese",
+    "Category": "Hauptgericht",
     "Duration": "210 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1231,6 +1243,7 @@
   {
     "Id": 13,
     "Name": "Kartoffelgratin",
+    "Category": "Hauptgericht",
     "Duration": "70 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1333,6 +1346,7 @@
   {
     "Id": 14,
     "Name": "Blumenkohlauflauf",
+    "Category": "Hauptgericht",
     "Duration": "80 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1440,6 +1454,7 @@
   {
     "Id": 15,
     "Name": "Chana Masala",
+    "Category": "Hauptgericht",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1565,6 +1580,7 @@
   {
     "Id": 16,
     "Name": "Ratatouille",
+    "Category": "Beilage",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1707,6 +1723,7 @@
   {
     "Id": 17,
     "Name": "Enchilada",
+    "Category": "Hauptgericht",
     "Duration": "70 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1856,6 +1873,7 @@
   {
     "Id": 18,
     "Name": "Ají de Gallina",
+    "Category": "Hauptgericht",
     "Duration": "1 Stunde",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1974,6 +1992,7 @@
   {
     "Id": 19,
     "Name": "Saftige Lasagne",
+    "Category": "Hauptgericht",
     "Duration": "2 Stunden",
     "NumberOfPersons": "5",
     "NumberOfQuantity": "",
@@ -2207,6 +2226,7 @@
   {
     "Id": 20,
     "Name": "Hühnerburger mit Kartoffelspalten",
+    "Category": "Hauptgericht",
     "Duration": "90 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -2441,6 +2461,7 @@
   {
     "Id": 21,
     "Name": "Mousse au Chocolat",
+    "Category": "Dessert",
     "Duration": "25 Stunden",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -2529,6 +2550,7 @@
   {
     "Id": 22,
     "Name": "Tiramisu",
+    "Category": "Dessert",
     "Duration": "6 Stunden",
     "NumberOfPersons": "9",
     "NumberOfQuantity": "",
@@ -2637,6 +2659,7 @@
   {
     "Id": 23,
     "Name": "Schoko-Soufflé",
+    "Category": "Dessert",
     "Duration": "13 Stunden",
     "NumberOfPersons": "6",
     "NumberOfQuantity": "",
@@ -2729,6 +2752,7 @@
   {
     "Id": 24,
     "Name": "Baguette",
+    "Category": "Backen",
     "Duration": "2,5 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "3",
@@ -2813,6 +2837,7 @@
   {
     "Id": 25,
     "Name": "Knoblauch Kräuter Käsebrötchen",
+    "Category": "Backen",
     "Duration": "16 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "12",
@@ -2996,6 +3021,7 @@
   {
     "Id": 26,
     "Name": "Fladenbrot",
+    "Category": "Backen",
     "Duration": "24 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "4",
@@ -3179,6 +3205,7 @@
   {
     "Id": 27,
     "Name": "Russischer Zupfkuchen",
+    "Category": "Backen",
     "Duration": "90 Minuten",
     "NumberOfPersons": "",
     "NumberOfQuantity": "1",
