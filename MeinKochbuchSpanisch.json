@@ -2,6 +2,7 @@
   {
     "Id": 1,
     "Name": "Aliño con balsámico",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -70,6 +71,7 @@
   {
     "Id": 2,
     "Name": "Aliño con miel y mostaza",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -138,6 +140,7 @@
   {
     "Id": 3,
     "Name": "Salsa de mostaza y eneldo",
+    "Category": "Dressing und Sauce",
     "Duration": "70 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -211,6 +214,7 @@
   {
     "Id": 4,
     "Name": "Tzatziki ",
+    "Category": "Dressing und Sauce",
     "Duration": "5 Horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -292,6 +296,7 @@
   {
     "Id": 5,
     "Name": "Gazpacho ",
+    "Category": "Suppe",
     "Duration": "5 horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -408,6 +413,7 @@
   {
     "Id": 6,
     "Name": "Sopa de papas con champiñones y tocino",
+    "Category": "Suppe",
     "Duration": "60 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -531,6 +537,7 @@
   {
     "Id": 7,
     "Name": "Sopa de tomate asado",
+    "Category": "Suppe",
     "Duration": "45 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -643,6 +650,7 @@
   {
     "Id": 8,
     "Name": "Sopa de zanahoria, kion y coco",
+    "Category": "Suppe",
     "Duration": "50 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -769,6 +777,7 @@
   {
     "Id": 9,
     "Name": "Estofado de carne con papas",
+    "Category": "Hauptgericht",
     "Duration": "50 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -870,6 +879,7 @@
   {
     "Id": 10,
     "Name": "Verdura de papas agrias",
+    "Category": "Beilage",
     "Duration": "40 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -973,6 +983,7 @@
   {
     "Id": 11,
     "Name": "Ragú clásico a la boloñesa",
+    "Category": "Hauptgericht",
     "Duration": "210 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1083,6 +1094,7 @@
   {
     "Id": 12,
     "Name": "Gratinado de papas",
+    "Category": "Hauptgericht",
     "Duration": "70 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1185,6 +1197,7 @@
   {
     "Id": 13,
     "Name": "Cazuela de coliflor",
+    "Category": "Hauptgericht",
     "Duration": "80 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1292,6 +1305,7 @@
   {
     "Id": 14,
     "Name": "Chana Masala",
+    "Category": "Hauptgericht",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1417,6 +1431,7 @@
   {
     "Id": 15,
     "Name": "Ratatouille",
+    "Category": "Beilage",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
