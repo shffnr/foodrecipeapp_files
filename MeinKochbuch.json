@@ -2567,6 +2567,12 @@
         "Description": "Zutaten",
         "Foods": [
           {
+            "Name": "360ml Kaffee"
+          },
+          {
+            "Name": "4 EL Amaretto"
+          },
+          {
             "Name": "5 Eier"
           },
           {
@@ -2579,16 +2585,10 @@
             "Name": "750g Mascarpone"
           },
           {
-            "Name": "240ml Kaffee mit Zucker"
-          },
-          {
-            "Name": "6 EL Amaretto"
+            "Name": "150g / 300g Löffelbiskuits mit Zucker"
           },
           {
             "Name": "Backkakao"
-          },
-          {
-            "Name": "125g / 250g Löffelbiskuits mit Zucker"
           }
         ]
       }
@@ -3125,7 +3125,7 @@
           },
           {
             "Id": 3,
-            "Description": "In der Küchenmaschine für ca 5 Minuten auf kleinster Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
+            "Description": "In der Küchenmaschine für ca. 5 Minuten auf kleinster Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
             "IsSubStep": true
           },
           {
