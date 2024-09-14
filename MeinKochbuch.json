@@ -2634,7 +2634,7 @@
           },
           {
             "Id": 7,
-            "Description": "Eine Hälfte der Biskuits mit Kaffee 3x bepinseln und in die Form/Schüssel legen",
+            "Description": "Biskuits einmal schnell im Kaffee um 360° wenden und in die Form/Schüssel legen",
             "IsSubStep": true
           },
           {
@@ -2649,7 +2649,7 @@
           },
           {
             "Id": 11,
-            "Description": "Tiramisu mit Backkakao bestreuen",
+            "Description": "Vor dem Servieren mit Backkakao bestreuen",
             "IsSubStep": false
           }
         ]
