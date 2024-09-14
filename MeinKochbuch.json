@@ -2609,12 +2609,12 @@
           },
           {
             "Id": 3,
-            "Description": "Eiweiß steifschlagen und dabei nach und nach insgesamt 60g Zucker dazugeben",
+            "Description": "Eiweiß steifschlagen",
             "IsSubStep": false
           },
           {
             "Id": 4,
-            "Description": "60g Zucker und Salz zu dem Eigelb geben und zu einer cremigen Mischung mit einem Mixer rühren",
+            "Description": "Zucker und Salz zu dem Eigelb geben und zu einer cremigen Mischung mit einem Mixer rühren",
             "IsSubStep": false
           },
           {
@@ -2644,12 +2644,12 @@
           },
           {
             "Id": 10,
-            "Description": "Tiramisu mit Backkakao bestreuen",
+            "Description": "Für mindestens fünf Stunden in den Kühlschrank stellen (besser noch 24 Stunden)",
             "IsSubStep": false
           },
           {
             "Id": 11,
-            "Description": "Für mindestens fünf Stunden in den Kühlschrank stellen (besser noch 24 Stunden)",
+            "Description": "Tiramisu mit Backkakao bestreuen",
             "IsSubStep": false
           }
         ]
@@ -3125,12 +3125,12 @@
           },
           {
             "Id": 3,
-            "Description": "In der Küchenmaschine für ca 5. Minuten auf kleinster Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
+            "Description": "In der Küchenmaschine für ca 5 Minuten auf kleinster Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
             "IsSubStep": true
           },
           {
             "Id": 3,
-            "Description": "Per Hand. Hierzu den Teig auf eine leicht bemehlte Arbeitsfläche stürzen und 10-15 Minuten kneten, bis der Teig geschmeidig ist",
+            "Description": "Per Hand: Hierzu den Teig auf eine leicht bemehlte Arbeitsfläche stürzen und 10-15 Minuten kneten, bis der Teig geschmeidig ist",
             "IsSubStep": true
           },
           {
@@ -3155,7 +3155,7 @@
           },
           {
             "Id": 10,
-            "Description": "Den Teig in 4 gleich große Stücke (á ca. 220g) teilen",
+            "Description": "Den Teig in 4 gleichgroße Stücke (á ca. 220g) teilen",
             "IsSubStep": false
           },
           {
@@ -3165,7 +3165,7 @@
           },
           {
             "Id": 12,
-            "Description": "Teigkugeln mit einem feuchten Küchentuch eine Stunde abgedckt ruhen lassen",
+            "Description": "Teigkugeln mit einem feuchten Küchentuch eine Stunde abgedeckt ruhen lassen",
             "IsSubStep": false
           },
           {
@@ -3185,12 +3185,12 @@
           },
           {
             "Id": 2,
-            "Description": "Mit 1,5cm Abstand zum Rand mit den Fingerkuppen rundum eine Rille in die teiglinge drücken, dann in das Kreisinnere mehrere Mulden mit den Fingerkuppen drücken",
+            "Description": "Mit 1,5cm Abstand zum Rand mit den Fingerkuppen rundum eine Rille in die Teiglinge drücken, dann in das Kreisinnere mehrere Mulden mit den Fingerkuppen drücken",
             "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Mit Schwarzkümmel und Sesam bestreuen und im Backofen auf der mittleren Schiene ca. 12 Minuten backen. Wenn möglich mit etwas Wasserdampf",
+            "Description": "Mit Schwarzkümmel und Sesam bestreuen und im Backofen auf der mittleren Schiene ca. 13 Minuten backen, wenn möglich mit etwas Wasserdampf",
             "IsSubStep": false
           },
           {
