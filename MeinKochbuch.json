@@ -2931,7 +2931,7 @@
           },
           {
             "Id": 3,
-            "Description": "Den Teig aus der Schüssel holen und kneten und falten.",
+            "Description": "Den Teig aus der Schüssel holen und kneten und falten",
             "IsSubStep": false
           },
           {
@@ -3333,6 +3333,129 @@
           {
             "Id": 6,
             "Description": "Kuchen für ca. 45 Minuten auf der mittleren Schiene in den Backofen geben",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 28,
+    "Name": "Brownie",
+    "Category": "Backen",
+    "Duration": "40 Minuten",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "1",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "brownie.jpeg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "175°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "120g 70%ige Schokolade"
+          },
+          {
+            "Name": "60g Vollmilchschokolade"
+          },
+          {
+            "Name": "180g Butter"
+          },
+          {
+            "Name": "4 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "6 Eier"
+          },
+          {
+            "Name": "110g weißer Zucker"
+          },
+          {
+            "Name": "100g brauner Zucker"
+          },
+          {
+            "Name": "140g Weizenmehl"
+          },
+          {
+            "Name": "1 TL Backpulver (gestrichen)"
+          },
+          {
+            "Name": "100g Backkakao"
+          },
+          {
+            "Name": "80g Zartbitterschokolade"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "70%ige und Vollmilschschokolade klein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Klein gehackte Schokolade mit der Butter im heißen Wasserbad schmelzen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Leicht abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Öl zur Schoko-Butter-Masse geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Eier mit dem weißen und braunen Zucker sehr schaumig schlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mehl mit Backpulver und Backkakao mischen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Die Mischung mit der Schoko-Butter-Masse kurz, aber kräftig unter die Eiercreme rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Zartbitterschokolade klein hacken und ein Teil in die Masse rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Backpapier auf Backblech oder Backform legen und den Teig darauf verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Glattstreichen und mit der restlichen Schokolade garnieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Teig für ca. 15 bis 20 Minuten in den Backofen geben. Der Teig sollte noch etwas weich sein, aber im Inneren nicht mehr hin- und her wackeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Brownies abkühlen lassen",
             "IsSubStep": false
           }
         ]
