@@ -296,7 +296,7 @@
   {
     "Id": 5,
     "Name": "Gazpacho ",
-    "Category": "Dressing und Sauce",
+    "Category": "Suppe",
     "Duration": "5 horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -413,7 +413,7 @@
   {
     "Id": 6,
     "Name": "Sopa de papas con champiñones y tocino",
-    "Category": "Dressing und Sauce",
+    "Category": "Suppe",
     "Duration": "60 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -537,7 +537,7 @@
   {
     "Id": 7,
     "Name": "Sopa de tomate asado",
-    "Category": "Dressing und Sauce",
+    "Category": "Suppe",
     "Duration": "45 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -650,7 +650,7 @@
   {
     "Id": 8,
     "Name": "Sopa de zanahoria, kion y coco",
-    "Category": "Dressing und Sauce",
+    "Category": "Suppe",
     "Duration": "50 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -777,7 +777,7 @@
   {
     "Id": 9,
     "Name": "Estofado de carne con papas",
-    "Category": "Dressing und Sauce",
+    "Category": "Suppe",
     "Duration": "50 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -879,7 +879,7 @@
   {
     "Id": 10,
     "Name": "Verdura de papas agrias",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "40 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -983,7 +983,7 @@
   {
     "Id": 11,
     "Name": "Ragú clásico a la boloñesa",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "210 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1094,7 +1094,7 @@
   {
     "Id": 12,
     "Name": "Gratinado de papas",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "70 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1197,7 +1197,7 @@
   {
     "Id": 13,
     "Name": "Cazuela de coliflor",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "80 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1305,7 +1305,7 @@
   {
     "Id": 14,
     "Name": "Chana Masala",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1431,7 +1431,7 @@
   {
     "Id": 15,
     "Name": "Ratatouille",
-    "Category": "Dressing und Sauce",
+    "Category": "Beilage",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1568,7 +1568,7 @@
   {
     "Id": 16,
     "Name": "Enchilada",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "70 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1718,7 +1718,7 @@
   {
     "Id": 17,
     "Name": "Papa a la Huancaína",
-    "Category": "Dressing und Sauce",
+    "Category": "Vorspeise",
     "Duration": "35 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1842,7 +1842,7 @@
   {
     "Id": 18,
     "Name": "Ají de Gallina",
-    "Category": "Dressing und Sauce",
+    "Category": "Hauptgericht",
     "Duration": "1 Hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
