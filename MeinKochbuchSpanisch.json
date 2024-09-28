@@ -2,7 +2,6 @@
   {
     "Id": 1,
     "Name": "Aliño con balsámico",
-    "Category": "Dressing und Sauce",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -71,7 +70,6 @@
   {
     "Id": 2,
     "Name": "Aliño con miel y mostaza",
-    "Category": "Dressing und Sauce",
     "Duration": "5 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -140,7 +138,6 @@
   {
     "Id": 3,
     "Name": "Salsa de mostaza y eneldo",
-    "Category": "Dressing und Sauce",
     "Duration": "70 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -214,7 +211,6 @@
   {
     "Id": 4,
     "Name": "Tzatziki ",
-    "Category": "Dressing und Sauce",
     "Duration": "5 Horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -296,7 +292,6 @@
   {
     "Id": 5,
     "Name": "Gazpacho ",
-    "Category": "Suppe",
     "Duration": "5 horas",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -388,7 +383,7 @@
           },
           {
             "Id": 6,
-            "Description": "Mezclar todo. Si queda muy espeso, añadir agua poco a poco",
+            "Description": "Mezclar todo. Si queda muy espeso,  añadir agua poco a poco",
             "IsSubStep": false
           },
           {
@@ -413,7 +408,6 @@
   {
     "Id": 6,
     "Name": "Sopa de papas con champiñones y tocino",
-    "Category": "Suppe",
     "Duration": "60 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -445,7 +439,7 @@
             "Name": "1 Zanahoria"
           },
           {
-            "Name": "2 Ramas de perejil (lisas)"
+            "Name": "2  Ramas de perejil (lisas)"
           },
           {
             "Name": "1/2 diente de ajo"
@@ -537,7 +531,6 @@
   {
     "Id": 7,
     "Name": "Sopa de tomate asado",
-    "Category": "Suppe",
     "Duration": "45 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -650,7 +643,6 @@
   {
     "Id": 8,
     "Name": "Sopa de zanahoria, kion y coco",
-    "Category": "Suppe",
     "Duration": "50 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -667,7 +659,7 @@
         "Description": "Ingredientes",
         "Foods": [
           {
-            "Name": "400 ml de sopa de verduras"
+            "Name": "450 ml de sopa de verduras"
           },
           {
             "Name": "1 Cebolla"
@@ -682,7 +674,7 @@
             "Name": "1 Cdta de miel"
           },
           {
-            "Name": "50 ml de vino blanco"
+            "Name": "100 ml de vino blanco"
           },
           {
             "Name": "100 ml de jugo de naranja"
@@ -694,7 +686,7 @@
             "Name": "400 ml de leche de coco"
           },
           {
-            "Name": "1 Cdas de polvo de Curry"
+            "Name": "1 Cdta de pasta de Curry"
           },
           {
             "Name": "Sal"
@@ -777,7 +769,6 @@
   {
     "Id": 9,
     "Name": "Estofado de carne con papas",
-    "Category": "Hauptgericht",
     "Duration": "50 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -879,7 +870,6 @@
   {
     "Id": 10,
     "Name": "Verdura de papas agrias",
-    "Category": "Beilage",
     "Duration": "40 Minutos",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
@@ -983,7 +973,6 @@
   {
     "Id": 11,
     "Name": "Ragú clásico a la boloñesa",
-    "Category": "Hauptgericht",
     "Duration": "210 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1094,7 +1083,6 @@
   {
     "Id": 12,
     "Name": "Gratinado de papas",
-    "Category": "Hauptgericht",
     "Duration": "70 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1197,7 +1185,6 @@
   {
     "Id": 13,
     "Name": "Cazuela de coliflor",
-    "Category": "Hauptgericht",
     "Duration": "80 Minutos",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1305,7 +1292,6 @@
   {
     "Id": 14,
     "Name": "Chana Masala",
-    "Category": "Hauptgericht",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1431,7 +1417,6 @@
   {
     "Id": 15,
     "Name": "Ratatouille",
-    "Category": "Beilage",
     "Duration": "1 hora",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
@@ -1559,6 +1544,396 @@
           {
             "Id": 13,
             "Description": "Sacar de la olla los dientes de ajo y el romero y listo.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Name": "Enchilada",
+    "Duration": "70 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "enchilada.jpg",
+    "Oven": {
+      "OperatingMode": "Arriba y abajo",
+      "Temperatur": "175°"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes para la salsa",
+        "Foods": [
+          {
+            "Name": "1 Trozo de mantequilla"
+          },
+          {
+            "Name": "1 1/4 cda. de harina"
+          },
+          {
+            "Name": "1/3 de cdta. de hojuelas de chile"
+          },
+          {
+            "Name": "1/3 de cdta. de pimiento de Cayena"
+          },
+          {
+            "Name": "3/4 de cdta. de orégano "
+          },
+          {
+            "Name": "3/4 de cdta. de comino"
+          },
+          {
+            "Name": "3/4 de cdta. de pimentón en polvo"
+          },
+          {
+            "Name": "3/4 de cdta. de sal"
+          },
+          {
+            "Name": "2 de cdtas. de azúcar "
+          },
+          {
+            "Name": "1/2 Cebolla"
+          },
+          {
+            "Name": "1 Diente de ajo"
+          },
+          {
+            "Name": "250 g de tomates de cocktail"
+          }
+        ]
+      },
+      {
+        "Description": "Ingredientes para los Wraps",
+        "Foods": [
+          {
+            "Name": "4 Maíces o tortillas de trigo"
+          },
+          {
+            "Name": "Una pizca de aceite"
+          },
+          {
+            "Name": "3/4 de cebollas"
+          },
+          {
+            "Name": "1 1/4 de dientes de ajos"
+          },
+          {
+            "Name": "350 gr. de carne molida"
+          },
+          {
+            "Name": "2/3 de cdtas. de hojuelas de chile"
+          },
+          {
+            "Name": "1/3 de cdtas. de polvo de pimentón "
+          },
+          {
+            "Name": "1/3 de cdta. de comino"
+          },
+          {
+            "Name": "1/3 de cdta. de cilantro molido"
+          },
+          {
+            "Name": "3/4 de cdtas. de orégano "
+          },
+          {
+            "Name": "125 gr. de frijoles negros"
+          },
+          {
+            "Name": "125 gr. de maíz"
+          },
+          {
+            "Name": "250 gr. de queso Gouda rallado"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación de la salsa",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Calentar un trozo de mantequilla y posteriormente sofreir la harina por aprox. 2 minutos a baja temperatura ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Agregar los condimentos y tomates. Luego, licuar todo en trozos pequeños. Dejar cocinar todo por cerca 15-20 minutos a tempratura baja. Remover de vez en cuando. Si es necesario, agregar más condimento",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Preparación de Wraps",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Para el relleno, picar la cebolla y el ajo. Posteriormente, sofreír en aceite. Agregar la carne molida y sofreir. Luego, agregar todas los condimentos, el maíz y los frijoles y condimentar más si es necesario",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Untar la cazuela con salsa",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Untar los wraps con la sa y rellenarlos uniformemente  para que aún se puedan enrollar. Extender el Gouda rallado sobre el relleno",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Extender la salsa restante uniformemente sobre los Wraps en la fuente para hornear y rociar todo con queso",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Poner en el horno por aprox. 20-25 minutos hasta que el queso esté derretido ",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Name": "Papa a la Huancaína",
+    "Duration": "35 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "papaalahuancaina.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "6 papas"
+          },
+          {
+            "Name": "1 Cebolla"
+          },
+          {
+            "Name": "3 Dientes de ajos"
+          },
+          {
+            "Name": "1 cda. de aceite"
+          },
+          {
+            "Name": "3-4 Cdas. de pasata de Ají Amarillo "
+          },
+          {
+            "Name": "150 gr. de queso fresco"
+          },
+          {
+            "Name": "1 taza de leche"
+          },
+          {
+            "Name": "1/4 de taza de galletas saladas"
+          },
+          {
+            "Name": "1 cdta. de orégano "
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "4 Huevos"
+          },
+          {
+            "Name": "Hojas de lechuga"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cocinar las papas y posteriormente pelarlas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Triturar las galletas con una licuadora/pulverizar",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Cortar el queso fresco en trozos pequeños",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Cortar la cebolla en cuadraditos pequeños y sofreir con aceite en una sartén",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Prensar el ajo y sofreir",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Tan pronto las cebollas esten cocidas, agregar la pasta de Ají  Amarillo y sofreir por un rato",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Desglasar con la leche y agregar el queso fresco y las galletas. Bajar el fuego para que la pasta hierva a fuego lento",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Cocinar los huevos y posteriormente pelarlos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Condimentar la pasta con el orégano, pimienta y la sal",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Cortar los huevos y las papas en trozos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Para servir: Extender las hojas de lechuga en un plato, colocar encima  las rodajas de papas y echar abundante pasta sobre ellas. Colocar las rodajas de huevo sobre la pasta.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Name": "Ají de Gallina",
+    "Duration": "1 Hora",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "ajidegallina.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "4 Filetes de pechuga de pollo"
+          },
+          {
+            "Name": "2 Zanahorias"
+          },
+          {
+            "Name": "1 Apio perenne"
+          },
+          {
+            "Name": "1 Poro"
+          },
+          {
+            "Name": "3 Cebollas rojas"
+          },
+          {
+            "Name": "4 Dientes de ajos"
+          },
+          {
+            "Name": "2 Cdas. de pasta de Ají Amarillo "
+          },
+          {
+            "Name": "4 Nueces"
+          },
+          {
+            "Name": "3 panes "
+          },
+          {
+            "Name": "2 Tazas de leche"
+          },
+          {
+            "Name": "50 gr. de queso Parmesano"
+          },
+          {
+            "Name": "3 Papas"
+          },
+          {
+            "Name": "2 Huevos"
+          },
+          {
+            "Name": "300 gr de arroz"
+          },
+          {
+            "Name": "Aceite de oliva"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Comino"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cocer la pechuga de pollo con el apio, las zanahorias cortadas en tiras, una cebolla y el poro en un poco de agua en una olla grande (unos 15 minutos). Mientras tanto, cocer las papas, el arroz y los huevos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Remojar el pan en la leche",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Retirar la pechuga de pollo y dejar enfriar",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Picar los ajos y la cebolla en trozos pequeños y luego sofreírlos en una sartén grande con aceite de oliva. Agregar las nueces y la pasta de Ají Amarillo y sofreir mucho",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Poner la mezcla en una licuadora, agregar el pan remojado con un poco de leche y hacer puré hasta obtener una crema y sazonar con sal y pimienta",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Freír el pollo y luego volver a poner la crema en la sartén y añadir el parmesano",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Servir las rodajas de papa en un plato con una porción de arroz y la salsa de pechuga de pollo. Colocar un huevo en rodajas encima de la salsa",
             "IsSubStep": false
           }
         ]
