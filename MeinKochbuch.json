@@ -3204,6 +3204,131 @@
   },
   {
     "Id": 27,
+    "Name": "24 Stunden Pizzateig",
+    "Category": "Backen",
+    "Duration": "",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "3",
+    "Optional": "",
+    "Variant": "Falls die Pizza im Backofen gebacken wird, muss beim Hauptteig 20g Wasser anstatt 30g Wasser genommen werden. Zusätzlich 10g Olivenöl verwenden.",
+    "Tip": "",
+    "ImageName": "24_stunden_pizzateig.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Autolyseteig",
+        "Foods": [
+          {
+            "Name": "500g Weizenmehl Type 00"
+          },
+          {
+            "Name": "290g 5-6° kaltes Wasser"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Hauptteig",
+        "Foods": [
+          {
+            "Name": "0,5g frische Hefe"
+          },
+          {
+            "Name": "30g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "15g Meersalz"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Autolyseteig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Die Zutaten in eine Schüssel geben und alles mit einem Kochlöffel vermengen bis das Wasser absorbiert ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die Schüssel mit einem Kochtuch bedecken und für 30 Minuten ruhen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Hauptteig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Frische Hefe in Wasser auflösen und zum Autolyseteig geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Teig kurz vermengen und anschließend das Salz einarbeiten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig kräftig kneten. Möglichkeiten:",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "In der Küchenmaschine für ca. 5 Minuten auf mittlerer Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Per Hand: Hierzu den Teig auf eine leicht bemehlte Arbeitsfläche stürzen und 10-15 Minuten kneten, bis der Teig geschmeidig ist",
+            "IsSubStep": true
+          },
+          {
+            "Id": 6,
+            "Description": "Den Teig dehnen und falten, um 90 Grad drehen und den Vorgang 2-mal wiederholen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Die Teigkugel 5-6 mal schleifen, sodass sie Spannung bekommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Den Teig in eine Pizzaballenbox legen, verschließen und für ca. 16-18 Stunden bei Raumtemperatur reifen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Den Teig auf die Arbeitsfläche stürzen und in drei Stücke (á ca. 280g) teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Teigstücke rundwirken und wenden, sodass die Naht unten liegt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Die Teigstücke 5-6 mal schleifen, sodass eine schöne Kugel entsteht",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Die Teiglinge mit etwas Abstand in die Pizzaballenbox legen, verschließen und für 5-6 Stunden bei Raumtemperatur reifen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 28,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -3340,7 +3465,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
