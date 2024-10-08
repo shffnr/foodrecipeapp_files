@@ -3206,7 +3206,7 @@
     "Id": 27,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
-    "Duration": "",
+    "Duration": "24 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "3",
     "Optional": "",
@@ -3240,6 +3240,14 @@
           },
           {
             "Name": "15g Meersalz"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Formen",
+        "Foods": [
+          {
+            "Name": "etwas Semola"
           }
         ]
       }
@@ -3322,6 +3330,51 @@
             "Id": 12,
             "Description": "Die Teiglinge mit etwas Abstand in die Pizzaballenbox legen, verschließen und für 5-6 Stunden bei Raumtemperatur reifen lassen",
             "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Formen",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Etwas Semola auf der Arbeitsfläche verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Semola auf den Rändern der Teigballen verteilen und nacheinander mit einem Teigspachtel voneinander lösen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Folgende Schritte für jeden Teigballen durchführen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen herausnehmen und auf der Arbeitsfläche auf dem Semola ablegen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen vorsichtig rundwirken",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Mit ca. 2cm Abstand zum Rand beginnend die Fingerkuppen (Finger liegen eng beieinander) ansetzen und die Luft von unten nach oben vorgehend in den Rand drücken. Teig wenden und Vorgang wiederholen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Wenn die innere Teigfläche etwa Handgröße erreicht hat, den Teigling etwas hochheben, das Semola abklopfen und den Teig mit den Handrücken unter Rotation auf einen etwa 26-28cm großen Kreis ausziehen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig auf der Arbeitsfläche ablegen. Nicht auf dem Semola",
+            "IsSubStep": true
           }
         ]
       }
