@@ -824,7 +824,7 @@
             "Name": "400ml Kokosmilch"
           },
           {
-            "Name": "1 TL Currypaste"
+            "Name": "1 EL gelbe Currypaste"
           },
           {
             "Name": "Salz"
@@ -892,7 +892,7 @@
           },
           {
             "Id": 10,
-            "Description": "Mit Salz und Pfeffer abschmecken",
+            "Description": "Mit Salz, Pfeffer und Zucker abschmecken",
             "IsSubStep": false
           },
           {
@@ -2619,7 +2619,7 @@
           },
           {
             "Id": 5,
-            "Description": "Mascarpone löffelweise unterschlagen, sodass eine cremige Mischung entsteht",
+            "Description": "Mascarpone zugeben und auf kleiner Stufe kurz rühren, sodass eine cremige Mischung entsteht",
             "IsSubStep": false
           },
           {
