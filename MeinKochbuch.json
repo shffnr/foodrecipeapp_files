@@ -70,6 +70,80 @@
   },
   {
     "Id": 2,
+    "Name": "Mama´s Salatdressing",
+    "Category": "Dressing und Sauce",
+    "Duration": "5 Minuten",
+    "NumberOfPersons": "3",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "mamassaltdressing.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 EL Essig"
+          },
+          {
+            "Name": "4 EL Sonnenblumenöl"
+          },
+          {
+            "Name": "1,25 TL Senf"
+          },
+          {
+            "Name": "ca. 1,25 bis 1,5 TL Zucker"
+          },
+          {
+            "Name": "ca. 0,5 bis 0,75 TL Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Schuss Schalgsahne"
+          },
+          {
+            "Name": "0,5 Zwiebel"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebel in kleine feine Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "In eine Schüssel die Zutaten Essig, Öl, Senf, Zucker, Salz, etwas Pfeffer geben und gut verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schlagsahne langsam dazugeben und dabei umrühren, bis die Sauce etwas dickflüssiger wird und der Farbkontrast hellgelb wird",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Zwiebeln dazugeben und abschmecken - sollte es etwas zu salzig sein, dann ein bisschen Wasser dazugeben. Sollte es zu säurehaltig sein, dann etwas Zucker",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
     "Name": "Honig-Senf Dressing",
     "Category": "Dressing und Sauce",
     "Duration": "5 Minuten",
@@ -138,7 +212,7 @@
     ]
   },
   {
-    "Id": 3,
+    "Id": 4,
     "Name": "Dill-Senf Sauce",
     "Category": "Dressing und Sauce",
     "Duration": "70 Minuten",
@@ -215,7 +289,7 @@
     ]
   },
   {
-    "Id": 4,
+    "Id": 5,
     "Name": "Tsatsiki",
     "Category": "Dressing und Sauce",
     "Duration": "5 Stunden",
@@ -297,7 +371,7 @@
     ]
   },
   {
-    "Id": 5,
+    "Id": 6,
     "Name": "Papa a la Huancaína",
     "Category": "Vorspeise",
     "Duration": "35 Minuten",
@@ -421,7 +495,7 @@
     ]
   },
   {
-    "Id": 6,
+    "Id": 7,
     "Name": "Gazpacho",
     "Category": "Suppe",
     "Duration": "5 Stunden",
@@ -541,7 +615,7 @@
     ]
   },
   {
-    "Id": 7,
+    "Id": 8,
     "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Category": "Suppe",
     "Duration": "60 Minuten",
@@ -665,7 +739,7 @@
     ]
   },
   {
-    "Id": 8,
+    "Id": 9,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
     "Duration": "45 Minuten",
@@ -778,7 +852,7 @@
     ]
   },
   {
-    "Id": 9,
+    "Id": 10,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
     "Duration": "50 Minuten ",
@@ -905,7 +979,7 @@
     ]
   },
   {
-    "Id": 10,
+    "Id": 11,
     "Name": "Tiroler Kartoffelgulasch",
     "Category": "Hauptgericht",
     "Duration": "50 Minuten",
@@ -1010,7 +1084,7 @@
     ]
   },
   {
-    "Id": 11,
+    "Id": 12,
     "Name": "Saures Kartoffelgemüse",
     "Category": "Beilage",
     "Duration": "40 Minuten",
@@ -1130,7 +1204,7 @@
     ]
   },
   {
-    "Id": 12,
+    "Id": 13,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1241,7 +1315,7 @@
     ]
   },
   {
-    "Id": 13,
+    "Id": 14,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1344,7 +1418,7 @@
     ]
   },
   {
-    "Id": 14,
+    "Id": 15,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1452,7 +1526,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1578,7 +1652,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -1721,7 +1795,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1871,7 +1945,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1990,7 +2064,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2224,7 +2298,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2459,7 +2533,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -2548,7 +2622,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -2657,7 +2731,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -2750,7 +2824,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -2835,7 +2909,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3019,7 +3093,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3203,7 +3277,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3381,7 +3455,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -3518,7 +3592,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
