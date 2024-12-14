@@ -1,19 +1,11 @@
 [
   {
-    "Id": 1,
     "Name": "Balsamico Dressing",
     "Category": "Dressing und Sauce",
-    "Duration": "5 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "5 Minuten",
     "ImageName": "balsamicodressing.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -66,23 +58,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 2,
-    "Name": "Mama´s Salatdressing",
-    "Category": "Dressing und Sauce",
-    "Duration": "5 Minuten",
-    "NumberOfPersons": "3",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "mamassaltdressing.png",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 1
+  },
+  {
+    "Name": "Mama´s Salatdressing",
+    "Category": "Dressing und Sauce",
+    "NumberOfPersons": "3",
+    "NumberOfQuantity": "",
+    "Duration": "5 Minuten",
+    "ImageName": "mamassaltdressing.png",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -140,23 +132,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 3,
-    "Name": "Honig-Senf Dressing",
-    "Category": "Dressing und Sauce",
-    "Duration": "5 Minuten",
-    "NumberOfPersons": "2",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "honigsenfdressing.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 2
+  },
+  {
+    "Name": "Honig-Senf Dressing",
+    "Category": "Dressing und Sauce",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
+    "Duration": "5 Minuten",
+    "ImageName": "honigsenfdressing.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -209,23 +201,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 4,
-    "Name": "Dill-Senf Sauce",
-    "Category": "Dressing und Sauce",
-    "Duration": "70 Minuten",
-    "NumberOfPersons": "2",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "dillsenfsauce.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 3
+  },
+  {
+    "Name": "Dill-Senf Sauce",
+    "Category": "Dressing und Sauce",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
+    "Duration": "70 Minuten",
+    "ImageName": "dillsenfsauce.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -286,23 +278,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 5,
-    "Name": "Tsatsiki",
-    "Category": "Dressing und Sauce",
-    "Duration": "5 Stunden",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "tsatsiki.png",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 4
+  },
+  {
+    "Name": "Tsatsiki",
+    "Category": "Dressing und Sauce",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "5 Stunden",
+    "ImageName": "tsatsiki.png",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -368,23 +360,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 6,
-    "Name": "Papa a la Huancaína",
-    "Category": "Vorspeise",
-    "Duration": "35 Minuten",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "papaalahuancaina.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 5
+  },
+  {
+    "Name": "Papa a la Huancaína",
+    "Category": "Vorspeise",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "35 Minuten",
+    "ImageName": "papaalahuancaina.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -492,23 +484,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 7,
-    "Name": "Gazpacho",
-    "Category": "Suppe",
-    "Duration": "5 Stunden",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "Mit Garnelen und oder Croûtons servieren",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "gazpacho.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 6
+  },
+  {
+    "Name": "Gazpacho",
+    "Category": "Suppe",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "5 Stunden",
+    "ImageName": "gazpacho.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -612,23 +604,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 8,
-    "Name": "Kartoffelsuppe mit Champignons und Bacon",
-    "Category": "Suppe",
-    "Duration": "60 Minuten",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "kartoffelsuppe.png",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "Mit Garnelen und oder Croûtons servieren",
+    "Tip": "",
+    "Id": 7
+  },
+  {
+    "Name": "Kartoffelsuppe mit Champignons und Bacon",
+    "Category": "Suppe",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "60 Minuten",
+    "ImageName": "kartoffelsuppe.png",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -736,23 +728,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 8
   },
   {
-    "Id": 9,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
-    "Duration": "45 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "45 Minuten",
     "ImageName": "tomatencremesuppe.jpg",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -849,23 +841,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 9
   },
   {
-    "Id": 10,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
-    "Duration": "50 Minuten ",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "50 Minuten ",
     "ImageName": "karotteningwerkokussuppe.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -976,23 +968,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 11,
-    "Name": "Tiroler Kartoffelgulasch",
-    "Category": "Hauptgericht",
-    "Duration": "50 Minuten",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "kartoffelgulasch.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 10
+  },
+  {
+    "Name": "Tiroler Kartoffelgulasch",
+    "Category": "Hauptgericht",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "50 Minuten",
+    "ImageName": "kartoffelgulasch.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1081,23 +1073,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 12,
-    "Name": "Saures Kartoffelgemüse",
-    "Category": "Beilage",
-    "Duration": "40 Minuten",
-    "NumberOfPersons": "2",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "Als Topping kann Garnelen, Lachs oder eine andere Fischart genommen werden. Hierzu kann bei Vorlieben der Speck weggelassen werden.",
-    "Tip": "",
-    "ImageName": "saureskartoffelgemuese.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
+    "Tip": "",
+    "Id": 11
+  },
+  {
+    "Name": "Saures Kartoffelgemüse",
+    "Category": "Beilage",
+    "NumberOfPersons": "2",
+    "NumberOfQuantity": "",
+    "Duration": "40 Minuten",
+    "ImageName": "saureskartoffelgemuese.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1201,23 +1193,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 13,
-    "Name": "Klassisches Ragù alla Bolognese",
-    "Category": "Hauptgericht",
-    "Duration": "210 Minuten",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "bolognese.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "Als Topping kann Garnelen, Lachs oder eine andere Fischart genommen werden. Hierzu kann bei Vorlieben der Speck weggelassen werden.",
+    "Optional": "",
+    "Tip": "",
+    "Id": 12
+  },
+  {
+    "Name": "Klassisches Ragù alla Bolognese",
+    "Category": "Hauptgericht",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "210 Minuten",
+    "ImageName": "bolognese.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1312,23 +1304,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 13
   },
   {
-    "Id": 14,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
-    "Duration": "70 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "Das Kartoffelgratin schmeckt auch gut mit Speckwürfeln und/oder Champignons.",
-    "Tip": "",
+    "Duration": "70 Minuten",
     "ImageName": "kartoffelgratin.jpg",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1415,23 +1407,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°C"
+    },
+    "Variant": "Das Kartoffelgratin schmeckt auch gut mit Speckwürfeln und/oder Champignons.",
+    "Optional": "",
+    "Tip": "",
+    "Id": 14
   },
   {
-    "Id": 15,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
-    "Duration": "80 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "80 Minuten",
     "ImageName": "blumenkohlauflauf.png",
-    "Oven": {
-      "OperatingMode": "Umluft",
-      "Temperatur": "200°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1523,23 +1515,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Umluft",
+      "Temperatur": "200°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 15
   },
   {
-    "Id": 16,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
-    "Duration": "1 Stunde",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "1 Stunde",
     "ImageName": "chanamasala.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1649,23 +1641,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 17,
-    "Name": "Ratatouille",
-    "Category": "Beilage",
-    "Duration": "1 Stunde",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "ratatouille.jpg",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 16
+  },
+  {
+    "Name": "Ratatouille",
+    "Category": "Beilage",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "1 Stunde",
+    "ImageName": "ratatouille.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -1792,23 +1784,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 17
   },
   {
-    "Id": 18,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
-    "Duration": "70 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "70 Minuten",
     "ImageName": "enchilada.jpg",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "175°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Sauce",
@@ -1942,23 +1934,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "175°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 18
   },
   {
-    "Id": 19,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
-    "Duration": "1 Stunde",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "1 Stunde",
     "ImageName": "ajidegallina.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -2061,23 +2053,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 19
   },
   {
-    "Id": 20,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
-    "Duration": "2 Stunden",
     "NumberOfPersons": "5",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "Die Lasagneplatten vor dem Legen kurz in Wasser tauchen",
+    "Duration": "2 Stunden",
     "ImageName": "lasagne.png",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Bolognese Sauce",
@@ -2295,23 +2287,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 21,
-    "Name": "Hühnerburger mit Kartoffelspalten",
-    "Category": "Hauptgericht",
-    "Duration": "90 Minuten",
-    "NumberOfPersons": "4",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "Gibt man auf den Deckel die Burgersoße und darauf die Röstzwiebel, haften diese an der Soße und fallen nicht vom Burger",
-    "ImageName": "haehnchenburger_mit_kartoffelspalten.jpg",
+    ],
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "200°C"
+      "Temperatur": "180°C"
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "Die Lasagneplatten vor dem Legen kurz in Wasser tauchen",
+    "Id": 20
+  },
+  {
+    "Name": "Hühnerburger mit Kartoffelspalten",
+    "Category": "Hauptgericht",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Duration": "90 Minuten",
+    "ImageName": "haehnchenburger_mit_kartoffelspalten.jpg",
     "Ingredients": [
       {
         "Description": "Zutaten Burgersoße",
@@ -2475,7 +2467,7 @@
           },
           {
             "Id": 2,
-            "Description": " Pfanne mit etwas Öl erhitzen und Fleisch von beiden Seiten ausbraten",
+            "Description": "Pfanne mit etwas Öl erhitzen und Fleisch von beiden Seiten ausbraten",
             "IsSubStep": false
           },
           {
@@ -2530,23 +2522,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "200°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "Gibt man auf den Deckel die Burgersoße und darauf die Röstzwiebel, haften diese an der Soße und fallen nicht vom Burger",
+    "Id": 21
   },
   {
-    "Id": 22,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
-    "Duration": "25 Stunden",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "Verwendung von unterschiedlichen Schokoladenarten",
-    "Tip": "",
+    "Duration": "25 Stunden",
     "ImageName": "schokomouse.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -2619,23 +2611,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 23,
-    "Name": "Tiramisu",
-    "Category": "Dessert",
-    "Duration": "6 Stunden",
-    "NumberOfPersons": "9",
-    "NumberOfQuantity": "",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "Mascarpone und Eier 30-60 Minuten vor Zubereitung aus dem Kühlschrank holen (nicht zu kalt verarbeiten). Kaffee zubereiten und abkühlen lassen.",
-    "ImageName": "tiramisu.png",
+    ],
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
+    "Variant": "Verwendung von unterschiedlichen Schokoladenarten",
+    "Optional": "",
+    "Tip": "",
+    "Id": 22
+  },
+  {
+    "Name": "Tiramisu",
+    "Category": "Dessert",
+    "NumberOfPersons": "9",
+    "NumberOfQuantity": "",
+    "Duration": "6 Stunden",
+    "ImageName": "tiramisu.png",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -2728,23 +2720,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "Mascarpone und Eier 30-60 Minuten vor Zubereitung aus dem Kühlschrank holen (nicht zu kalt verarbeiten). Kaffee zubereiten und abkühlen lassen.",
+    "Id": 23
   },
   {
-    "Id": 24,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
-    "Duration": "13 Stunden",
     "NumberOfPersons": "6",
     "NumberOfQuantity": "",
-    "Optional": "Mit Vanilleeis und Himbersauce servieren",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "13 Stunden",
     "ImageName": "schokosouffle.jpg",
-    "Oven": {
-      "OperatingMode": "Umluft",
-      "Temperatur": "180°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -2821,23 +2813,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Umluft",
+      "Temperatur": "180°C"
+    },
+    "Variant": "",
+    "Optional": "Mit Vanilleeis und Himbersauce servieren",
+    "Tip": "",
+    "Id": 24
   },
   {
-    "Id": 25,
     "Name": "Baguette",
     "Category": "Backen",
-    "Duration": "2,5 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "3",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "2,5 Stunden",
     "ImageName": "baguette.jpg",
-    "Oven": {
-      "OperatingMode": "Heißluft",
-      "Temperatur": "240°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -2906,23 +2898,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Heißluft",
+      "Temperatur": "240°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 25
   },
   {
-    "Id": 26,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
-    "Duration": "16 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "12",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "16 Stunden",
     "ImageName": "knoblauch_kraeuter_broetchen.jpeg",
-    "Oven": {
-      "OperatingMode": "220°C",
-      "Temperatur": "Ober-/Unterhitze"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Brötchenteig",
@@ -3090,23 +3082,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "220°C",
+      "Temperatur": "Ober-/Unterhitze"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 26
   },
   {
-    "Id": 27,
     "Name": "Fladenbrot",
     "Category": "Backen",
-    "Duration": "24 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "4",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "24 Stunden",
     "ImageName": "fladenbrot.png",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "250°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Poolish",
@@ -3274,23 +3266,23 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "250°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 27
   },
   {
-    "Id": 28,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
-    "Duration": "24 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "3",
-    "Optional": "",
-    "Variant": "Falls die Pizza im Backofen gebacken wird, muss beim Hauptteig 20g Wasser anstatt 30g Wasser genommen werden. Zusätzlich 10g Olivenöl verwenden.",
-    "Tip": "Auf dem Grill für fünf Minuten auf dem Pizzastein unter gelegentlichem rotieren grillen. Der Pizzastein soll ca. 350°C haben und die äußersten Flammen müssen voll aufgedreht sein. Die Flammen unter dem Pizzastein sind aus.",
+    "Duration": "24 Stunden",
     "ImageName": "24_stunden_pizzateig.jpg",
-    "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Autolyseteig",
@@ -3452,23 +3444,207 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "Falls die Pizza im Backofen gebacken wird, muss beim Hauptteig 20g Wasser anstatt 30g Wasser genommen werden. Zusätzlich 10g Olivenöl verwenden.",
+    "Optional": "",
+    "Tip": "Auf dem Grill für fünf Minuten auf dem Pizzastein unter gelegentlichem rotieren grillen. Der Pizzastein soll ca. 350°C haben und die äußersten Flammen müssen voll aufgedreht sein. Die Flammen unter dem Pizzastein sind aus.",
+    "Id": 28
   },
   {
-    "Id": 29,
+    "Name": "Pizzateig mit Biga",
+    "Category": "Backen",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "3",
+    "Duration": "24 Stunden",
+    "ImageName": "pizzateigmitbiga.jpg",
+    "Ingredients": [
+      {
+        "Description": "Zutaten Biga",
+        "Foods": [
+          {
+            "Name": "250g Weizenmehl Type 00"
+          },
+          {
+            "Name": "4g frische Hefe"
+          },
+          {
+            "Name": "110g 5-6° kaltes Wasser"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Hauptteig",
+        "Foods": [
+          {
+            "Name": "210g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "1g frische Hefe"
+          },
+          {
+            "Name": "250g Weizenmehl Type 00"
+          },
+          {
+            "Name": "15g Meersalz"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Formen",
+        "Foods": [
+          {
+            "Name": "etwas Semola"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Biga",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Die Zutaten in eine Schüssel geben und alles mit einem Kochlöffel vermengen bis das Wasser absorbiert ist",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die Schüssel mit einem Kochtuch bedecken und für 30 Minuten ruhen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Hauptteig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Frische Hefe in Wasser auflösen und zum Autolyseteig geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Teig kurz vermengen und anschließend das Salz einarbeiten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig kräftig kneten. Möglichkeiten:",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "In der Küchenmaschine für ca. 5 Minuten auf mittlerer Stufe und dann 5-10 Minuten auf hoher Stufe kneten",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Per Hand: Hierzu den Teig auf eine leicht bemehlte Arbeitsfläche stürzen und 10-15 Minuten kneten, bis der Teig geschmeidig ist",
+            "IsSubStep": true
+          },
+          {
+            "Id": 6,
+            "Description": "Den Teig dehnen und falten, um 90 Grad drehen und den Vorgang 2-mal wiederholen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Die Teigkugel 5-6 mal schleifen, sodass sie Spannung bekommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Den Teig in eine Pizzaballenbox legen, verschließen und für ca. 16-18 Stunden bei Raumtemperatur reifen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Den Teig auf die Arbeitsfläche stürzen und in drei Stücke (á ca. 280g) teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Teigstücke rundwirken und wenden, sodass die Naht unten liegt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Die Teigstücke 5-6 mal schleifen, sodass eine schöne Kugel entsteht",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Die Teiglinge mit etwas Abstand in die Pizzaballenbox legen, verschließen und für 5-6 Stunden bei Raumtemperatur reifen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Formen",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Etwas Semola auf der Arbeitsfläche verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Semola auf den Rändern der Teigballen verteilen und nacheinander mit einem Teigspachtel voneinander lösen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Folgende Schritte für jeden Teigballen durchführen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen herausnehmen und auf der Arbeitsfläche auf dem Semola ablegen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen vorsichtig rundwirken",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Mit ca. 2cm Abstand zum Rand beginnend die Fingerkuppen (Finger liegen eng beieinander) ansetzen und die Luft von unten nach oben vorgehend in den Rand drücken. Teig wenden und Vorgang wiederholen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Wenn die innere Teigfläche etwa Handgröße erreicht hat, den Teigling etwas hochheben, das Semola abklopfen und den Teig mit den Handrücken unter Rotation auf einen etwa 26-28cm großen Kreis ausziehen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig auf der Arbeitsfläche ablegen. Nicht auf dem Semola",
+            "IsSubStep": true
+          }
+        ]
+      }
+    ],
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Variant": "Falls die Pizza im Backofen gebacken wird, muss beim Hauptteig 200g Wasser anstatt 210g Wasser genommen werden. Zusätzlich 10g Olivenöl verwenden.",
+    "Optional": "",
+    "Tip": "Auf dem Grill für fünf Minuten auf dem Pizzastein unter gelegentlichem rotieren grillen. Der Pizzastein soll ca. 350°C haben und die äußersten Flammen müssen voll aufgedreht sein. Die Flammen unter dem Pizzastein sind aus.",
+    "Id": 29
+  },
+  {
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
-    "Duration": "90 Minuten",
     "NumberOfPersons": "",
     "NumberOfQuantity": "1",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
+    "Duration": "90 Minuten",
     "ImageName": "russischer_zupfkuchen.jpg",
-    "Oven": {
-      "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "180°C"
-    },
     "Ingredients": [
       {
         "Description": "Zutaten Teig",
@@ -3589,23 +3765,23 @@
           }
         ]
       }
-    ]
-  },
-  {
-    "Id": 30,
-    "Name": "Brownie",
-    "Category": "Backen",
-    "Duration": "40 Minuten",
-    "NumberOfPersons": "",
-    "NumberOfQuantity": "1",
-    "Optional": "",
-    "Variant": "",
-    "Tip": "",
-    "ImageName": "brownie.jpeg",
+    ],
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
-      "Temperatur": "175°C"
+      "Temperatur": "180°C"
     },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 30
+  },
+  {
+    "Name": "Brownie",
+    "Category": "Backen",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "1",
+    "Duration": "40 Minuten",
+    "ImageName": "brownie.jpeg",
     "Ingredients": [
       {
         "Description": "Zutaten",
@@ -3712,6 +3888,14 @@
           }
         ]
       }
-    ]
+    ],
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "175°C"
+    },
+    "Variant": "",
+    "Optional": "",
+    "Tip": "",
+    "Id": 31
   }
 ]
