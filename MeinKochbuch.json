@@ -1796,6 +1796,99 @@
   },
   {
     "Id": 18,
+    "Name": "Frikadellen",
+    "Category": "Beilage",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "frikadellen.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1kg gemischtes Hackfleisch "
+          },
+          {
+            "Name": "2 alte Brötchen"
+          },
+          {
+            "Name": "3 Zwiebeln"
+          },
+          {
+            "Name": "3 Eier"
+          },
+          {
+            "Name": "4 EL mittelscharfer Senf"
+          },
+          {
+            "Name": "4 Zweige Petersilie"
+          },
+          {
+            "Name": "4 Zweige Majoran"
+          },
+          {
+            "Name": "20g Salz"
+          },
+          {
+            "Name": "5g Pfeffer"
+          },
+          {
+            "Name": "etwas MIlch"
+          },
+          {
+            "Name": "etwas Paniermehl oder Semmelbrösel"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "DIe Brötchen in kleine Stücke schneiden und in einer Schüssel mit etwas Milch einweichen lassen. Die Brötchen sollen die Milch aufnehmen - nicht zu viel Milch verwenden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Zwiebel in kleine Würfel schneiden und kurz in der Pfanne knusprig anbraten. Anschließend zur Seite stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Petersilie und Majoran waschen und klein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Alle Zutaten in eine große Schüssel geben und mit der Hand kneten. Die Maße sollte nicht zu feucht sein. Ggf. etwas Paniermehl dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "In einer Pfanne ausreichend Öl stark erhitzen. Eine Schüssel mit etwas Paniermehl bereitstellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Fleischmaße in die passendende Form formen und kurz im Paniermehl wenden. Anschließend kräftig in der Pfanne anbraten",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 19,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1945,7 +2038,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2064,7 +2157,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2298,7 +2391,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2533,7 +2626,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -2622,7 +2715,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -2731,7 +2824,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -2824,7 +2917,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -2909,7 +3002,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3093,7 +3186,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3277,7 +3370,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3455,7 +3548,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -3640,7 +3733,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -3777,7 +3870,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
