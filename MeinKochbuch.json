@@ -1799,7 +1799,7 @@
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
-    "NumberOfPersons": "4",
+    "NumberOfPersons": "5",
     "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
@@ -1855,7 +1855,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "DIe Brötchen in kleine Stücke schneiden und in einer Schüssel mit etwas Milch einweichen lassen. Die Brötchen sollen die Milch aufnehmen - nicht zu viel Milch verwenden",
+            "Description": "Die Brötchen in kleine Stücke schneiden und in einer Schüssel mit etwas Milch einweichen lassen. Die Brötchen sollen die Milch aufnehmen - nicht zu viel Milch verwenden",
             "IsSubStep": false
           },
           {
