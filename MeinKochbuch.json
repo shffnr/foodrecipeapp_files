@@ -290,6 +290,116 @@
   },
   {
     "Id": 5,
+    "Name": "Guacamole",
+    "Category": "Dressing und Sauce",
+    "Duration": "90 Minuten",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "guacamole.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "4 große reife Avocados"
+          },
+          {
+            "Name": "Saft von 1-2 Limetten"
+          },
+          {
+            "Name": "2 Knoblauchzehen"
+          },
+          {
+            "Name": "2 große Tomaten"
+          },
+          {
+            "Name": "1 Frühlingszwiebel"
+          },
+          {
+            "Name": "0,5 Bund Koriandergrün"
+          },
+          {
+            "Name": "4 Messerspitzen Chilipulver"
+          },
+          {
+            "Name": "1 TL gemahlener Kreuzkümmel"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Avocados halbieren, Stein entfernen und das Fruchtfleisch aus der Schale kratzen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Avocado in eine Schüssel geben und direkt mit etwas Limettensaft mischen, damit es nicht braun wird",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Knoblauch schälen und dazupressen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Tomaten entkernen, klein würfeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Frühlingszwiebel waschen und putzen, den grünen Teil in feine Ringe schneiden, den weißen Teil fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Koriandergrün waschen und trocken schütteln und die Blättchen fein hacken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Alles mit einer Gabel zu einem Mus drücken, wobei es noch leicht stückig bleiben darf",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Restliche kleingeschnittene Zutaten mit Chilipulver und Kreuzkümmel dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Mit Salz und Pfeffer abschmecken. Sollte noch etwas Säure fehlen, dann noch etwas Limettensaft dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Für mindestens eine Stunde im Kühlschrank durchziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
     "Name": "Tsatsiki",
     "Category": "Dressing und Sauce",
     "Duration": "5 Stunden",
@@ -371,7 +481,7 @@
     ]
   },
   {
-    "Id": 6,
+    "Id": 7,
     "Name": "Papa a la Huancaína",
     "Category": "Vorspeise",
     "Duration": "35 Minuten",
@@ -495,7 +605,7 @@
     ]
   },
   {
-    "Id": 7,
+    "Id": 8,
     "Name": "Gazpacho",
     "Category": "Suppe",
     "Duration": "5 Stunden",
@@ -615,7 +725,7 @@
     ]
   },
   {
-    "Id": 8,
+    "Id": 9,
     "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Category": "Suppe",
     "Duration": "60 Minuten",
@@ -739,7 +849,7 @@
     ]
   },
   {
-    "Id": 9,
+    "Id": 10,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
     "Duration": "45 Minuten",
@@ -852,7 +962,7 @@
     ]
   },
   {
-    "Id": 10,
+    "Id": 11,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
     "Duration": "50 Minuten ",
@@ -979,7 +1089,7 @@
     ]
   },
   {
-    "Id": 11,
+    "Id": 12,
     "Name": "Tiroler Kartoffelgulasch",
     "Category": "Hauptgericht",
     "Duration": "50 Minuten",
@@ -1084,7 +1194,7 @@
     ]
   },
   {
-    "Id": 12,
+    "Id": 13,
     "Name": "Saures Kartoffelgemüse",
     "Category": "Beilage",
     "Duration": "40 Minuten",
@@ -1204,7 +1314,7 @@
     ]
   },
   {
-    "Id": 13,
+    "Id": 14,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1315,7 +1425,7 @@
     ]
   },
   {
-    "Id": 14,
+    "Id": 15,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1418,7 +1528,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1526,7 +1636,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1652,7 +1762,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -1795,7 +1905,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -1888,7 +1998,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2038,7 +2148,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2157,7 +2267,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2391,7 +2501,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2626,7 +2736,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -2715,7 +2825,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -2824,7 +2934,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -2917,7 +3027,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3002,7 +3112,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3186,7 +3296,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3370,7 +3480,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3548,7 +3658,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -3733,7 +3843,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -3870,7 +3980,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
