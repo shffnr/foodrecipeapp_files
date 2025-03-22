@@ -1957,5 +1957,94 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 19,
+    "Name": "Mousse de chocolate",
+    "Category": "Dessert",
+    "Duration": "25 horas",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "Utilizar diferentes tipos de chocolates",
+    "Tip": "",
+    "ImageName": "schokomouse.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "200 g de chocolate negro"
+          },
+          {
+            "Name": "3 huevos"
+          },
+          {
+            "Name": "250 ml de crema de leche"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Derretir 100 g de chocolate negro al baño maría y dejar enfriar",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Rallar finamente el chocolate restante",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Batir la crema de leche hasta que esté firme",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Separar los huevos en claras y yemas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Batir las claras hasta que quede a punto de nieve",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Batir las yemas de huevo en un tazón grande",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Agregar el chocolate enfriado a las yemas de huevo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Incorporar a la mezcla la crema de leche con casi todo el chocolate rallado del paso 7 de la receta",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Batir y levantar con una cuchara la clara a punto de nieve",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Decorar con el chocolate restante y colocar en la refrigeradora durante 24 horas",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
