@@ -1426,6 +1426,134 @@
   },
   {
     "Id": 15,
+    "Name": "Asiatisches Gulasch",
+    "Category": "Hauptgericht",
+    "Duration": "210 Minuten",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "asiatisches_gulasch.jpeg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Currypaste",
+        "Foods": [
+          {
+            "Name": "10g Chili"
+          },
+          {
+            "Name": "25g frischer Koriander"
+          },
+          {
+            "Name": "25g Zitronengras"
+          },
+          {
+            "Name": "5g gemahlener Koriander"
+          },
+          {
+            "Name": "10g Kreuzkümmel"
+          },
+          {
+            "Name": "3g Zimt"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "10g Knoblauch"
+          },
+          {
+            "Name": "20g Ingwer"
+          },
+          {
+            "Name": "25g brauner Zucker"
+          },
+          {
+            "Name": "80g Zwiebel"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Gulasch",
+        "Foods": [
+          {
+            "Name": "1kg Rindergulasch aus der Oberschale"
+          },
+          {
+            "Name": "12g Kokosöl"
+          },
+          {
+            "Name": "500g Rinderbrühe"
+          },
+          {
+            "Name": "400g Kokosmilch"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Currypaste",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebel schälen und vierteln; beim Koriander die Stiele abschneiden - Blätter werden später benötigt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Beim Zitronengras die äußeren Blätter entfernen und den inneren, weicheren Teil klein schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Ingwer mit der Schale reiben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Zwiebel, Chili, Korianderstiele, Ingwer und das Zitronengras mit den restlichen Zutaten in einem Mörser zu einer Paste zerdrücken",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Gulasch",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Fleisch in Wüfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Öl in einem Topf hoch erhitzen und das Fleisch scharf anbraten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Temperatur reduzieren und Currypaste für 2-3 Minuten mit köcheln lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Rinderbrühe und Kokosmilch dazugeben und für ca. 1,5 Stunden mit geschlossenem Deckel leicht köcheln lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 16,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1528,7 +1656,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1636,7 +1764,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1762,7 +1890,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -1905,7 +2033,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -1998,7 +2126,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2148,7 +2276,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2267,7 +2395,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2501,7 +2629,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2736,7 +2864,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -2825,7 +2953,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -2934,7 +3062,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3027,7 +3155,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3112,7 +3240,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3296,7 +3424,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3480,7 +3608,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3658,7 +3786,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -3847,7 +3975,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -3984,7 +4112,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
