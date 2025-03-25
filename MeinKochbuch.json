@@ -2079,7 +2079,7 @@
             "Name": "5g Pfeffer"
           },
           {
-            "Name": "etwas MIlch"
+            "Name": "etwas Milch"
           },
           {
             "Name": "etwas Paniermehl oder Semmelbrösel"
@@ -2135,7 +2135,7 @@
     "Optional": "",
     "Variant": "",
     "Tip": "",
-    "ImageName": "enchilada.jpg",
+    "ImageName": "enchilada.jpeg",
     "Oven": {
       "OperatingMode": "Ober-/Unterhitze",
       "Temperatur": "175°C"
