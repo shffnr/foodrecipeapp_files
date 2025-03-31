@@ -3609,6 +3609,90 @@
   },
   {
     "Id": 31,
+    "Name": "Mediterrane Ciabattas",
+    "Category": "Backen",
+    "Duration": "",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "8",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "mediterrane_ciabatta.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "640g Weizenmehl Type 00"
+          },
+          {
+            "Name": "5g frische Hefe"
+          },
+          {
+            "Name": "440g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "18g Olivenöl"
+          },
+          {
+            "Name": "18g Meersalz"
+          },
+          {
+            "Name": "70g eingelegte, getrocknete Tomaten"
+          },
+          {
+            "Name": "40g eingelegte milde Peperoni"
+          },
+          {
+            "Name": "3g frische Kräuter, wie bspw. Thymian, Rosmarin oder Oregano"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Mehl, Hefe und die Hälfte vom Wasser in eine Knetmaschine geben und 2 bis 3 Minuten auf kleiner bis mittlerer Stufe kneten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Das restliche Wasser Stück für Stück dazugeben - immer wenn der Teig trockener wird",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Parallel die Tomaten und Peperoni in kleine - nicht zu kleine - Stücke schneiden und das Öl mit einem Küchenpapier entfernen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Nach insgesamt 8 Minuten Knetdauer das Salz hinzufügen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Weitere 2 Minuten später das Olivenöl dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Sobald der Teig geschmeidig ist die Tomaten, Peperoni und Kräuter dazugeben und weitere 2 Minuten kneten lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 32,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3786,7 +3870,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -3975,7 +4059,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4112,7 +4196,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
