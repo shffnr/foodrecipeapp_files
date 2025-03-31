@@ -346,7 +346,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Avocados halbieren, Stein entfernen und das Fruchtfleisch aus der Schale kratzen ",
+            "Description": "Avocados halbieren, Stein entfernen und das Fruchtfleisch aus der Schale kratzen",
             "IsSubStep": false
           },
           {
@@ -453,7 +453,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen ",
+            "Description": "Salatgurke schälen, entkernen, raspeln und mit etwas Salz bestreuen",
             "IsSubStep": false
           },
           {
@@ -965,7 +965,7 @@
     "Id": 11,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
-    "Duration": "50 Minuten ",
+    "Duration": "50 Minuten",
     "NumberOfPersons": "2",
     "NumberOfQuantity": "",
     "Optional": "",
@@ -1266,7 +1266,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln fein würfeln; Knoblauch pressen ",
+            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln fein würfeln; Knoblauch pressen",
             "IsSubStep": false
           },
           {
@@ -2052,7 +2052,7 @@
         "Description": "Zutaten",
         "Foods": [
           {
-            "Name": "1kg gemischtes Hackfleisch "
+            "Name": "1kg gemischtes Hackfleisch"
           },
           {
             "Name": "2 alte Brötchen"
@@ -3391,7 +3391,7 @@
           },
           {
             "Id": 2,
-            "Description": "Die restlichen Kräuter, bis auf die italiensichen Kräuter, waschen und klein hacken und ebenfalls zum Olivenöl geben ",
+            "Description": "Die restlichen Kräuter, bis auf die italiensichen Kräuter, waschen und klein hacken und ebenfalls zum Olivenöl geben",
             "IsSubStep": false
           },
           {
@@ -3611,7 +3611,7 @@
     "Id": 31,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
-    "Duration": "",
+    "Duration": "17 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "8",
     "Optional": "",
@@ -3619,8 +3619,8 @@
     "Tip": "",
     "ImageName": "mediterrane_ciabatta.jpg",
     "Oven": {
-      "OperatingMode": "",
-      "Temperatur": ""
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "250°C"
     },
     "Ingredients": [
       {
@@ -3649,6 +3649,9 @@
           },
           {
             "Name": "3g frische Kräuter, wie bspw. Thymian, Rosmarin oder Oregano"
+          },
+          {
+            "Name": "Semola für die Arbeitsfläche und Teigoberfläche"
           }
         ]
       }
@@ -3685,6 +3688,61 @@
           {
             "Id": 6,
             "Description": "Sobald der Teig geschmeidig ist die Tomaten, Peperoni und Kräuter dazugeben und weitere 2 Minuten kneten lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Eine Schüssel mit etwas Olivenöl einölnen und den Teig mit nassen Händen in die Schüssel legen. Der Teig ist klebrig",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Den Teig mit feuchten Händen keul folgen - mit den Händen vorsichtig unter den Teig kreifen, nach oben ziehen, in die Mitte falten und nach vorne fallen lassen. Schüssel um 180 Grad drehen und nochmal falten. Anschließend die Methode mit den übrig gebliebenen Seiten durchführen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Schüssel abedecken und nach 30 Minuten den Teig erneut keul folgen. Den Teig für ca. 14 Stunden in den Kühlschrank stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Backofen mit einem Pizzablech vorheizen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Semola großzügig auf der Arbeitsfläche verteilen und den Teig darauf legen. Ebenfalls großzügig Semola auf die Oberseite des Teigs streuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 12,
+            "Description": "Den Teig mit einer Teigkarte in acht gleich große Stücke teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 13,
+            "Description": "Überschüssiges Semola von den Teiglingen klopfen und die Teiglinge auf ein Backpapier legen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 14,
+            "Description": "Teilginge mit einem Tuch abdecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 15,
+            "Description": "Semola großzügig auf der Arbeitsfläche verteilen und den Teig darauf legen. Ebenfalls großzügig Semola auf die Oberseite des Teigs streuen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 16,
+            "Description": "Wenn das Pizzablech eine Temperatur von 250°C ereicht hat die Teigline mit dem Backpapier für ca. 22 bis 25 Minuten in den Backofen geben. Mit Wasserdampf backen lassen ",
+            "IsSubStep": false
+          },
+          {
+            "Id": 17,
+            "Description": "Ciabattas auf einem Gitter auskühlen lassen",
             "IsSubStep": false
           }
         ]
