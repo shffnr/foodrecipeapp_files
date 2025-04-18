@@ -3282,7 +3282,7 @@
         "Description": "Zutaten Füllung und Topping",
         "Foods": [
           {
-            "Name": "120g Mozzarellaperlen"
+            "Name": "250g Mozzarella"
           },
           {
             "Name": "Italienische Kräutermischung"
@@ -3358,12 +3358,12 @@
           },
           {
             "Id": 8,
-            "Description": "Die Mozzarellaperlen abtropfen lassen und mit den italienischen Kräutern bestreuen",
+            "Description": "Die Mozzarella abtropfen lassen, in kleine Stücke schneiden und mit den italienischen Kräutern bestreuen",
             "IsSubStep": false
           },
           {
             "Id": 9,
-            "Description": "Pro Teigportion eine Mozzarellaperle in die Mitte legen und wieder zu einer Kugel verschließen / formen",
+            "Description": "Pro Teigportion Mozzarella in die Mitte legen und wieder zu einer Kugel verschließen / formen",
             "IsSubStep": false
           },
           {
