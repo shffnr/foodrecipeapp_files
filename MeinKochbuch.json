@@ -4402,7 +4402,7 @@
     "Id": 36,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
-    "Duration": "6 Stunden",
+    "Duration": "5 Stunden",
     "NumberOfPersons": "",
     "NumberOfQuantity": "12",
     "Optional": "",
@@ -4489,7 +4489,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Alle Zutaten in der Küchenmaschine auf kleiner Stufe beginnen zu kneten. Nach ca. 3-4 Minuten., die Geschwindigkeit erhöhen und den Teig bei mittlerer Geschwindigkeit etwa 20-30 Minuten weiter kneten",
+            "Description": "Alle Zutaten in der Küchenmaschine auf kleiner Stufe beginnen zu kneten. Nach ca. 3-4 Minuten, die Geschwindigkeit erhöhen und den Teig bei mittlerer Geschwindigkeit etwa 20-30 Minuten weiter kneten",
             "IsSubStep": false
           },
           {
@@ -4549,7 +4549,7 @@
           },
           {
             "Id": 6,
-            "Description": "Die Schnecken in eine gefettete Auslaufform (Kastenform 24×30 cm) mit etwas Abstand zu den einzelnen setzen",
+            "Description": "Die Schnecken in eine gefettete Auflaufform (Kastenform 24×30 cm) mit etwas Abstand zu den einzelnen setzen",
             "IsSubStep": false
           },
           {
