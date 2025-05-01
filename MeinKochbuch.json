@@ -430,7 +430,7 @@
             "Name": "1/4 Bund Dill"
           },
           {
-            "Name": "2 EL Olivenöl "
+            "Name": "2 EL Olivenöl"
           },
           {
             "Name": "3 EL Essig"
@@ -524,7 +524,7 @@
             "Name": "1 TL Oregano"
           },
           {
-            "Name": "Salz "
+            "Name": "Salz"
           },
           {
             "Name": "Pfeffer"
@@ -1005,7 +1005,7 @@
             "Name": "400ml Kokosmilch"
           },
           {
-            "Name": "1 EL gelbe Currypaste"
+            "Name": "1 EL gelbe Currypaste (weniger scharf 1 TL)"
           },
           {
             "Name": "Salz"
@@ -1111,7 +1111,7 @@
             "Name": "1,5 Zwiebeln"
           },
           {
-            "Name": "1 Knoblauchzehe "
+            "Name": "1 Knoblauchzehe"
           },
           {
             "Name": "50g Butter"
@@ -1120,10 +1120,10 @@
             "Name": "2 EL Tomatenmark"
           },
           {
-            "Name": "1,1l Gemüsebrühe "
+            "Name": "1,1l Gemüsebrühe"
           },
           {
-            "Name": "150g saure Sahne "
+            "Name": "150g saure Sahne"
           },
           {
             "Name": "Majoran"
@@ -1231,7 +1231,7 @@
             "Name": "Schuss (Apfel-)Essig"
           },
           {
-            "Name": "1 Bund Dill "
+            "Name": "1 Bund Dill"
           },
           {
             "Name": "1 Lorbeerblatt"
@@ -3388,7 +3388,7 @@
           },
           {
             "Id": 2,
-            "Description": "Die restlichen Kräuter, bis auf die italiensichen Kräuter, waschen und klein hacken und ebenfalls zum Olivenöl geben",
+            "Description": "Die restlichen Kräuter, bis auf die italienischen Kräuter, waschen und klein hacken und ebenfalls zum Olivenöl geben",
             "IsSubStep": false
           },
           {
@@ -3734,7 +3734,7 @@
           },
           {
             "Id": 16,
-            "Description": "Wenn das Pizzablech eine Temperatur von 250°C ereicht hat die Teigline mit dem Backpapier für ca. 22 bis 25 Minuten in den Backofen geben. Mit Wasserdampf backen lassen ",
+            "Description": "Wenn das Pizzablech eine Temperatur von 250°C ereicht hat die Teigline mit dem Backpapier für ca. 22 bis 25 Minuten in den Backofen geben. Mit Wasserdampf backen lassen",
             "IsSubStep": false
           },
           {
@@ -3991,7 +3991,7 @@
           },
           {
             "Id": 2,
-            "Description": "Mehl in eine Schüssel geben und das Wasser hinzugeben. MIt den Händen grob vermengen und kneten, bis das Mehl vollständig eingearbeitet ist",
+            "Description": "Mehl in eine Schüssel geben und das Wasser hinzugeben. Mit den Händen grob vermengen und kneten, bis das Mehl vollständig eingearbeitet ist",
             "IsSubStep": false
           },
           {
@@ -4115,6 +4115,154 @@
   },
   {
     "Id": 34,
+    "Name": "Pizzateig New York Style",
+    "Category": "Backen",
+    "Duration": "25 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "3",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "Auf dem Grill für fünf Minuten auf dem Pizzastein unter gelegentlichem rotieren grillen. Der Pizzastein soll ca. 350°C haben und die äußersten Flammen müssen voll aufgedreht sein. Die Flammen unter dem Pizzastein sind aus.",
+    "ImageName": "pizzateignewyorkstyle.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g Weizenmehl Type 00"
+          },
+          {
+            "Name": "15g Meersalz"
+          },
+          {
+            "Name": "3g frische Hefe"
+          },
+          {
+            "Name": "300g 5-6° kaltes Wasser"
+          },
+          {
+            "Name": "15g Olivenöl"
+          },
+          {
+            "Name": "etwas Semola für die Arbeitsfläche"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Frische Hefe im Wasser auflösen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mehl in eine Schüssel geben und das Salz, Olivenöl und das Wasser hinzugeben. Mit einem Kochlöffel gut verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig mit der Küchenmaschine ca. 5-10 Minuten auf mittlerer Stufe, anschließend für 10 Minuten auf hoher Stufe kneten lassen. Mit einem Infrarot-Thermometer die Teigtemperatur überwachen. Sobald die Temperatur 24 Grad erreicht hat, die Maschine anhalten und den Teig etwas abkühlen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Den Teig auf einer Arbeitsfläche dehnen und falten, um 90 Grad drehen und den Vorgang ca. 2-mal wiederholen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Teigkugel 5-6 mal schleifen, sodass sie eine Spannung bekommt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Eine Schlüssel darüberstülpen und 15 Minuten ruhen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Den Teig in drei gleich große Stücke á ca. 280g teilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Teigstücke rundwirken und wenden, sodass die Naht unten liegt und 5-6-mal schleifen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Teigkugeln mit etwas Abstand in eine Pizzaballenbox legen, verschließen und für 1 Stunde bei Raumtemperatur reifen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Box verschlossen ca. 22 Stunden (oder für 18-22 Stunden) in den Kühlschrank stellen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Die Box 2 Stunden vor dem Backen aus dem Kühlschrank nehmen und nach 2 Stunden die Teiglinge formen und belegen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Formen",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Etwas Semola auf der Arbeitsfläche verteilen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Semola auf den Rändern der Teigballen verteilen und nacheinander mit einem Teigspachtel voneinander lösen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Folgende Schritte für jeden Teigballen durchführen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen herausnehmen und auf der Arbeitsfläche auf dem Semola ablegen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Teigballen vorsichtig rundwirken",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Mit ca. 2cm Abstand zum Rand beginnend die Fingerkuppen (Finger liegen eng beieinander) ansetzen und die Luft von unten nach oben vorgehend in den Rand drücken. Teig wenden und Vorgang wiederholen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Wenn die innere Teigfläche etwa Handgröße erreicht hat, den Teigling etwas hochheben, das Semola abklopfen und den Teig mit den Handrücken unter Rotation auf einen etwa 26-28cm großen Kreis ausziehen",
+            "IsSubStep": true
+          },
+          {
+            "Id": 3,
+            "Description": "Den Teig auf der Arbeitsfläche ablegen. Nicht auf dem Semola",
+            "IsSubStep": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 35,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4251,7 +4399,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
