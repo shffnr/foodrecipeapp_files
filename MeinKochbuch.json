@@ -3248,8 +3248,8 @@
     "Tip": "",
     "ImageName": "knoblauch_kraeuter_broetchen.jpeg",
     "Oven": {
-      "OperatingMode": "220°C",
-      "Temperatur": "Ober-/Unterhitze"
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "220°C"
     },
     "Ingredients": [
       {
@@ -4400,6 +4400,90 @@
   },
   {
     "Id": 36,
+    "Name": "Zitronenschnecken",
+    "Category": "Backen",
+    "Duration": "6 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "12",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "zitronenschnecken.png",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Teig",
+        "Foods": [
+          {
+            "Name": "500g Weizenmehl Type 550"
+          },
+          {
+            "Name": "220g frische Vollmilch"
+          },
+          {
+            "Name": "40g Zucker"
+          },
+          {
+            "Name": "10g Salz"
+          },
+          {
+            "Name": "20g frische Hefe"
+          },
+          {
+            "Name": "70g Butter"
+          },
+          {
+            "Name": "2 Eier"
+          },
+          {
+            "Name": "etwas Zitronenabrieb"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Füllung",
+        "Foods": [
+          {
+            "Name": "2 Zitronen"
+          },
+          {
+            "Name": "100g Zucker"
+          },
+          {
+            "Name": "50g Butter"
+          },
+          {
+            "Name": "1 Ei"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Glasur",
+        "Foods": [
+          {
+            "Name": "100g Creme Fraiche"
+          },
+          {
+            "Name": "100g Puderzucker"
+          },
+          {
+            "Name": "1 Zitrone"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Teig",
+        "Steps": []
+      }
+    ]
+  },
+  {
+    "Id": 37,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
