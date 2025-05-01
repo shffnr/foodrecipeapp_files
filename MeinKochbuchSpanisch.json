@@ -166,7 +166,7 @@
             "Name": "2 Cdas de miel"
           },
           {
-            "Name": "1 Cdta de semilla molida de mostaza "
+            "Name": "1 Cdta de semilla molida de mostaza"
           },
           {
             "Name": "1,5 Cdas de vinagre"
@@ -213,7 +213,7 @@
   },
   {
     "Id": 4,
-    "Name": "Tzatziki ",
+    "Name": "Tzatziki",
     "Category": "Dressing und Sauce",
     "Duration": "5 Horas",
     "NumberOfPersons": "4",
@@ -295,7 +295,7 @@
   },
   {
     "Id": 5,
-    "Name": "Gazpacho ",
+    "Name": "Gazpacho",
     "Category": "Suppe",
     "Duration": "5 horas",
     "NumberOfPersons": "4",
@@ -502,7 +502,7 @@
           },
           {
             "Id": 3,
-            "Description": "Calentar el aceite en una olla y dejar cocinar todo ",
+            "Description": "Calentar el aceite en una olla y dejar cocinar todo",
             "IsSubStep": false
           },
           {
@@ -752,7 +752,7 @@
           },
           {
             "Id": 8,
-            "Description": "Agregar la leche de coco y la pasta de Curry y dejar cocinar ",
+            "Description": "Agregar la leche de coco y la pasta de Curry y dejar cocinar",
             "IsSubStep": false
           },
           {
@@ -833,14 +833,14 @@
             "Name": "Pimienta"
           },
           {
-            "Name": "Azúcar "
+            "Name": "Azúcar"
           }
         ]
       }
     ],
     "Preparations": [
       {
-        "Description": "Preparación ",
+        "Description": "Preparación",
         "Steps": [
           {
             "Id": 1,
@@ -869,7 +869,7 @@
           },
           {
             "Id": 6,
-            "Description": "Servir con la nata líquida y Mejorana ",
+            "Description": "Servir con la nata líquida y Mejorana",
             "IsSubStep": false
           }
         ]
@@ -939,7 +939,7 @@
     ],
     "Preparations": [
       {
-        "Description": "Preparación ",
+        "Description": "Preparación",
         "Steps": [
           {
             "Id": 1,
@@ -958,7 +958,7 @@
           },
           {
             "Id": 4,
-            "Description": "Agregar las cebollas y dorar ",
+            "Description": "Agregar las cebollas y dorar",
             "IsSubStep": false
           },
           {
@@ -1015,7 +1015,7 @@
             "Name": "80 g de zanahorias"
           },
           {
-            "Name": "250 ml de vino blanco y tinto "
+            "Name": "250 ml de vino blanco y tinto"
           },
           {
             "Name": "400 ml de leche"
@@ -1148,7 +1148,7 @@
     ],
     "Preparations": [
       {
-        "Description": "Preparación ",
+        "Description": "Preparación",
         "Steps": [
           {
             "Id": 1,
@@ -1226,7 +1226,7 @@
             "Name": "40 g de mantequilla"
           },
           {
-            "Name": "125 ml de caldo "
+            "Name": "125 ml de caldo"
           },
           {
             "Name": "375 ml de leche"
@@ -1251,7 +1251,7 @@
     ],
     "Preparations": [
       {
-        "Description": "Preparación ",
+        "Description": "Preparación",
         "Steps": [
           {
             "Id": 1,
@@ -1575,7 +1575,7 @@
     "Optional": "",
     "Variant": "",
     "Tip": "",
-    "ImageName": "enchilada.jpg",
+    "ImageName": "enchilada.jpeg",
     "Oven": {
       "OperatingMode": "Arriba y abajo",
       "Temperatur": "175°"
@@ -1673,7 +1673,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Calentar un trozo de mantequilla y posteriormente sofreir la harina por aprox. 2 minutos a baja temperatura ",
+            "Description": "Calentar un trozo de mantequilla y posteriormente sofreir la harina por aprox. 2 minutos a baja temperatura",
             "IsSubStep": false
           },
           {
@@ -1747,7 +1747,7 @@
             "Name": "1 cda. de aceite"
           },
           {
-            "Name": "3-4 Cdas. de pasata de Ají Amarillo "
+            "Name": "3-4 Cdas. de pasata de Ají Amarillo"
           },
           {
             "Name": "150 gr. de queso fresco"
@@ -1877,7 +1877,7 @@
             "Name": "4 Dientes de ajos"
           },
           {
-            "Name": "2 Cdas. de pasta de Ají Amarillo "
+            "Name": "2 Cdas. de pasta de Ají Amarillo"
           },
           {
             "Name": "4 Nueces"
