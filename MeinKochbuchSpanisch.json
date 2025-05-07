@@ -2046,5 +2046,115 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 20,
+    "Name": "Crema de palta",
+    "Category": "Dressing und Sauce",
+    "Duration": "90 Minutos",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "4",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "guacamole.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "4 Paltas maduras grandes"
+          },
+          {
+            "Name": "Jugo de 1 o 2 limones"
+          },
+          {
+            "Name": "2 Dientes de ajos"
+          },
+          {
+            "Name": "2 Tomates grandes"
+          },
+          {
+            "Name": "1 Cebolla china"
+          },
+          {
+            "Name": "0,5 Puñado de culantro"
+          },
+          {
+            "Name": "4 Pizcas de chile en polvo"
+          },
+          {
+            "Name": "1 Cucharadita de comino molido"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar las paltas por la mitad, quitar la pepa y raspar la pulpa de la piel",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Poner la pepa en un bol y mezclarlo con un poco de zumo de limón para evitar que se ponga marrón",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Pelar el ajo y prensarlo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Quitar las semillas de los tomates y córtalos en cubitos finos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Lavar y limpiar la cebolla, cortar la parte verde en aros finos y picar finamente la parte blanca",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Lavar las hojas del culantro, sacúdalas para secarlas y píquelas finamente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Presionar todo con un tenedor hasta formar un puré, aunque todavía puede quedar un poco grumoso",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Agregar los ingredientes picados restantes con chile en polvo y comino",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Condimentar con sal y pimienta. Si aún necesita algo de acidez, agregar un poco de jugo de limón",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Dejar reposar en la regrigerador al menos una hora",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
