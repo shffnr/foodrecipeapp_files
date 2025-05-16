@@ -1087,15 +1087,15 @@
   },
   {
     "Id": 12,
-    "Name": "Tiroler Kartoffelgulasch",
-    "Category": "Hauptgericht",
-    "Duration": "50 Minuten",
+    "Name": "Der perfekte Basmatireis",
+    "Category": "Beilage",
+    "Duration": "45 Minuten",
     "NumberOfPersons": "4",
     "NumberOfQuantity": "",
-    "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
+    "Optional": "",
     "Variant": "",
     "Tip": "",
-    "ImageName": "kartoffelgulasch.jpg",
+    "ImageName": "basmatireis.jpg",
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
@@ -1105,49 +1105,16 @@
         "Description": "Zutaten",
         "Foods": [
           {
-            "Name": "1,5kg Kartoffeln"
+            "Name": "220g Basmatireis"
           },
           {
-            "Name": "1,5 Zwiebeln"
+            "Name": "375ml Wasser"
           },
           {
-            "Name": "1 Knoblauchzehe"
+            "Name": "2 EL Öl"
           },
           {
-            "Name": "50g Butter"
-          },
-          {
-            "Name": "2 EL Tomatenmark"
-          },
-          {
-            "Name": "1,1l Gemüsebrühe"
-          },
-          {
-            "Name": "150g saure Sahne"
-          },
-          {
-            "Name": "Majoran"
-          },
-          {
-            "Name": "Koriander gemahlen"
-          },
-          {
-            "Name": "Chiliflocken (nach Belieben)"
-          },
-          {
-            "Name": "Kümmel gemahlen"
-          },
-          {
-            "Name": "Paprikapulver"
-          },
-          {
-            "Name": "Salz"
-          },
-          {
-            "Name": "Pfeffer"
-          },
-          {
-            "Name": "Zucker"
+            "Name": "3/4 TL Salz"
           }
         ]
       }
@@ -1158,32 +1125,32 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln feinwürfeln;  Knoblauch pressen",
+            "Description": "Reis im kalten Wasser waschen, bis das Wasser klar bleibt",
             "IsSubStep": false
           },
           {
             "Id": 2,
-            "Description": "Zwiebeln und Knoblauch in der Butter anschwitzen",
+            "Description": "Anschließend den Reis für mindestens 20 Minuten im kalten Wasser einweichen lassen",
             "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Prise Zucker, reichlich Paprikapulver, Koriander, Chiliflocken, Kümmel und die Kartoffeln dazugeben",
+            "Description": "Wasser kochen",
             "IsSubStep": false
           },
           {
             "Id": 4,
-            "Description": "Tomatenmark, Pfeffer und Salz hinzugeben und ordentlich anschwitzen. Sollte sich zu viel am Boden ansetzen, dann mit etwas Gemüsebrühe ablöschen",
+            "Description": "In einem Topf das Öl erhitzen und den abgegossenen Reis darin bei mittlerer Hitze mit dem Salz umrühren",
             "IsSubStep": false
           },
           {
             "Id": 5,
-            "Description": "Gemüsebrühe dazugeben und das Ganze ca. 25 bis 30 Minuten köcheln lassen, bis die Kartoffeln durch sind und sich eine schlotzige Soße gebildet hat - gelegentlich umrühren",
+            "Description": "Das heiße Wasser dazugeben, mit einem Deckel einmal aufkochen lassen und anschließend die Hitze reduzieren und für 10 Minuten abgedeckt garen lassen - der Deckel darf in der gesamten Zeit nicht abgenommen werden",
             "IsSubStep": false
           },
           {
             "Id": 6,
-            "Description": "Mit saurer Sahne und Majoran servieren",
+            "Description": "Nach den 10 Minuten den Topf vom Herd nehmen und den Reis weitere 10 Minuten quellen lassen - der Deckel darf in der gesamten Zeit nicht abgenommen werden",
             "IsSubStep": false
           }
         ]
@@ -1312,6 +1279,111 @@
   },
   {
     "Id": 14,
+    "Name": "Tiroler Kartoffelgulasch",
+    "Category": "Hauptgericht",
+    "Duration": "50 Minuten",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "Anstelle von Kümmel kann auch Kreuzkümmel verwendet werden oder zusätzlich Kreuzkümmel (ca. 1/4 bis 1/3 TL).",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "kartoffelgulasch.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "1,5kg Kartoffeln"
+          },
+          {
+            "Name": "1,5 Zwiebeln"
+          },
+          {
+            "Name": "1 Knoblauchzehe"
+          },
+          {
+            "Name": "50g Butter"
+          },
+          {
+            "Name": "2 EL Tomatenmark"
+          },
+          {
+            "Name": "1,1l Gemüsebrühe"
+          },
+          {
+            "Name": "150g saure Sahne"
+          },
+          {
+            "Name": "Majoran"
+          },
+          {
+            "Name": "Koriander gemahlen"
+          },
+          {
+            "Name": "Chiliflocken (nach Belieben)"
+          },
+          {
+            "Name": "Kümmel gemahlen"
+          },
+          {
+            "Name": "Paprikapulver"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          },
+          {
+            "Name": "Zucker"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Kartoffeln schälen und in grobe Stücke schneiden; Zwiebeln feinwürfeln;  Knoblauch pressen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Zwiebeln und Knoblauch in der Butter anschwitzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Prise Zucker, reichlich Paprikapulver, Koriander, Chiliflocken, Kümmel und die Kartoffeln dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Tomatenmark, Pfeffer und Salz hinzugeben und ordentlich anschwitzen. Sollte sich zu viel am Boden ansetzen, dann mit etwas Gemüsebrühe ablöschen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Gemüsebrühe dazugeben und das Ganze ca. 25 bis 30 Minuten köcheln lassen, bis die Kartoffeln durch sind und sich eine schlotzige Soße gebildet hat - gelegentlich umrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mit saurer Sahne und Majoran servieren",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 15,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1422,7 +1494,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Asiatisches Gulasch",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1550,7 +1622,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1653,7 +1725,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1761,7 +1833,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1887,7 +1959,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2030,7 +2102,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2123,7 +2195,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2273,7 +2345,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2392,7 +2464,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2626,7 +2698,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2861,7 +2933,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -2950,7 +3022,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -3059,7 +3131,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3152,7 +3224,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3237,7 +3309,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3421,7 +3493,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3605,7 +3677,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -3747,7 +3819,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3925,7 +3997,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4114,7 +4186,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4262,7 +4334,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4399,7 +4471,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4582,7 +4654,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
