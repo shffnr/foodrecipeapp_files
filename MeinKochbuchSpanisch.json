@@ -2156,5 +2156,199 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 21,
+    "Name": "Baguette",
+    "Category": "Backen",
+    "Duration": "2,5 horas",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "3",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "baguette.jpg",
+    "Oven": {
+      "OperatingMode": "Aire caliente",
+      "Temperatur": "240°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "20 g de levadura"
+          },
+          {
+            "Name": "1 Cdta. de azúcar"
+          },
+          {
+            "Name": "600 ml de agua tibia"
+          },
+          {
+            "Name": "760 g de harina ( Tipo 550)"
+          },
+          {
+            "Name": "3 Cdtas de sal"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Disolver la levadura en un bol con agua y añadir el azúcar. Revolver bien",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Una vez disuelta la levadura, añadir la harina y la sal y revolver hasta que la harina se combine con el agua",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Tapar el recipiente y conservar  a una temperatura ambiente durante dos horas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Precalentar la cocina y poner el molde para baguettes",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Hechar suficiente harina en la superficie de trabajo (como la masa es “líquida”, se necesita bastante harina)",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Colocar la masa sobre la harina y agregar más harina a la masa",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Dividir la  masa en porciones y colocar en el model de Baguette",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Insertar el model de Baguette al horno por 20 minutos. Adicionalmente, colocar un recipiente con agua en el horno",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 22,
+    "Name": "Tiramisu",
+    "Category": "Dessert",
+    "Duration": "6 horas",
+    "NumberOfPersons": "9",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "Retirar de la refrigeradora el mascarpone y los huevos al menos 30 a 60 minutos antes de la preparación. (La preparación no se debe hacer cuando esté muy frío)                                                                                                Preparar el café y dejar enfriarlo",
+    "ImageName": "tiramisu.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "360 ml de café"
+          },
+          {
+            "Name": "4 Cdas de amaretto"
+          },
+          {
+            "Name": "5 huevos"
+          },
+          {
+            "Name": "120 g de azúcar"
+          },
+          {
+            "Name": "Una pizca de sal"
+          },
+          {
+            "Name": "750 g de Mascarpone"
+          },
+          {
+            "Name": "150 g / 300 g de galletas de lengua de gatos"
+          },
+          {
+            "Name": "Cacao para hornear"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Prepara el café y agregar Amaretto",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Separar los huevos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Batir clara de huevo hasta punto de nieve",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar azúcar y sal a la yema de huevo. Mezclar con una batidora hasta que quede cremoso",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Añadir el mascarpone y batir a un nivel bajo para que la mezcla cremosa quede bien",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Mezclar las claras de huevo con una cuchara de arriba para bajo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Capas (opcionalmente ejecutar dos veces):",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Girar las galletas rápidamente a 360° en el café y colocarlas en el plato/tazón",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Cubrir las galletas de gato de lengua con la crema",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Dejar el preparado por lo menos cinco horas en la refrigeradora ( mejor si es que esté el preparado 24 horas)",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Antes de servir, echar el cacao sobre el tiramisu",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
