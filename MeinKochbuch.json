@@ -4655,6 +4655,195 @@
   },
   {
     "Id": 38,
+    "Name": "Mohnschnecken",
+    "Category": "Backen",
+    "Duration": "5 Stunden",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "18",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "mohnschnecken.png",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "180°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten Teig",
+        "Foods": [
+          {
+            "Name": "400g Weizenmehl Type 550"
+          },
+          {
+            "Name": "160g frische Vollmilch (Raumtemperatur)"
+          },
+          {
+            "Name": "40g Zucker"
+          },
+          {
+            "Name": "8g Salz"
+          },
+          {
+            "Name": "20g frische Hefe"
+          },
+          {
+            "Name": "60g Butter (Raumtemperatur)"
+          },
+          {
+            "Name": "1 Eier"
+          },
+          {
+            "Name": "1/2 TL Vanillepulver"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Füllung",
+        "Foods": [
+          {
+            "Name": "260g frische Vollmilch"
+          },
+          {
+            "Name": "1 Prise Salz"
+          },
+          {
+            "Name": "15g Honig"
+          },
+          {
+            "Name": "130g Mohnsamen (gedämpft oder gemahlen)"
+          },
+          {
+            "Name": "20g Maisstäkre oder Weizenstärke"
+          },
+          {
+            "Name": "50g Zucker"
+          },
+          {
+            "Name": "30g Butter"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Formen",
+        "Foods": [
+          {
+            "Name": "etwas Mehl für die Arbeitsfläche"
+          }
+        ]
+      },
+      {
+        "Description": "Zutaten Glasur",
+        "Foods": [
+          {
+            "Name": "100g Puderzucker"
+          },
+          {
+            "Name": "1 Zitrone"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung Teig",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten in der Küchenmaschine auf kleiner Stufe beginnen zu kneten. Nach ca. 3-4 Minuten, die Geschwindigkeit erhöhen und den Teig bei mittlerer Geschwindigkeit etwa 20-30 Minuten weiter kneten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Den Teig in ein gefettetes Gefäß geben, mit einem Teigtuch zudecken und für 2-2,5 Stunden bei Raumtemperatur um das Doppelte aufgehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Füllung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Abrieb der zwei Zitronen und deren Saft mit Zucker, Butter und dem Ei in einem Kochtopf unter ständigem umrühren aufkochen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Sobald die Masse etwas eingedickt ist, die Masse durch ein Sieb in eine Schüssel geben und mit einer Frischhaltefolie direkt auf der Zitronenmasse zudecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Anschließend die Zitronenmasse bis zur Weiterverwendung in den Kühlschrank stellen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Formen",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Nach der Gärzeit mit der Faust in den Teig schlagen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Den Teig auf einer bemehlten Arbeitsfläche rechteckig auf 5 mm und auf eine Grösse von 42×42 cm ausrollen. Dabei den Teig immer wieder etwas durchlockern, damit er nicht auf der Arbeitsfläche klebt",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Danach das Teigstück gleichmässig mit der vorbereiteten Zitronenfüllung bestreichen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Das Teigstück beginnen aufzurollen. Dabei dem Teig immer etwas Zug geben und eine straffe Rolle formen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Teigrolle in 12 gleich grosse Stücke schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Die Schnecken in eine gefettete Auflaufform (Kastenform 24×30 cm) mit etwas Abstand zu den einzelnen setzen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Die Schnecken nochmals zugedeckt für 1 Stunde bei Raumtemperatur aufgehen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Für ca. 20-25 Minuten im Backofen goldgelb backen",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Zubereitung Glasur",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Creme Fraiche mit Puderzucker, Zitronenabrieb und einem Spritzer Zitronensaft in einer Schüssel klumpenfrei verrühren. Ggf. etwas mehr Zitronensaft dazugeben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Die noch heissen Schnecken mit einem Pinsel mit der Glasur bestreichen und optional nochmal etwas Zitronenabrieb über den Zitronenschnecken verteilen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 39,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
