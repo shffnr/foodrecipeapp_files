@@ -2110,7 +2110,7 @@
           },
           {
             "Id": 2,
-            "Description": "Poner la pepa en un bol y mezclarlo con un poco de zumo de limón para evitar que se ponga marrón",
+            "Description": "Poner la pulpa de la palta en un bol y mezclarlo con un poco de zumo de limón para evitar que se ponga marrón",
             "IsSubStep": false
           },
           {
@@ -2345,6 +2345,117 @@
           {
             "Id": 11,
             "Description": "Antes de servir, echar el cacao sobre el tiramisu",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 23,
+    "Name": "Ragú clásico a la boloñesa",
+    "Category": "Hauptgericht",
+    "Duration": "210 minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "bolognese.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "500 g de carne molida de res"
+          },
+          {
+            "Name": "150 g de panceta o tocino"
+          },
+          {
+            "Name": "1 cebolla grande"
+          },
+          {
+            "Name": "80 g apio"
+          },
+          {
+            "Name": "80 g de zanahoria"
+          },
+          {
+            "Name": "250 ml de vino blanco o tinto"
+          },
+          {
+            "Name": "400 ml de leche"
+          },
+          {
+            "Name": "500 g de passata de tomate"
+          },
+          {
+            "Name": "Aceite de oliva"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "Fideos"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar la panceta, cebollas, apio y zanahorias en cuadraditos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Calentar la panceta con aceita en una olla",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Después de un tiempo corto, agregar las cebollas, apio y zanahoria y aderezar todo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar la carne molida y condimentar con sal y pimienta, mover constantemente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Cuando la carne haza adquirido un color bueno, agregar el vino y dejar cocinar",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Añadir la passata de tomate y dejar cocinar con la tapa puesta al nivel más bajo durante una hora",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Agregar la mitad de la leche, dejar cocinar y nuevamente dejar hervir a fuego lento por una hora",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Repetir el paso 7 y dejar hervir a fuego lento por media hora",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Cocinar los fideos y antes de servir el Ragú condimentar al gusto",
             "IsSubStep": false
           }
         ]
