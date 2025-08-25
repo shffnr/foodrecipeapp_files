@@ -3132,6 +3132,90 @@
   },
   {
     "Id": 28,
+    "Name": "Dunkles Schokoladeneis (1 Liter)",
+    "Category": "Dessert",
+    "Duration": "20 Stunden",
+    "NumberOfPersons": "12",
+    "NumberOfQuantity": "",
+    "Optional": "Beim umfüllen des fertigen Eises in den Behälter Schokostücke nach beliben unterrühren",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "schokoladeneis.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "140g Zucker"
+          },
+          {
+            "Name": "30g Glukosepulver"
+          },
+          {
+            "Name": "30g Kakaopulver"
+          },
+          {
+            "Name": "2g Johannisbrotkernmehl"
+          },
+          {
+            "Name": "2g Salz"
+          },
+          {
+            "Name": "150g dunkle Kuvertüre (mindestens 59% Kakaogehalt)"
+          },
+          {
+            "Name": "500ml firsche Vollmilch (mindestens 3,5% Fettgehalt)"
+          },
+          {
+            "Name": "200ml frische Schlagsahne"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten zusammen auf 80 Grad erhitzen und dabei ständig rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit einem Stabmixer die Masse ordentlich durchmixen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Die Eisgrundmasse in den Kühlschrank geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Sobald die Eisgrundmasse auf unter 18 Grad heruntergekühlt ist, die Masse nochmals mit einem Stabmixer gut durchmixen. Es sollen viele kleine Blasen entsehen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Die Masse in die Eismaschine füllen und für eine Stunde zu einem Eis herstellen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Das fertige Eis in einen vorgekühlten verschließbaren Behälter umfüllen und für mindestens 12 Stunden im Gefrierfach durchziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 29,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3224,7 +3308,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3309,7 +3393,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3493,7 +3577,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3677,7 +3761,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -3819,7 +3903,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3997,7 +4081,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4186,7 +4270,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4334,7 +4418,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4471,7 +4555,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4654,7 +4738,7 @@
     ]
   },
   {
-    "Id": 38,
+    "Id": 39,
     "Name": "Mohnschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4843,7 +4927,7 @@
     ]
   },
   {
-    "Id": 39,
+    "Id": 40,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
