@@ -4479,5 +4479,89 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 38,
+    "Name": "Helado de chocolate (1 Litro)",
+    "Category": "Dessert",
+    "Duration": "20 Horas",
+    "NumberOfPersons": "12",
+    "NumberOfQuantity": "",
+    "Optional": "Al traspasar el helado al recipiente, agregar trozos de chocolate según sea el gusto",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "schokoladeneis.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "140 g de azúcar"
+          },
+          {
+            "Name": "30 g de glucosa en polvo"
+          },
+          {
+            "Name": "30 g de cacao en polvo"
+          },
+          {
+            "Name": "2 g de  harina de semillas de algarroba"
+          },
+          {
+            "Name": "2 g de sal"
+          },
+          {
+            "Name": "150 g de cobertura de chocolate (al menos 59% de contenido de cacao)"
+          },
+          {
+            "Name": "500 ml de leche fresca (al menos 3,5 % de contenido en grasa)"
+          },
+          {
+            "Name": "200 ml de crema de leche"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Calentar todos los ingredientes a 80 grados y batir constantemente",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Batir la masa con la batidora de manera constante",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Colocar la masa principal de helado en la refrigeradora",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Batir varias veces la masa principal de helado tan pronto como se haya enfriado a una temperatura de 18 grados. Deberían aparecer muchas burbujas pequeñas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Echar la masa en la máquina de helados y dejar por una hora hasta que se produzca el helado",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Transpasar el helado en un recipiente previamente congelado y con cerradura y dejar por al menos 12 horas en una congeladora",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
