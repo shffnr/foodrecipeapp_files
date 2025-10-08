@@ -847,6 +847,120 @@
   },
   {
     "Id": 10,
+    "Name": "Tomatensuppe",
+    "Category": "Suppe",
+    "Duration": "2 Stunden",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tomatensuppe.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "2 rote Zwiebeln"
+          },
+          {
+            "Name": "3 Knoblauchzehen"
+          },
+          {
+            "Name": "300g Staudensellerie"
+          },
+          {
+            "Name": "1,5 kg gemischte Tomaten (verschiedene Sorten)"
+          },
+          {
+            "Name": "5 EL Olivenöl"
+          },
+          {
+            "Name": "0,5 EL Butter"
+          },
+          {
+            "Name": "70g Tomatenmark"
+          },
+          {
+            "Name": "0,5 TL schwarzer gemahlener Pfeffer"
+          },
+          {
+            "Name": "4 Lorbeerblätter"
+          },
+          {
+            "Name": "1 Dose geschälte Tomaten"
+          },
+          {
+            "Name": "10 Basilikumblätter"
+          },
+          {
+            "Name": "Zucker"
+          },
+          {
+            "Name": "Salz"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Zwiebeln und Knoblauch schälen und in Würfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Staudensellerie waschen und in grob würfeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Tomaten waschen, Stielansatz entfernen und grob würfeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Einen ausreichend großen Topf mit Olivenöl und Butter auf mittlerer Hitze erhitzen und darin Zwiebeln, Knoblauch und Staudensellerie für 3 bis 4 Minuten glasig dünsten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Tomatenmark, 1 EL Zucker, Pfeffer und Lorbeerblätter zugeben und 1 Minute mitdünsten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Frische Tomaten hinzufügen und weitere 10 Minuten weich dünsten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Dosentomaten und etwas Salz zugeben und bei niedrieger Hitze 1 Stunde offen einkochen lassen. Dabei gelegentlich umrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Lobeerblätter herausnehmen und Basilikumblätter dazugeben. Anschließend mit dem Mixstab fein pürieren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Die Suppe durch ein feines Sieb geben und mit Salz, Peffer und Zucker abschmecken",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
     "Duration": "45 Minuten",
@@ -959,7 +1073,7 @@
     ]
   },
   {
-    "Id": 11,
+    "Id": 12,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
     "Duration": "50 Minuten",
@@ -1086,7 +1200,7 @@
     ]
   },
   {
-    "Id": 12,
+    "Id": 13,
     "Name": "Der perfekte Basmatireis",
     "Category": "Beilage",
     "Duration": "45 Minuten",
@@ -1158,7 +1272,7 @@
     ]
   },
   {
-    "Id": 13,
+    "Id": 14,
     "Name": "Saures Kartoffelgemüse",
     "Category": "Beilage",
     "Duration": "40 Minuten",
@@ -1278,7 +1392,7 @@
     ]
   },
   {
-    "Id": 14,
+    "Id": 15,
     "Name": "Tiroler Kartoffelgulasch",
     "Category": "Hauptgericht",
     "Duration": "50 Minuten",
@@ -1383,7 +1497,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1494,7 +1608,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Asiatisches Gulasch",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1622,7 +1736,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1725,7 +1839,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1833,7 +1947,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -1959,7 +2073,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2102,7 +2216,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2195,7 +2309,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2345,7 +2459,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2464,7 +2578,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2698,7 +2812,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -2933,7 +3047,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -3022,7 +3136,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -3131,7 +3245,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Dunkles Schokoladeneis (1 Liter)",
     "Category": "Dessert",
     "Duration": "20 Stunden",
@@ -3215,7 +3329,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3308,7 +3422,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3393,7 +3507,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3577,7 +3691,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3761,7 +3875,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -3903,7 +4017,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -4081,7 +4195,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4270,7 +4384,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4418,7 +4532,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4555,7 +4669,7 @@
     ]
   },
   {
-    "Id": 38,
+    "Id": 39,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4738,7 +4852,7 @@
     ]
   },
   {
-    "Id": 39,
+    "Id": 40,
     "Name": "Mohnschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4927,7 +5041,7 @@
     ]
   },
   {
-    "Id": 40,
+    "Id": 41,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
