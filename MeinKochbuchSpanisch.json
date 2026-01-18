@@ -4563,5 +4563,205 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 39,
+    "Name": "El perfecto arroz basmati",
+    "Category": "Beilage",
+    "Duration": "45 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "basmatireis.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "220 g de arroz basmati"
+          },
+          {
+            "Name": "375 ml de agua"
+          },
+          {
+            "Name": "2  Cdas. de aceite"
+          },
+          {
+            "Name": "3/4 de cdtas. de sal"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Lavar el arroz con agua fría hasta que el agua esté claro",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Posteriormente, dejar remojar el arroz por al menos 20 minutos en agua fría",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Hervir el agua",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Calentar el aceite en una olla y remover el arroz escurrido con sal bajo una temperatura media",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Agregar el agua caliente y dejar cocinar el arroz con una tapa. Luego, reducir la temperatura y dejar cocer por 10 minutos.  Durante este tiempo la tapa no debe ser retirada.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Después de 10 minutos, retirar la olla de la cocina. Posteriormente, dejar el arroz en remojo por unos 10 minutos más. No se debe retirar la tapa durante todo este tiempo.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 40,
+    "Name": "Estofado asiático",
+    "Category": "Hauptgericht",
+    "Duration": "210 Minutos",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "asiatisches_gulasch.jpeg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes para la pasta de curry",
+        "Foods": [
+          {
+            "Name": "10 g de chili"
+          },
+          {
+            "Name": "25 g de culantro fresco"
+          },
+          {
+            "Name": "25 g de hierbaluisa"
+          },
+          {
+            "Name": "5 g de culantro molido"
+          },
+          {
+            "Name": "10 g de comino"
+          },
+          {
+            "Name": "3 g de canela"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "Pimienta"
+          },
+          {
+            "Name": "10 g de ajo"
+          },
+          {
+            "Name": "20 g de kión"
+          },
+          {
+            "Name": "25 g de azúcar rubia"
+          },
+          {
+            "Name": "80 g de cebolla"
+          }
+        ]
+      },
+      {
+        "Description": "Ingredientes para el estofado",
+        "Foods": [
+          {
+            "Name": "1 Kilo de estofado de res de la parte de la cadera"
+          },
+          {
+            "Name": "12 g de aceite de coco"
+          },
+          {
+            "Name": "500 g de caldo de carne"
+          },
+          {
+            "Name": "400 g de leche de coco"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación para la pasta de curry",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar la cebolla. También, cortar el tallo del culantro. Después, se necesitarán las hojas.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Retirar las hojas externas de la hierba luisa y cortar la parte suave interna.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Rallar el kión sin pelar.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Machacar el kión, la hierba buena con el resto de los ingredientes en un mortero.",
+            "IsSubStep": false
+          }
+        ]
+      },
+      {
+        "Description": "Preparación para el estofado",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Cortar la carne en cuadraditos.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Calentar el aceite en una olla y dejar cocer la carne.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Reducir la temperatura y dejar cocer entre 2 a 3 minutos.",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Agregar el caldo de carne y la leche de coco. Dejar cocinar con la tapa puesta por aproximadamente 1 hora y media.",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
