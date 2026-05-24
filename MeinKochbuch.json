@@ -3442,6 +3442,24 @@
   },
   {
     "Id": 31,
+    "Name": "Mango-Joghurt-Eis (1 Liter)",
+    "Category": "Dessert",
+    "Duration": "",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "Mango_Joghurt_Eis.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [],
+    "Preparations": []
+  },
+  {
+    "Id": 32,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3534,7 +3552,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3619,7 +3637,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3803,7 +3821,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3987,7 +4005,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -4124,7 +4142,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -4302,7 +4320,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4423,7 +4441,7 @@
           },
           {
             "Id": 8,
-            "Description": "Eine Schlüssel darüberstülpen und 15 Minuten ruhen lassen",
+            "Description": "Eine Schüssel darüberstülpen und 15 Minuten ruhen lassen",
             "IsSubStep": false
           },
           {
@@ -4491,7 +4509,7 @@
     ]
   },
   {
-    "Id": 38,
+    "Id": 39,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4639,7 +4657,7 @@
     ]
   },
   {
-    "Id": 39,
+    "Id": 40,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4776,7 +4794,7 @@
     ]
   },
   {
-    "Id": 40,
+    "Id": 41,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4959,7 +4977,7 @@
     ]
   },
   {
-    "Id": 41,
+    "Id": 42,
     "Name": "Mohnschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -5148,7 +5166,7 @@
     ]
   },
   {
-    "Id": 42,
+    "Id": 43,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
