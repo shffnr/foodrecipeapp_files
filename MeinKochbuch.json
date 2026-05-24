@@ -400,6 +400,118 @@
   },
   {
     "Id": 6,
+    "Name": "Tomaten-Chutney",
+    "Category": "Beilage",
+    "Duration": "1 Stunde",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tomaten_chutney.jpg",
+    "Oven": {
+      "OperatingMode": "Ober-/Unterhitze",
+      "Temperatur": "240°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "800g Strauchtomaten"
+          },
+          {
+            "Name": "2 Zwiebeln"
+          },
+          {
+            "Name": "3 EL natives Olivenöl"
+          },
+          {
+            "Name": "3 EL brauner Zucker"
+          },
+          {
+            "Name": "2 EL Rotweinessig"
+          },
+          {
+            "Name": "1 Stängel Rosmarin"
+          },
+          {
+            "Name": "1 Lorbeerblatt"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "1-2 Prisen Cayennepfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Den Ofen vorheizen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Tomaten waschen, halbieren und Stielansatz herausschneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Tomatenhälften mit den Schnittflächen nach unten auf ein Backpapier belegtes Blech setzen und auf oberer Schiene für ca. 10 Minuten in den vorgeheizten Ofen geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "In der Zwischenzeit die Zwiebeln schälen und fein würfeln",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Haut der Tomaten entfernen und die Tomaten mit einer Gabel zerkleinern",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Olivenöl in einem Topf erhitzen und darin die Zwiebeln kurz andünsten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Tomaten dazugeben und für 7 Minuten bei mittlerer Hitze mit andünsten",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Zucker unterühren und mit dem Essig ablöschen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Rosmarin, Thymian und das Lorbeerblatt dazugeben und offen bei niedriger Hitze für weitere 20 Minuten einkochen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Kräuter entfernen und Cayennepfeffer dazugeben. Mit Salz abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Chutney sofort in saubere Twist-off-Gläser füllen, verschließen und 5 Minuten auf die Deckel stellen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
     "Name": "Tsatsiki",
     "Category": "Dressing und Sauce",
     "Duration": "5 Stunden",
@@ -478,7 +590,7 @@
     ]
   },
   {
-    "Id": 7,
+    "Id": 8,
     "Name": "Papa a la Huancaína",
     "Category": "Vorspeise",
     "Duration": "35 Minuten",
@@ -602,7 +714,7 @@
     ]
   },
   {
-    "Id": 8,
+    "Id": 9,
     "Name": "Gazpacho",
     "Category": "Suppe",
     "Duration": "5 Stunden",
@@ -722,7 +834,7 @@
     ]
   },
   {
-    "Id": 9,
+    "Id": 10,
     "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Category": "Suppe",
     "Duration": "60 Minuten",
@@ -846,7 +958,7 @@
     ]
   },
   {
-    "Id": 10,
+    "Id": 11,
     "Name": "Tomatensuppe",
     "Category": "Suppe",
     "Duration": "2 Stunden",
@@ -960,7 +1072,7 @@
     ]
   },
   {
-    "Id": 11,
+    "Id": 12,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
     "Duration": "45 Minuten",
@@ -1073,7 +1185,7 @@
     ]
   },
   {
-    "Id": 12,
+    "Id": 13,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
     "Duration": "50 Minuten",
@@ -1200,7 +1312,7 @@
     ]
   },
   {
-    "Id": 13,
+    "Id": 14,
     "Name": "Der perfekte Basmatireis",
     "Category": "Beilage",
     "Duration": "45 Minuten",
@@ -1272,7 +1384,7 @@
     ]
   },
   {
-    "Id": 14,
+    "Id": 15,
     "Name": "Saures Kartoffelgemüse",
     "Category": "Beilage",
     "Duration": "40 Minuten",
@@ -1392,7 +1504,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Tiroler Kartoffelgulasch",
     "Category": "Hauptgericht",
     "Duration": "50 Minuten",
@@ -1497,7 +1609,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1608,7 +1720,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Asiatisches Gulasch",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1736,7 +1848,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1839,7 +1951,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -1947,7 +2059,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2073,7 +2185,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2216,7 +2328,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2309,7 +2421,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2459,7 +2571,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2578,7 +2690,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2812,7 +2924,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -3047,7 +3159,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -3136,7 +3248,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -3245,7 +3357,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Dunkles Schokoladeneis (1 Liter)",
     "Category": "Dessert",
     "Duration": "20 Stunden",
@@ -3329,7 +3441,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3422,7 +3534,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3507,7 +3619,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3691,7 +3803,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -3875,7 +3987,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -3999,16 +4111,11 @@
           },
           {
             "Id": 15,
-            "Description": "Semola großzügig auf der Arbeitsfläche verteilen und den Teig darauf legen. Ebenfalls großzügig Semola auf die Oberseite des Teigs streuen",
-            "IsSubStep": false
-          },
-          {
-            "Id": 16,
             "Description": "Wenn das Pizzablech eine Temperatur von 250°C ereicht hat die Teigline mit dem Backpapier für ca. 22 bis 25 Minuten in den Backofen geben. Mit Wasserdampf backen lassen",
             "IsSubStep": false
           },
           {
-            "Id": 17,
+            "Id": 16,
             "Description": "Ciabattas auf einem Gitter auskühlen lassen",
             "IsSubStep": false
           }
@@ -4017,7 +4124,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -4195,7 +4302,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4384,7 +4491,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4532,7 +4639,7 @@
     ]
   },
   {
-    "Id": 38,
+    "Id": 39,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4669,7 +4776,7 @@
     ]
   },
   {
-    "Id": 39,
+    "Id": 40,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -4852,7 +4959,7 @@
     ]
   },
   {
-    "Id": 40,
+    "Id": 41,
     "Name": "Mohnschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -5041,7 +5148,7 @@
     ]
   },
   {
-    "Id": 41,
+    "Id": 42,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
