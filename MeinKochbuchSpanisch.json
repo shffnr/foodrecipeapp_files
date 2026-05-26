@@ -4763,5 +4763,135 @@
         ]
       }
     ]
+  },
+  {
+    "Id": 41,
+    "Name": "Helado de mango con yogur",
+    "Category": "Dessert",
+    "Duration": "",
+    "NumberOfPersons": "",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "Mango_Joghurt_Eis.jpg",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [],
+    "Preparations": []
+  },
+  {
+    "Id": 42,
+    "Name": "Chutney de tomate",
+    "Category": "Beilage",
+    "Duration": "1 hora",
+    "NumberOfPersons": "4",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "tomaten_chutney.jpg",
+    "Oven": {
+      "OperatingMode": "Calentar arriba y abajo",
+      "Temperatur": "240°C"
+    },
+    "Ingredients": [
+      {
+        "Description": "Ingredientes",
+        "Foods": [
+          {
+            "Name": "800 g de tomates en rama"
+          },
+          {
+            "Name": "2 Cebollas"
+          },
+          {
+            "Name": "3 Cdas de aceite de oliva virgen"
+          },
+          {
+            "Name": "3 Cdas de azúcar rubia"
+          },
+          {
+            "Name": "2 Cdas de vinagre de vino tinto"
+          },
+          {
+            "Name": "1 Rama de romero"
+          },
+          {
+            "Name": "1 Hoja de de laurel"
+          },
+          {
+            "Name": "Sal"
+          },
+          {
+            "Name": "1-2 Pizcas de pimienta de Cayena"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Preparación",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Precalentar el horno",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Lavar los tomates, dividirlos en dos y retirar la parte del tallo",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Colocar las mitades de los tomate con la parte cortada hacia abajo en una bandeja forrada con papel de horno y hornear en la rejilla superior durante unos 10 minutos en el horno precalentado",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Mientras tanto pelar las cebolla y cortarlas en cuadraditos",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Quitar la piel de los tomates y trozar los tomates con un tenedor",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Calentar aceite de oliva en una olla y cocinar suavemente kas cebollas",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Agregar los tomates y dorarlos por 7 minutos a fuego medio",
+            "IsSubStep": false
+          },
+          {
+            "Id": 8,
+            "Description": "Añadir el azúcar y desglasar con la vinagre",
+            "IsSubStep": false
+          },
+          {
+            "Id": 9,
+            "Description": "Agregar el romero, tomillo y la hoja de laurel y dejar cocinar con la tapa abierta por 20 minutos más",
+            "IsSubStep": false
+          },
+          {
+            "Id": 10,
+            "Description": "Retirar las hierbas y añadir la pimienta de Cayena. Sazonar con sal al gusto",
+            "IsSubStep": false
+          },
+          {
+            "Id": 11,
+            "Description": "Agregar los tomates de Chutney en frascos con tapas de rosca, taparlos y poner los frascos boca abajo por 5 minutos",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   }
 ]
