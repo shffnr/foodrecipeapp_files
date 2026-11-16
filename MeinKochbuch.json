@@ -3444,19 +3444,88 @@
     "Id": 31,
     "Name": "Mango-Joghurt-Eis (1 Liter)",
     "Category": "Dessert",
-    "Duration": "",
-    "NumberOfPersons": "",
+    "Duration": "20 Stunden",
+    "NumberOfPersons": "12",
     "NumberOfQuantity": "",
     "Optional": "",
     "Variant": "",
     "Tip": "",
-    "ImageName": "Mango_Joghurt_Eis.jpg",
+    "ImageName": "mango_joghurt_eis.jpg",
     "Oven": {
       "OperatingMode": "",
       "Temperatur": ""
     },
-    "Ingredients": [],
-    "Preparations": []
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "125g Zucker"
+          },
+          {
+            "Name": "30g Glukosepulver"
+          },
+          {
+            "Name": "2g Johannisbrotkernmehl"
+          },
+          {
+            "Name": "100ml frische Vollmilch (mindestens 3,5% Fettgehalt)"
+          },
+          {
+            "Name": "90ml frische Schlagsahne"
+          },
+          {
+            "Name": "1 TL Vanilleextrakt"
+          },
+          {
+            "Name": "420g Joghurt (3,5% Fettgehalt)"
+          },
+          {
+            "Name": "300g Mangofruchtfleisch"
+          },
+          {
+            "Name": "1-1,5 EL frischer Zitronensaft"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Alle Zutaten zusammen auf 80 Grad erhitzen und dabei ständig rühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Mit einem Stabmixer die Masse ordentlich durchmixen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Die Eisgrundmasse in den Kühlschrank geben",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "Sobald die Eisgrundmasse auf unter 18 Grad heruntergekühlt ist, die Masse nochmals mit einem Stabmixer gut durchmixen. Es sollen viele kleine Blasen entsehen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Die Masse in die Eismaschine füllen und für eine Stunde zu einem Eis herstellen lassen",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Das fertige Eis in einen vorgekühlten verschließbaren Behälter umfüllen und für mindestens 12 Stunden im Gefrierfach durchziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
   },
   {
     "Id": 32,
