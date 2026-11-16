@@ -3408,7 +3408,7 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Alle Zutaten zusammen auf 80 Grad erhitzen und dabei ständig rühren",
+            "Description": "Alle Zutaten zusammen auf 92 Grad erhitzen und dabei ständig rühren",
             "IsSubStep": false
           },
           {
@@ -3495,22 +3495,22 @@
         "Steps": [
           {
             "Id": 1,
-            "Description": "Alle Zutaten zusammen auf 80 Grad erhitzen und dabei ständig rühren",
+            "Description": "Zucker, Glukosepulver, Johannisbrotkernmehl mit der Milch, Schlagsahne und der Vanileextrakt zusammen auf 80 Grad erhitzen und dabei ständig rühren",
             "IsSubStep": false
           },
           {
             "Id": 2,
-            "Description": "Mit einem Stabmixer die Masse ordentlich durchmixen",
+            "Description": "Joghurt mit dem Mangofruchtfleisch mit einem Stabmixer durchmixen",
             "IsSubStep": false
           },
           {
             "Id": 3,
-            "Description": "Die Eisgrundmasse in den Kühlschrank geben",
+            "Description": "Die Eisgrundmasse mit der Joghurt-Mango-Mischung durchmixen und in den Kühlschrank geben",
             "IsSubStep": false
           },
           {
             "Id": 4,
-            "Description": "Sobald die Eisgrundmasse auf unter 18 Grad heruntergekühlt ist, die Masse nochmals mit einem Stabmixer gut durchmixen. Es sollen viele kleine Blasen entsehen",
+            "Description": "Sobald die Eisgrundmasse auf unter 18 Grad heruntergekühlt ist, die Masse mit dem Zitronensaft nochmals mit einem Stabmixer gut durchmixen",
             "IsSubStep": false
           },
           {
