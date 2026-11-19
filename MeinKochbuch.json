@@ -290,6 +290,104 @@
   },
   {
     "Id": 5,
+    "Name": "Sour Cream",
+    "Category": "Dressing und Sauce",
+    "Duration": "2 Stunden",
+    "NumberOfPersons": "6",
+    "NumberOfQuantity": "",
+    "Optional": "",
+    "Variant": "",
+    "Tip": "",
+    "ImageName": "sour_cream.png",
+    "Oven": {
+      "OperatingMode": "",
+      "Temperatur": ""
+    },
+    "Ingredients": [
+      {
+        "Description": "Zutaten",
+        "Foods": [
+          {
+            "Name": "500g Magerquark"
+          },
+          {
+            "Name": "300g Schmand"
+          },
+          {
+            "Name": "2 Schalotten"
+          },
+          {
+            "Name": "3-4 Knoblauchzehen"
+          },
+          {
+            "Name": "5 EL Weißweinessig oder Apfelessig"
+          },
+          {
+            "Name": "Kleiner Bund Schnittlauch (30g)"
+          },
+          {
+            "Name": "3 TL Zucker"
+          },
+          {
+            "Name": "2 Prisen Chiliflocken"
+          },
+          {
+            "Name": "1,5 - 2 Spritzer Zitronensaft"
+          },
+          {
+            "Name": "Salz"
+          },
+          {
+            "Name": "Pfeffer"
+          }
+        ]
+      }
+    ],
+    "Preparations": [
+      {
+        "Description": "Zubereitung",
+        "Steps": [
+          {
+            "Id": 1,
+            "Description": "Schalotten schälen und in kleine feine Würfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 2,
+            "Description": "Knoblauch schälen und pressen oder in feine Würfel schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 3,
+            "Description": "Schnittlauch waschen, trocken tupfen und in feine Ringe schneiden",
+            "IsSubStep": false
+          },
+          {
+            "Id": 4,
+            "Description": "In eine Schüssel den Essig mit den Schalotten, Knoblauch, Chiliflocken und Zucker geben und gut verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 5,
+            "Description": "Den Magerquark und Schmand dazugeben und mit verrühren",
+            "IsSubStep": false
+          },
+          {
+            "Id": 6,
+            "Description": "Schnittlauch dazugeben und alles mit Sals, Pfeffer und dem Zitronensaft abschmecken",
+            "IsSubStep": false
+          },
+          {
+            "Id": 7,
+            "Description": "Für mindestens 2 Stunden im Kühlschrank ziehen lassen",
+            "IsSubStep": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
     "Name": "Guacamole",
     "Category": "Dressing und Sauce",
     "Duration": "90 Minuten",
@@ -399,7 +497,7 @@
     ]
   },
   {
-    "Id": 6,
+    "Id": 7,
     "Name": "Tomaten-Chutney",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -511,7 +609,7 @@
     ]
   },
   {
-    "Id": 7,
+    "Id": 8,
     "Name": "Tsatsiki",
     "Category": "Dressing und Sauce",
     "Duration": "5 Stunden",
@@ -590,7 +688,7 @@
     ]
   },
   {
-    "Id": 8,
+    "Id": 9,
     "Name": "Papa a la Huancaína",
     "Category": "Vorspeise",
     "Duration": "35 Minuten",
@@ -714,7 +812,7 @@
     ]
   },
   {
-    "Id": 9,
+    "Id": 10,
     "Name": "Gazpacho",
     "Category": "Suppe",
     "Duration": "5 Stunden",
@@ -834,7 +932,7 @@
     ]
   },
   {
-    "Id": 10,
+    "Id": 11,
     "Name": "Kartoffelsuppe mit Champignons und Bacon",
     "Category": "Suppe",
     "Duration": "60 Minuten",
@@ -958,7 +1056,7 @@
     ]
   },
   {
-    "Id": 11,
+    "Id": 12,
     "Name": "Tomatensuppe",
     "Category": "Suppe",
     "Duration": "2 Stunden",
@@ -1072,7 +1170,7 @@
     ]
   },
   {
-    "Id": 12,
+    "Id": 13,
     "Name": "Geröstete Tomatensuppe",
     "Category": "Suppe",
     "Duration": "45 Minuten",
@@ -1185,7 +1283,7 @@
     ]
   },
   {
-    "Id": 13,
+    "Id": 14,
     "Name": "Karotten-Ingwer-Kokos Suppe",
     "Category": "Suppe",
     "Duration": "50 Minuten",
@@ -1312,7 +1410,7 @@
     ]
   },
   {
-    "Id": 14,
+    "Id": 15,
     "Name": "Der perfekte Basmatireis",
     "Category": "Beilage",
     "Duration": "45 Minuten",
@@ -1384,7 +1482,7 @@
     ]
   },
   {
-    "Id": 15,
+    "Id": 16,
     "Name": "Saures Kartoffelgemüse",
     "Category": "Beilage",
     "Duration": "40 Minuten",
@@ -1504,7 +1602,7 @@
     ]
   },
   {
-    "Id": 16,
+    "Id": 17,
     "Name": "Tiroler Kartoffelgulasch",
     "Category": "Hauptgericht",
     "Duration": "50 Minuten",
@@ -1609,7 +1707,7 @@
     ]
   },
   {
-    "Id": 17,
+    "Id": 18,
     "Name": "Klassisches Ragù alla Bolognese",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1720,7 +1818,7 @@
     ]
   },
   {
-    "Id": 18,
+    "Id": 19,
     "Name": "Asiatisches Gulasch",
     "Category": "Hauptgericht",
     "Duration": "210 Minuten",
@@ -1848,7 +1946,7 @@
     ]
   },
   {
-    "Id": 19,
+    "Id": 20,
     "Name": "Kartoffelgratin",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -1951,7 +2049,7 @@
     ]
   },
   {
-    "Id": 20,
+    "Id": 21,
     "Name": "Blumenkohlauflauf",
     "Category": "Hauptgericht",
     "Duration": "80 Minuten",
@@ -2059,7 +2157,7 @@
     ]
   },
   {
-    "Id": 21,
+    "Id": 22,
     "Name": "Chana Masala",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2185,7 +2283,7 @@
     ]
   },
   {
-    "Id": 22,
+    "Id": 23,
     "Name": "Ratatouille",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2328,7 +2426,7 @@
     ]
   },
   {
-    "Id": 23,
+    "Id": 24,
     "Name": "Frikadellen",
     "Category": "Beilage",
     "Duration": "1 Stunde",
@@ -2421,7 +2519,7 @@
     ]
   },
   {
-    "Id": 24,
+    "Id": 25,
     "Name": "Enchilada",
     "Category": "Hauptgericht",
     "Duration": "70 Minuten",
@@ -2571,7 +2669,7 @@
     ]
   },
   {
-    "Id": 25,
+    "Id": 26,
     "Name": "Ají de Gallina",
     "Category": "Hauptgericht",
     "Duration": "1 Stunde",
@@ -2690,7 +2788,7 @@
     ]
   },
   {
-    "Id": 26,
+    "Id": 27,
     "Name": "Saftige Lasagne",
     "Category": "Hauptgericht",
     "Duration": "2 Stunden",
@@ -2924,7 +3022,7 @@
     ]
   },
   {
-    "Id": 27,
+    "Id": 28,
     "Name": "Hühnerburger mit Kartoffelspalten",
     "Category": "Hauptgericht",
     "Duration": "90 Minuten",
@@ -3159,7 +3257,7 @@
     ]
   },
   {
-    "Id": 28,
+    "Id": 29,
     "Name": "Mousse au Chocolat",
     "Category": "Dessert",
     "Duration": "25 Stunden",
@@ -3248,7 +3346,7 @@
     ]
   },
   {
-    "Id": 29,
+    "Id": 30,
     "Name": "Tiramisu",
     "Category": "Dessert",
     "Duration": "6 Stunden",
@@ -3357,7 +3455,7 @@
     ]
   },
   {
-    "Id": 30,
+    "Id": 31,
     "Name": "Dunkles Schokoladeneis (1 Liter)",
     "Category": "Dessert",
     "Duration": "20 Stunden",
@@ -3441,7 +3539,7 @@
     ]
   },
   {
-    "Id": 31,
+    "Id": 32,
     "Name": "Mango-Joghurt-Eis (1 Liter)",
     "Category": "Dessert",
     "Duration": "20 Stunden",
@@ -3528,7 +3626,7 @@
     ]
   },
   {
-    "Id": 32,
+    "Id": 33,
     "Name": "Schoko-Soufflé",
     "Category": "Dessert",
     "Duration": "13 Stunden",
@@ -3621,7 +3719,7 @@
     ]
   },
   {
-    "Id": 33,
+    "Id": 34,
     "Name": "Baguette",
     "Category": "Backen",
     "Duration": "2,5 Stunden",
@@ -3706,7 +3804,7 @@
     ]
   },
   {
-    "Id": 34,
+    "Id": 35,
     "Name": "Knoblauch Kräuter Käsebrötchen",
     "Category": "Backen",
     "Duration": "16 Stunden",
@@ -3890,7 +3988,7 @@
     ]
   },
   {
-    "Id": 35,
+    "Id": 36,
     "Name": "Fladenbrot",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -4074,7 +4172,7 @@
     ]
   },
   {
-    "Id": 36,
+    "Id": 37,
     "Name": "Mediterrane Ciabattas",
     "Category": "Backen",
     "Duration": "17 Stunden",
@@ -4211,7 +4309,7 @@
     ]
   },
   {
-    "Id": 37,
+    "Id": 38,
     "Name": "24 Stunden Pizzateig",
     "Category": "Backen",
     "Duration": "24 Stunden",
@@ -4389,7 +4487,7 @@
     ]
   },
   {
-    "Id": 38,
+    "Id": 39,
     "Name": "Pizzateig mit Biga",
     "Category": "Backen",
     "Duration": "23 Stunden",
@@ -4578,7 +4676,7 @@
     ]
   },
   {
-    "Id": 39,
+    "Id": 40,
     "Name": "Pizzateig New York Style",
     "Category": "Backen",
     "Duration": "25 Stunden",
@@ -4726,7 +4824,7 @@
     ]
   },
   {
-    "Id": 40,
+    "Id": 41,
     "Name": "Russischer Zupfkuchen",
     "Category": "Backen",
     "Duration": "90 Minuten",
@@ -4863,7 +4961,7 @@
     ]
   },
   {
-    "Id": 41,
+    "Id": 42,
     "Name": "Zitronenschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -5046,7 +5144,7 @@
     ]
   },
   {
-    "Id": 42,
+    "Id": 43,
     "Name": "Mohnschnecken",
     "Category": "Backen",
     "Duration": "5 Stunden",
@@ -5235,7 +5333,7 @@
     ]
   },
   {
-    "Id": 43,
+    "Id": 44,
     "Name": "Brownie",
     "Category": "Backen",
     "Duration": "40 Minuten",
